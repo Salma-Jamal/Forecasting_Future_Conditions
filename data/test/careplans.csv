@@ -1,0 +1,959 @@
+Id,START,STOP,PATIENT,ENCOUNTER,CODE,DESCRIPTION,REASONCODE,REASONDESCRIPTION
+6b83bab0-fcdc-c5cd-3579-a6bd7d6e261b,1993-10-09,,b8eb8d31-1031-fb5b-e207-b9815f80744c,42dbe56f-5b30-38b3-5634-a9b1a0206e44,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+c9e6753e-0a44-1322-9156-ed0b7c6e720a,2012-03-01,2012-03-15,b72410e2-b90b-7073-473b-17dcdf2d55d3,ba829b58-0673-b8e1-aeb8-de51d5800b38,225358003,Wound care,370247008,Facial laceration
+b5ddf2d8-3ad1-34e5-d59c-f9885c5876fc,2013-03-02,2013-09-11,b72410e2-b90b-7073-473b-17dcdf2d55d3,198946b9-9516-bb66-f867-5125982ad0d4,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+cecbd4eb-72b5-f81c-564a-cfe765c9f0f5,2015-09-23,2016-05-04,b72410e2-b90b-7073-473b-17dcdf2d55d3,4fb50766-bfea-6142-c0a9-00f517c89e5f,134435003,Routine antenatal care,72892002,Normal pregnancy
+24e91eee-cf1c-3604-0226-ee26947fba39,2016-02-23,2016-03-29,b72410e2-b90b-7073-473b-17dcdf2d55d3,5f74b165-194c-845a-8a0d-3f77c192dede,91251008,Physical therapy procedure,44465007,Sprain of ankle
+8f42d3ce-a210-3b5f-eae3-f596cec90cb2,1935-06-21,,b6d9f9f6-b4b0-8b31-1827-dcc141011135,23edb1d3-e999-88f4-07c0-38b8ab4711db,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+129f32a8-4add-815d-30d3-a115f1708aee,1991-06-07,1992-05-08,b6d9f9f6-b4b0-8b31-1827-dcc141011135,be781a92-983b-b934-f8b9-67ee26e04b51,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+f124ab99-dcb2-6577-d593-3b407fd69e6c,1993-06-04,,c21ec67e-5b58-1689-ae45-2f943ac701e9,7fa653d9-1594-777d-f284-bb7b396152de,698360004,Diabetes self management plan,44054006,Diabetes
+49b19856-50e6-11c4-c303-cb2bb5180077,2002-05-24,,c21ec67e-5b58-1689-ae45-2f943ac701e9,2861fae6-1c9d-cb24-7264-24199a558632,412776001,Chronic obstructive pulmonary disease clinical management plan,185086009,Chronic obstructive bronchitis (disorder)
+65688365-f90b-eae8-7929-dcefb97a0a2c,1988-06-05,,f2a89854-062a-f8b2-7d28-ac0dc72dac53,40a3075c-2d53-6fd4-a200-4d6dccf4e72d,384758001,Self-care interventions (procedure),,
+da588962-57f1-3e12-7942-eeb14262e26b,1989-05-18,,f2a89854-062a-f8b2-7d28-ac0dc72dac53,447fa2f6-93d4-3681-eb24-0780a0327dc4,699728000,Asthma self management,233678006,Childhood asthma
+4bb6dffd-2c86-9e44-5659-e03d2265e41d,2005-07-05,,f2a89854-062a-f8b2-7d28-ac0dc72dac53,44f6986d-7582-a3fe-82bc-de3f2a595564,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+b8cdce69-1e12-7a94-8822-1b525a9635c4,2014-05-25,2014-06-15,f2a89854-062a-f8b2-7d28-ac0dc72dac53,19cd4dab-2530-41b4-f7de-5223faa26f35,408869004,Musculoskeletal care,39848009,Whiplash injury to neck
+236cad3b-e1d1-c345-ced1-e677db4050df,2015-06-10,2015-07-01,f2a89854-062a-f8b2-7d28-ac0dc72dac53,3cecf24c-6792-83b1-5439-788ae882d362,225358003,Wound care,284551006,Laceration of foot
+96235300-508e-bdb7-75f9-729d39253517,2016-02-27,,f2a89854-062a-f8b2-7d28-ac0dc72dac53,158c211f-07ec-1aea-b310-801785df52d9,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+64513f8e-74e3-3ea6-7b4c-4b792a1c5721,2012-04-08,2012-11-15,e372f90b-7be3-b19e-faaf-dc601db02102,61dc22ec-a0fd-9567-6ddc-add1a1e168da,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+ab9a6d83-8836-153e-937d-5442cb72a105,1979-01-04,,af7d5693-35b4-2ea1-fba8-fb43ca2551ed,2221602c-42c8-dcb5-dcd7-013f51560c3d,408869004,Musculoskeletal care,239873007,Osteoarthritis of knee
+963cb5c0-aed0-ea2e-5313-74f9209d4861,2014-10-03,2015-06-13,af7d5693-35b4-2ea1-fba8-fb43ca2551ed,4508279e-d12d-fd0f-3eb3-b1dac104f855,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+a2c80da5-63bd-f6f1-866a-b840eab9572a,2015-07-14,2016-06-18,af7d5693-35b4-2ea1-fba8-fb43ca2551ed,3ddc6ce3-7f23-e0c7-b5e1-2bc7760f6da6,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+cf10966c-a0ba-e348-567e-6e7f27491544,1972-04-14,,eead97be-db0d-bd5c-82ea-bb4e0b2b9370,c0e8258c-7a04-fe46-f88b-a1663119f468,698360004,Diabetes self management plan,15777000,Prediabetes
+a3c4769f-5f3e-bc3c-7540-dedaf9ec1493,2010-03-19,,eead97be-db0d-bd5c-82ea-bb4e0b2b9370,89e23694-531f-7b72-3ba3-964db3251f9e,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+bd4cb3c7-97bf-dfe1-8653-73970680982b,1970-06-05,,d56d7436-fd92-fdba-6581-095c8a398c55,9de73e17-2e1e-6f7c-6892-b8e522600332,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+67f5e07d-c13c-f35b-ee82-e8595512e181,1959-03-06,,bab6cc6d-87e0-51c6-b64b-e3cc02c0b86d,ada13a0d-a5f5-5d47-9bef-5ea1aaf4d61e,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+2dd79138-46e8-955f-3ac3-47c9e43b903e,1973-06-12,,c7542100-62c5-b736-9208-f0b9b2b6c6df,c17814bf-a306-a835-1043-973e3508f9ac,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+102ff019-9551-d1f6-7403-59a29a51aa19,1942-06-29,,c6f55546-d0f8-fea0-d392-6d5c6d648d3a,352c6166-e00a-0f5d-5b25-eaba84a50ebe,698360004,Diabetes self management plan,15777000,Prediabetes
+695b47d0-cd8e-c4a2-0def-2320f2a17b3e,1963-04-12,,c6f55546-d0f8-fea0-d392-6d5c6d648d3a,8d95cd57-16f1-1089-008a-2191e4b7016f,408869004,Musculoskeletal care,239872002,Osteoarthritis of hip
+70745092-5687-75cd-aa77-d2bb07b407b7,1982-08-09,,c6f55546-d0f8-fea0-d392-6d5c6d648d3a,3ce7c1ed-795a-e883-72f9-91ed025fe3cf,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+ca1e5824-9d31-ec45-c28d-50289d62cf22,1923-01-15,1923-11-30,f704507b-6f1a-2cd8-0e23-9ddacfa52339,1fd9ebf8-2f80-ee88-b4ad-cbceeead9982,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+78bf5047-bec8-fc1c-d68e-071d73e91149,1938-05-17,,f704507b-6f1a-2cd8-0e23-9ddacfa52339,184e2e67-cd34-f8fa-39e2-d47c30b3ab73,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+5fe8358b-c5c8-3ba5-a948-d00178a2c675,2008-07-30,,dba86559-f082-5905-b4d5-39124bebf19a,77479781-d170-6fe2-8cf7-cc3636f7f866,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+f4879543-1efe-0fb4-6677-75ed570b3f3e,2011-08-10,,dba86559-f082-5905-b4d5-39124bebf19a,372b2004-8984-05fd-eaaa-11b2307a407e,734163000,Care plan (record artifact),55680006,Drug overdose
+fbf90ea6-0ca4-0cb1-043a-a671d950dc9f,1940-02-26,,c0a724c9-5fec-c90c-b66a-af98aceb17f5,332a8d51-0ba0-ad41-6714-2d060805a3e0,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+08c2ee4e-3300-4db8-02e0-aace9fe2c81d,2004-06-21,,c0a724c9-5fec-c90c-b66a-af98aceb17f5,04ee8f1c-3d3d-5cef-7394-91b7150d0f0f,386257007,Demential management,26929004,Alzheimer's disease (disorder)
+915cc22f-66ee-6233-b76d-268f9d842860,1940-02-26,,f44d07af-428a-5392-17b0-1ed193345169,fd8824f6-c9a1-5074-e5ce-ddeae0aacaae,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+5eef8b0e-f5d3-afd9-a00f-4b42d770cc26,1945-03-26,,f44d07af-428a-5392-17b0-1ed193345169,0c764f23-e956-75a8-bda1-211520a5a4eb,412776001,Chronic obstructive pulmonary disease clinical management plan,87433001,Pulmonary emphysema (disorder)
+91a71669-c1ed-5e1b-4cec-afe56be69d96,1968-08-05,,f44d07af-428a-5392-17b0-1ed193345169,153b8722-accc-ebde-29e1-a7ead6006701,698360004,Diabetes self management plan,15777000,Prediabetes
+8f28938d-ea34-a09a-9bd4-fb76dedf1df7,2007-02-08,,f120d30e-529e-2936-cfd6-b8a7207a0c25,67b809cc-d9c7-e42f-0870-9626fdbbac8b,698360004,Diabetes self management plan,15777000,Prediabetes
+87acd68a-aeeb-8570-a0ad-6c3ae072c118,2012-05-31,2012-06-07,f120d30e-529e-2936-cfd6-b8a7207a0c25,84fbf952-d795-f14f-70be-06eac6d9890d,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+379c95cc-4e99-9ee5-ccba-ac3338eea411,2014-02-16,2014-02-23,f120d30e-529e-2936-cfd6-b8a7207a0c25,d0b76852-98bb-fba1-f488-4fcefcb6f006,869761000000107,Urinary tract infection care,301011002,Escherichia coli urinary tract infection
+82496153-19f4-4728-deb0-ad659372977f,2015-05-25,2016-02-11,f120d30e-529e-2936-cfd6-b8a7207a0c25,ece68e8a-1bf4-d044-37e9-40d13ccad2a0,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+ccb21716-d556-7978-4a8d-6c4bcaea506d,1961-08-10,1961-08-24,c2f24641-c827-b7d6-f43b-670cd2e9805d,09582fa2-e6a7-7532-ad44-2f81afc52fcf,225358003,Wound care,370247008,Facial laceration
+ef97c5a2-ab71-b7ea-60fd-2ec2a6e76545,1962-01-01,1962-08-06,c2f24641-c827-b7d6-f43b-670cd2e9805d,05d3b4d1-22cf-d472-616d-27ce86a5be02,134435003,Routine antenatal care,72892002,Normal pregnancy
+38861783-1aea-f060-c844-4851115d441a,1964-11-23,1965-07-05,c2f24641-c827-b7d6-f43b-670cd2e9805d,770c634d-d165-d5ed-a779-058d85a9c3a8,134435003,Routine antenatal care,72892002,Normal pregnancy
+aca81ad2-6a6a-8aa5-c0f8-ea00424eb690,1965-01-04,,c2f24641-c827-b7d6-f43b-670cd2e9805d,11d498cb-4df4-8d37-6ec7-e418d2e14aa3,698360004,Diabetes self management plan,15777000,Prediabetes
+65ad7959-d376-749b-a44c-0d624e784993,1973-05-08,,ea3a859d-a605-a7dd-5a49-6da98c14b5be,de89b8bc-701c-a7d0-b6fc-fcd473177b11,384758001,Self-care interventions (procedure),,
+520d0b15-f5e6-6e33-0188-8634ff464988,1985-01-04,1985-02-03,ea3a859d-a605-a7dd-5a49-6da98c14b5be,c730d4a1-609b-eafb-acda-2f42f6b47e00,47387005,Head injury rehabilitation,62106007,Concussion with no loss of consciousness
+3aaf655f-7e20-63b5-b20f-42be84bd8df7,1985-12-30,1986-02-28,ea3a859d-a605-a7dd-5a49-6da98c14b5be,4e6aa85a-9f63-de4c-988e-43a4ae5694e6,47387005,Head injury rehabilitation,62106007,Concussion with no loss of consciousness
+6111062c-d625-1a90-f12d-01e89ffe7f61,1986-08-28,,ea3a859d-a605-a7dd-5a49-6da98c14b5be,5ec8f76b-16b8-db42-729d-0394e5ba1d94,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+973bcad3-f366-6b28-30dd-2e5f71bfb774,2011-06-23,2012-04-12,897119be-c30d-db5c-65c6-8c7acacf2aab,2a2e2b8d-470f-74c8-c94b-1976ad7ad734,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+0dfae51b-0d67-e937-de86-d995c9f6d08e,2013-02-11,2013-03-04,897119be-c30d-db5c-65c6-8c7acacf2aab,64cf59ac-7476-6219-f6bf-72dd7ff4bfd4,91251008,Physical therapy procedure,70704007,Sprain of wrist
+e58714a4-5a88-096f-563f-95316ddea55e,2013-04-24,2013-05-01,897119be-c30d-db5c-65c6-8c7acacf2aab,92943521-21d9-886d-856c-c3551a292d2c,869761000000107,Urinary tract infection care,38822007,Cystitis
+a91310bd-c326-caf5-de6f-7c169dc41521,1997-03-20,,e2325016-2063-a85f-0015-29d3ae7b7c5e,2c078ab9-061d-6a82-98fd-f4c32005c1a4,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+0febc1b6-fb97-2c77-ba99-9c01bc2d1b6d,1989-03-19,,705e1802-d953-5c6b-956a-59207a513569,491fdb3f-b7e5-097b-17c9-d21a47d1e375,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+cb344556-cea1-2ded-028f-6865c7e42838,2012-08-05,,705e1802-d953-5c6b-956a-59207a513569,289d25cd-41e4-c293-8e82-ade1605d67ee,698360004,Diabetes self management plan,15777000,Prediabetes
+618e27e2-f493-974d-3fc8-2c440091d8a3,1991-11-05,,bb7a0790-0ce3-0f77-6a98-306693899293,1b127d4c-7a3d-b04f-d31d-c50282eb58d3,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+e0518ba7-b2ce-c697-60b8-08fa5360dc48,1995-01-05,,bb7a0790-0ce3-0f77-6a98-306693899293,8f6a8d5d-4f51-d470-866e-0f0a9bae563d,734163000,Care plan (record artifact),55680006,Drug overdose
+28a16d58-1992-2728-481a-dca5ec17f3f5,1987-11-12,,e60dcccc-143d-b77b-f1a4-a6ea9f7ca7ab,0a5d8223-d9af-5d51-4d68-8e4ceb57190f,698360004,Diabetes self management plan,15777000,Prediabetes
+b9dcf17a-8a22-ae48-84cd-95e630548d84,1998-05-03,,e60dcccc-143d-b77b-f1a4-a6ea9f7ca7ab,ad6c2bcb-c825-b467-1cfb-192352137a69,182964004,Terminal care,424132000,Non-small cell carcinoma of lung  TNM stage 1 (disorder)
+445ace8e-7a6c-614b-678c-edb268024f3e,2002-03-31,,de66e7c6-8be3-7d9f-e64e-e3403ac78033,641ff4e2-9f40-29e4-b63c-96fa28ea6cf4,384758001,Self-care interventions (procedure),,
+cc3a4091-58e2-ff84-50c8-2098f64d0d34,2011-11-09,2011-12-14,de66e7c6-8be3-7d9f-e64e-e3403ac78033,46ae1396-6bc6-962b-9212-2628fabf6243,91251008,Physical therapy procedure,44465007,Sprain of ankle
+bbd06d57-66e3-aa93-c982-3fca7fbbfe38,2014-09-07,,de66e7c6-8be3-7d9f-e64e-e3403ac78033,533bfda3-c216-1a5e-7904-426da968aae7,170836005,Allergic disorder monitoring,,
+e4f50655-caec-73be-7724-77df0c832cd6,2015-08-28,2015-10-04,de66e7c6-8be3-7d9f-e64e-e3403ac78033,432d928b-7e95-34d1-dbaa-0c04e5f0e194,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+50ce7667-fd71-8363-1e70-39b99c92d95f,1995-12-31,,d624f441-2bcb-b258-6dd0-4b0f5cab367c,48f6e165-9495-9781-9d17-04967fe95d91,711282006,Skin condition care,24079001,Atopic dermatitis
+d02e7d51-e42a-d9b7-7b62-b35557624f61,1996-11-21,,d624f441-2bcb-b258-6dd0-4b0f5cab367c,1171a4e2-77f6-9a5e-570c-61dbcc1d7cf2,384758001,Self-care interventions (procedure),,
+a02a100d-7831-4e7c-c122-cb500d8cd663,2008-07-31,2012-02-04,d624f441-2bcb-b258-6dd0-4b0f5cab367c,54587e10-d3f0-8373-b29c-5d856493ec8c,170836005,Allergic disorder monitoring,,
+6edde2dc-2fb8-36b3-6403-37b2e30dac5e,2012-11-22,2013-07-11,d624f441-2bcb-b258-6dd0-4b0f5cab367c,15eeb45f-9ed3-0701-90e9-77adb33ad90d,134435003,Routine antenatal care,72892002,Normal pregnancy
+8b922314-b7bb-6564-9d8c-6099c4377a24,2014-08-18,2014-08-25,d624f441-2bcb-b258-6dd0-4b0f5cab367c,887b5ecf-6282-9245-3682-c4c20b18d866,869761000000107,Urinary tract infection care,38822007,Cystitis
+663c2157-1c35-c8ef-5fa9-e044abb2c08a,1997-11-30,,b893ab22-978a-7fab-5475-8d209b29e988,f6e86a40-c0ed-c441-3898-1168effd3e23,698360004,Diabetes self management plan,15777000,Prediabetes
+c1fe6a70-69d6-1512-d918-c0f72d1b9cf6,1962-07-31,,d84ad957-904f-e440-6aec-201073c2dd17,33c3c7f7-a1a8-a799-d186-12ff1d7aded2,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+614584b1-9c6e-6955-39a6-59d0d195283e,2015-11-03,,d84ad957-904f-e440-6aec-201073c2dd17,cdddbfe1-d68a-a80a-961e-d5495ed1c60c,395082007,Cancer care plan,363406005,Malignant tumor of colon
+801fb6cd-a2fd-e5f9-70c6-176cbfd73484,2015-11-10,2015-11-30,d84ad957-904f-e440-6aec-201073c2dd17,590bb5e4-1fd8-7ac6-f685-3d412a781dd5,781831000000109,Major surgery care management,363406005,Malignant tumor of colon
+4df759d8-d27f-ad3e-3e97-fe4b09aeb133,1991-01-01,,e9030db0-d784-d891-966b-2a5cdbeb3669,959bab62-f6e4-2866-8d4d-de776268601e,384758001,Self-care interventions (procedure),,
+040b4134-a6c7-f133-9a2e-35b3f3f8d387,2008-08-04,,e9030db0-d784-d891-966b-2a5cdbeb3669,61ede9a9-323e-d331-60f4-708aa9b8ce46,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+a2fd2f3c-b24d-d340-d434-7e383b62b61f,1966-08-26,1967-03-24,fb6b9524-d4c6-9969-68bc-35f0246339d1,f89f51fc-dce4-217d-cff7-225b3fe49f43,134435003,Routine antenatal care,72892002,Normal pregnancy
+bbef29dd-ed8a-404e-7f5b-c01e8ec845f2,1969-04-20,,fb6b9524-d4c6-9969-68bc-35f0246339d1,f510262f-10de-4560-c516-28a7a98de16b,408869004,Musculoskeletal care,201834006,Localized  primary osteoarthritis of the hand
+270d593d-eebd-c995-7da6-3f650253cbfd,1970-06-19,1971-01-22,fb6b9524-d4c6-9969-68bc-35f0246339d1,c6e871be-c0c8-84bb-a4d0-352910c11097,134435003,Routine antenatal care,72892002,Normal pregnancy
+2c7d0127-0a5b-f5c2-f3ba-2c99dedf1760,1957-05-22,1957-06-12,f1792e8b-3270-ff2d-7ded-18aa6006bd89,1d77ab26-1299-0091-939e-16096e463f85,408869004,Musculoskeletal care,39848009,Whiplash injury to neck
+9ff9d0d3-0c52-d527-5b98-d63a3ee31b01,1961-04-16,,f1792e8b-3270-ff2d-7ded-18aa6006bd89,82694b6f-6b44-dc61-a1e5-c95a1d490313,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+e343bc72-d19f-567a-de9a-54f0289aac84,1969-02-14,,f1792e8b-3270-ff2d-7ded-18aa6006bd89,4138d678-4fc1-51f3-0474-4fa37c0787ec,408869004,Musculoskeletal care,69896004,Rheumatoid arthritis
+bb4d425e-c0cf-4592-8176-ac0c038733c0,2003-12-14,,f1792e8b-3270-ff2d-7ded-18aa6006bd89,5c8f7513-eae7-74d9-6cb2-ec0a57a00458,412776001,Chronic obstructive pulmonary disease clinical management plan,185086009,Chronic obstructive bronchitis (disorder)
+ec9726ed-a94a-b039-cbae-521d65580478,2012-03-09,2013-02-03,f1792e8b-3270-ff2d-7ded-18aa6006bd89,df787eae-6015-dbab-221c-fd632f3e189c,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+14ba7499-aeeb-16d8-98f9-6fa64622ff9f,1933-06-05,,f75f3740-09ad-00aa-ac43-806c2e8eba27,e14ce821-4ed4-9f40-5f1e-5f2d980504e3,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+b3d6af7d-6d0f-ef05-769c-71392df18939,2007-10-11,2007-10-25,f75f3740-09ad-00aa-ac43-806c2e8eba27,4cb50e46-0514-0c07-a3d7-215c1e53e1d0,91251008,Physical therapy procedure,44465007,Sprain of ankle
+ba39e227-2263-87dc-36f7-d27b8e905842,2009-09-14,2009-10-14,f75f3740-09ad-00aa-ac43-806c2e8eba27,00e5e777-e22e-b24b-4089-c92604ed9a35,385691007,Fracture care,65966004,Fracture of forearm
+d037ad18-5bc7-69af-78bf-4152a64c9808,2010-10-23,,f75f3740-09ad-00aa-ac43-806c2e8eba27,75a7e477-941f-9b95-eb08-5d997381ebe8,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+9dc601b2-6d7a-9ccc-33ab-c6512d7031c0,1932-07-14,,fe056a48-5cd5-62d4-4320-b33ec62b9fdf,8a2c3099-c5df-90d0-b50b-4bb12a2f07e5,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+93ca8362-0f70-fdb2-95d1-1085a94140a3,1951-11-01,,fe056a48-5cd5-62d4-4320-b33ec62b9fdf,473696f4-92fe-4662-0d72-f611470d8520,698360004,Diabetes self management plan,44054006,Diabetes
+4c46345a-8892-e35a-e369-316ccbf05a0b,1969-02-27,,fe056a48-5cd5-62d4-4320-b33ec62b9fdf,1f2369a0-4269-3ab1-aafc-df3ab72b8858,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+68a1c5a6-7d47-c161-ebaa-09dac021e46a,1976-12-02,,fe056a48-5cd5-62d4-4320-b33ec62b9fdf,bdd1da94-8a49-952f-c85f-32a861b86f92,386257007,Demential management,230265002,Familial Alzheimer's disease of early onset (disorder)
+67d10d36-d74f-da3f-5827-3bc6e99a3ebd,2007-02-11,2007-02-25,96c37964-5195-9fa2-ddfb-9071bef81a97,df649837-1f47-3011-2527-2076b1023bdf,91251008,Physical therapy procedure,70704007,Sprain of wrist
+de9ac753-4d4a-80ed-8634-d6fd19b501b1,2010-10-07,2010-11-11,96c37964-5195-9fa2-ddfb-9071bef81a97,65774fd1-7913-f58b-c4b7-30169debeaeb,91251008,Physical therapy procedure,44465007,Sprain of ankle
+37530fc8-67f0-ad2e-c248-27195ed9afe3,2011-09-07,2011-11-06,96c37964-5195-9fa2-ddfb-9071bef81a97,993512f9-fb6a-0c94-1362-6883030a06e9,47387005,Head injury rehabilitation,62106007,Concussion with no loss of consciousness
+5c84ac25-f451-1dc6-8b59-df2baa7323ce,1983-12-13,,f240a4e8-553a-08fd-dff1-c83dadabe24a,11426bac-8ffd-4547-8e1c-d6c7653f3996,384758001,Self-care interventions (procedure),,
+91e32511-7050-7659-f6c3-1a7be54a3f32,2000-10-14,,f240a4e8-553a-08fd-dff1-c83dadabe24a,0ceb0628-ea8d-7299-0f6b-91bcdafd4619,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+248adb36-3055-3c18-0719-89885b677996,1961-11-19,,b2963bd1-faa1-682e-ef97-3b2effa0a22f,35e377a1-05d1-3452-1730-66856fc96e96,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+eeaed678-8765-a04f-3507-e929821b1d00,1996-06-02,,b2963bd1-faa1-682e-ef97-3b2effa0a22f,94b47799-bc72-eb0d-c55b-b53062b53c4e,698360004,Diabetes self management plan,15777000,Prediabetes
+cedca7e8-b8e4-5fd2-56f8-37e501a78952,2011-03-12,2011-10-22,f711c5b9-f7f9-a4ad-dfdc-5b04c5bfee4d,e9d5d228-054f-b238-d0c6-3d20b6aa1aee,134435003,Routine antenatal care,72892002,Normal pregnancy
+419df51b-e1fa-39bc-8cb2-142f797eb20e,2012-07-21,2013-03-02,f711c5b9-f7f9-a4ad-dfdc-5b04c5bfee4d,a46f303d-80b8-4c48-78ab-73f3b0047015,134435003,Routine antenatal care,72892002,Normal pregnancy
+266a4ed8-8dc1-6e9b-e510-b2079f22e0c1,2014-05-10,2014-12-13,f711c5b9-f7f9-a4ad-dfdc-5b04c5bfee4d,a836c3fd-62ff-2dad-bb71-370768ca438a,134435003,Routine antenatal care,72892002,Normal pregnancy
+bfaa57fd-20a4-36b4-8f6e-0ec863ec21eb,1959-03-22,,d6842ffc-92bb-8c2c-59ea-336db5ec16e5,317fa93a-db49-dedf-546b-76efc66aceff,412776001,Chronic obstructive pulmonary disease clinical management plan,87433001,Pulmonary emphysema (disorder)
+cd21c1f1-56fc-2376-55b0-eab8bf48bf6d,1961-09-24,,d6842ffc-92bb-8c2c-59ea-336db5ec16e5,aa569512-4f8c-223b-64ed-87361dadc93a,698360004,Diabetes self management plan,15777000,Prediabetes
+efaa4fee-e30a-c5a5-b880-c2298d908a40,1973-06-05,1973-09-03,d6842ffc-92bb-8c2c-59ea-336db5ec16e5,10e77ba5-010c-7895-3f55-bf31e88804fc,385691007,Fracture care,58150001,Fracture of clavicle
+1e2759fd-db01-9ceb-2361-18bdf2bbf6bf,1959-07-07,,d9aa58d1-cb02-24c1-30bf-26713a1d206e,d889a2ab-0f9b-ae6f-0b89-31954eb343ae,734163000,Care Plan,449868002,Smokes tobacco daily
+d9696ae8-a0d9-d054-2217-a11244920ba7,1967-05-02,,d9aa58d1-cb02-24c1-30bf-26713a1d206e,1009b9c7-80a3-4413-c8c0-37767b058b90,698360004,Diabetes self management plan,15777000,Prediabetes
+feabfd1a-500a-6b97-f638-8f3794f881ae,1982-01-04,1982-02-10,d9aa58d1-cb02-24c1-30bf-26713a1d206e,913615f1-f1f2-19fa-fa4c-cdc6538ab2e3,91251008,Physical therapy procedure,444470001,Injury of anterior cruciate ligament
+8b8ed393-e21f-67c2-467c-58d293393187,1982-04-29,1982-05-06,d9aa58d1-cb02-24c1-30bf-26713a1d206e,a1f9e3dc-0f09-b0b9-3a9c-0f123069a7ce,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+ff1f448a-69c7-940a-26e3-7821b1e25f70,2001-09-22,,e014fa62-cfc7-20ea-3c7d-fb0e39054d8f,fd68d0c7-1c94-d476-a5c1-2b504a805489,734163000,Care plan (record artifact),55680006,Drug overdose
+0e716072-243a-0c18-125c-1f0ac11b294a,1938-04-06,,cd72039d-f8c3-6fb1-896f-1a16016191ab,09cd34a1-49e0-1cb9-f04f-1d45deb21ed2,736254008,Psychiatry care plan,47505003,Posttraumatic stress disorder
+77da3b93-66f7-6854-c214-788bf162ec0b,1954-04-18,,cd72039d-f8c3-6fb1-896f-1a16016191ab,fead098c-3376-cd0b-f19e-e5a3ca08d995,734163000,Care Plan,,
+39e35f5f-2dd1-66b6-7b1e-7f334985f0b8,1954-05-09,,cd72039d-f8c3-6fb1-896f-1a16016191ab,8ae91165-a069-f8c4-6a08-9d7c412d2b76,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+b37b9ea4-758a-6f45-f3e7-03385c05360e,1968-05-05,,cd72039d-f8c3-6fb1-896f-1a16016191ab,f0f60521-8c2c-7649-cb64-da9b18476757,698360004,Diabetes self management plan,15777000,Prediabetes
+d6e2d1e9-25a2-a6c9-eac0-e9345b1ac8a2,1974-06-09,,cd72039d-f8c3-6fb1-896f-1a16016191ab,b5610dfc-a1c3-4b06-cd51-98c2bb14026a,736252007,Cancer care plan,126906006,Neoplasm of prostate
+abce768d-1085-f890-e869-1a597271c099,1962-02-15,,9657a386-9cae-a682-354e-7fb613275756,d733544f-6298-e7c2-3d4b-2edb55367830,698360004,Diabetes self management plan,15777000,Prediabetes
+dfe23799-1f66-a7b8-9be6-724de83aa4d7,1997-08-21,,9657a386-9cae-a682-354e-7fb613275756,5d5bfb7d-115f-04e5-a7d8-e0febbe96aba,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+a33eea30-d386-7444-5507-7c0aa2bbfb20,2011-05-19,2011-08-17,9657a386-9cae-a682-354e-7fb613275756,ca0b0cd3-15f4-ff27-eb88-b6671b8d140a,385691007,Fracture care,65966004,Fracture of forearm
+7ed9a2c3-a012-cd3a-5386-9fffa47b37cf,2014-08-31,2014-09-30,9657a386-9cae-a682-354e-7fb613275756,a18b6da8-8648-b7f5-ad2a-71c6cda3b199,385691007,Fracture care,65966004,Fracture of forearm
+073120dd-4d7d-f337-3659-0c25e0887da1,1995-10-07,,f1596a37-d2d8-7b35-44c6-6ae60ee0c1a0,2a90e068-04de-fb1a-8837-fb585aa92973,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+edc47006-7aea-a81f-6133-5608ae99115b,1945-06-24,,d9245904-7128-3bd6-5257-a0a379cf4cbf,a0b1783d-baf0-4691-8191-77ad7298b8e1,698360004,Diabetes self management plan,15777000,Prediabetes
+cc01652f-1be8-a339-bf16-3f5e951bb151,1984-06-05,1984-08-05,d9245904-7128-3bd6-5257-a0a379cf4cbf,a504cd4c-cd29-5ef3-04bb-02cfd1d33a4a,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+0a1de00e-b490-2d1f-201f-fae9e46cf2cc,2011-05-30,2012-01-02,5e50a0ae-376f-021b-a3b8-8442891028fb,518cf4a4-2b27-dfa6-f8aa-67518fa23d9f,134435003,Routine antenatal care,72892002,Normal pregnancy
+cdf567b7-0c4d-e016-4f78-febb109c1557,1998-06-22,,fd605c9e-acc4-a1d9-43d2-956b5195b697,36554955-e3f3-040e-b245-56cd452524f9,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+049c4d99-5522-ad25-e157-0d6fa5030791,2013-03-09,2013-04-08,fd605c9e-acc4-a1d9-43d2-956b5195b697,f62ffe39-5bae-a92c-1b87-319bdfa04050,385691007,Fracture care,359817006,Closed fracture of hip
+5bc9ee58-99aa-b960-1427-b5efb9bc5651,1936-10-29,,9e099349-022e-8f09-62f8-e98487b9a6b9,92d69557-7b68-0bfe-d229-32264b667191,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+52242c44-fe4f-1571-8d17-c2f2afae9f35,1939-11-16,,9e099349-022e-8f09-62f8-e98487b9a6b9,274a2108-0e2f-1009-0368-f47b7e6df9e0,698360004,Diabetes self management plan,15777000,Prediabetes
+e036270c-90bf-b80b-4af6-f40f188f3f28,1980-06-27,,9e099349-022e-8f09-62f8-e98487b9a6b9,9f00b558-d7b9-429e-ac04-67e96eb5a42a,736252007,Cancer care plan,126906006,Neoplasm of prostate
+23924176-4612-c4af-3ced-e95d50261aa5,1991-07-11,1991-08-10,9e099349-022e-8f09-62f8-e98487b9a6b9,c3eeffc0-72ce-7019-52c4-54d98d143d63,385691007,Fracture care,16114001,Fracture of ankle
+0ad24e36-b963-4a52-d819-125c7795c274,1921-05-11,,f1650e94-caa9-dfef-f5b8-83823d0f655a,09b86619-ec7a-41db-98ca-218ba6762490,384758001,Self-care interventions (procedure),,
+20c00fb2-6294-4e43-9ac4-cb29457a18f3,1922-04-18,,f1650e94-caa9-dfef-f5b8-83823d0f655a,582959cc-a5f0-0fd2-4ef0-3e7057b6ddcf,699728000,Asthma self management,233678006,Childhood asthma
+115fe281-222f-64d6-1e01-0c154d2d1f9b,1959-04-02,,f1650e94-caa9-dfef-f5b8-83823d0f655a,6926ffbc-9336-7010-e939-3614c474bd42,408869004,Musculoskeletal care,239873007,Osteoarthritis of knee
+e9fa1de8-c9cd-63ec-b8c9-9c93e3967d66,1965-12-10,,f1650e94-caa9-dfef-f5b8-83823d0f655a,ddb52b00-9545-562a-f2c1-8dd73cc29756,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+d1266c63-5533-aff4-5447-a881390b01f9,1979-08-21,1979-09-20,f1650e94-caa9-dfef-f5b8-83823d0f655a,d2b24967-7b9b-7962-284c-09a55f72dc9f,47387005,Head injury rehabilitation,62106007,Concussion with no loss of consciousness
+473f36df-d027-13ea-9c8b-7a4b0d4f6a7b,1983-02-25,,f1650e94-caa9-dfef-f5b8-83823d0f655a,76013413-68b1-179a-ec38-d32f30c4ee8c,736252007,Cancer care plan,126906006,Neoplasm of prostate
+8ba9f76f-7934-79f1-7540-505264b407e5,1939-04-29,,dedd5667-b0fe-bf46-2c2a-2dc7f07e57b5,fb3102c9-e1ec-190d-a14e-fc6ca3906444,384758001,Self-care interventions (procedure),,
+7638895e-9565-5610-de71-caa03dd9ec16,1993-09-17,1996-03-12,dedd5667-b0fe-bf46-2c2a-2dc7f07e57b5,872ec476-60f6-97ba-4450-85e429992001,408869004,Musculoskeletal care,239873007,Osteoarthritis of knee
+b0674cd9-f583-fae6-2579-ab3fcd5fefd0,1997-03-07,1997-04-04,dedd5667-b0fe-bf46-2c2a-2dc7f07e57b5,9380c1a1-808e-f680-d943-54aa05bcdc46,133901003,Burn care,403190006,First degree burn
+bed1fc20-fb99-2c79-34f8-ee435cfc34ee,2009-05-26,,d45da074-f833-0ec0-ba66-53a079aae69d,18d2bab8-9d4f-3aa9-a0b0-1232420748f7,408869004,Musculoskeletal care,95417003,Primary fibromyalgia syndrome
+91410668-26e1-f642-489b-ea9cf8ac2c63,1933-12-03,,cf8bbb0b-d263-9c01-d3ff-d35b12c58d3d,d38c3373-0953-6a5f-30a8-b80a2c348736,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+274aadab-533e-f774-5851-6fef0057531e,1941-10-10,,cf8bbb0b-d263-9c01-d3ff-d35b12c58d3d,fe01a89a-029e-3244-4c58-ee80e9b6a4b6,699728000,Asthma self management,195967001,Asthma
+ba0a30b6-2e62-84ee-37e4-ea1e73e38d26,1978-09-03,,cf8bbb0b-d263-9c01-d3ff-d35b12c58d3d,220a64dc-2479-a896-8da1-1e94e9140778,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+e1bb057a-40d7-380b-5c4f-11114f58aecc,2012-03-15,2012-03-29,cf8bbb0b-d263-9c01-d3ff-d35b12c58d3d,237cb820-f7a6-50d6-c8dd-773e745f54fe,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+79b31b7e-bc59-c85f-a309-9a117d8a969d,1954-06-05,,fc70cd8d-174c-3289-390a-77f517025fea,6c6924a9-cb94-fe95-e450-b7823449aea0,698360004,Diabetes self management plan,15777000,Prediabetes
+bdf87577-6d2f-9175-4707-42e1dd16e08c,1974-05-04,,fc70cd8d-174c-3289-390a-77f517025fea,fa7f9f40-cab2-6da6-e816-108253217e0b,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+dfe388c9-ca2c-a84a-e62b-07ccc7922541,2013-09-18,2013-12-17,fc70cd8d-174c-3289-390a-77f517025fea,216a95c7-3f94-ce80-ce28-64095c0728df,385691007,Fracture care,16114001,Fracture of ankle
+77c6d50e-236f-7f0d-61b1-c9811c024a51,1918-05-31,,e791826c-265f-f003-9892-0ab7e34f0ab5,afd10e82-d124-5d61-9d2e-64e66cd9644f,384758001,Self-care interventions (procedure),,
+b9f0bb08-9828-e0e5-8b57-2df07d84b329,1935-10-28,,e791826c-265f-f003-9892-0ab7e34f0ab5,00f05f8d-8831-8a60-b415-5d42a4326c0b,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+002b8eb9-b1e2-12c0-20e8-c50115f486a4,1946-08-27,,e791826c-265f-f003-9892-0ab7e34f0ab5,0d0ec01e-a313-dc7f-93d2-d8fd1cca0733,736254008,Psychiatry care plan,47505003,Posttraumatic stress disorder
+892a6685-f1e5-6705-78bd-6f8f6db1576a,1964-04-06,,e791826c-265f-f003-9892-0ab7e34f0ab5,a1449c0e-d100-8a2a-28f8-56a142036f8f,698360004,Diabetes self management plan,15777000,Prediabetes
+c755f92b-1e97-da1b-b0e3-e5bce2cfeea9,1966-05-09,,e791826c-265f-f003-9892-0ab7e34f0ab5,e6dec51f-1e58-ed82-a968-cb306f57be07,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+07c8d754-4083-6877-ef8a-3c548bd97e70,1971-05-17,,e791826c-265f-f003-9892-0ab7e34f0ab5,9e61cfd5-35f7-dd34-6449-4a4da3fc788e,734163000,Care Plan,,
+38a2d94f-bc92-b7a9-3417-f10116f5d079,1992-09-14,,e791826c-265f-f003-9892-0ab7e34f0ab5,e91f26c2-a946-4c4c-1894-8c1647a084f9,386257007,Demential management,26929004,Alzheimer's disease (disorder)
+d79869fd-2f25-b61d-e9a2-cb5c5e14c42d,1975-06-27,1975-07-25,8941427e-b94e-a868-c5f2-a31f16d25583,9005163d-69f4-aaa7-6c4b-557c54ec6609,408869004,Musculoskeletal care,39848009,Whiplash injury to neck
+33e8d51b-a819-6fd6-d93a-dce3e24f11a5,2009-07-13,,8941427e-b94e-a868-c5f2-a31f16d25583,4f52e959-2c77-90fa-0b80-874a007b22cb,408869004,Musculoskeletal care,239873007,Osteoarthritis of knee
+70538c92-2a4b-910c-5f90-70442dd70e99,1953-08-25,,ea427b11-945c-80a5-140e-787542afb0b1,67efa320-67f3-0a9f-6005-78276d6593b0,408869004,Musculoskeletal care,239873007,Osteoarthritis of knee
+d9eeb6e9-6ff6-10b3-6a36-bc78ceb1066c,1988-01-18,,ea427b11-945c-80a5-140e-787542afb0b1,ace4c9e7-55ea-0c3e-a874-46736fffa867,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+03abf0eb-9b2a-8fe9-ba04-8de5d6166d8d,1921-08-26,1921-09-02,dd8edf4e-9105-b97c-9d13-dae8e3ada523,a2b8582f-0139-2b64-33c4-b8aa5828c6df,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+88b8bc53-9f55-034d-b8c3-40fcf9d91152,1945-08-29,1946-06-21,dd8edf4e-9105-b97c-9d13-dae8e3ada523,0dfc248f-cfed-7ff3-d9e4-be8c173a0d61,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+18d373be-74df-b868-f571-dcd6cf01a5e0,1965-04-04,,f03859cd-862f-ee85-b4d4-e7fd8712e515,b1ee2f9d-c9c9-78e7-e597-75ddc003a9e1,698360004,Diabetes self management plan,15777000,Prediabetes
+b2450a92-e0dc-6f82-509e-addf3d0aab8f,2003-03-23,,f03859cd-862f-ee85-b4d4-e7fd8712e515,b8b7af37-20d5-6f17-03f5-00c437d7187f,734163000,Care plan (record artifact),55680006,Drug overdose
+1bc1f415-ee9d-8a79-006b-c6ade9a4855f,2016-04-26,2016-05-26,f03859cd-862f-ee85-b4d4-e7fd8712e515,f06abede-9917-efa0-6979-f7559c010ef2,385691007,Fracture care,263102004,Fracture subluxation of wrist
+6a538593-9290-0430-8a67-d5e71ba7d0b2,1987-11-04,,d765e4cc-c7ee-ea5e-13b3-bdb028718f85,f18d92aa-0b1e-be4c-4b17-67b5ddb8e7f6,698360004,Diabetes self management plan,15777000,Prediabetes
+fd2ee4ac-7494-a02c-7b00-93dd8ef71be1,1998-04-23,,d765e4cc-c7ee-ea5e-13b3-bdb028718f85,ed195aa6-e5b8-3cc6-d12a-4c03ae8113c5,734163000,Care plan (record artifact),55680006,Drug overdose
+686880a5-f148-d857-996c-a7452ccd0821,2012-06-19,2013-03-27,d765e4cc-c7ee-ea5e-13b3-bdb028718f85,ec0bc153-3e29-9b2c-b2f1-226130a8e86a,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+9fabdf3d-7db8-5ac6-1ff4-29dcf96aee76,2014-04-05,2014-05-12,d765e4cc-c7ee-ea5e-13b3-bdb028718f85,ac929732-058c-d792-48a1-93c7882d9901,91251008,Physical therapy procedure,444448004,Injury of medial collateral ligament of knee
+95b35d71-ac63-6fa5-9cb7-1ad07a484382,1935-10-02,1936-08-31,bad87386-b5f6-c602-8556-2b9f62a390c7,4c7b330c-b662-bbb7-43c6-1ef357f98896,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+858c7352-76f7-a6d4-71c2-bf852c887ca1,1946-01-12,1946-10-28,bad87386-b5f6-c602-8556-2b9f62a390c7,17de58e7-8627-ea83-f911-2c40acf541c8,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+27fcb011-29f8-4e02-b3d5-26ee2d2a4aec,1964-05-28,1965-12-06,bad87386-b5f6-c602-8556-2b9f62a390c7,c159cc97-6e76-241e-f6ee-dbd61671e872,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+2b90bf4c-abf4-2839-82e4-5f1c2526a89c,1975-04-20,1975-10-06,bad87386-b5f6-c602-8556-2b9f62a390c7,301fd3e7-d7ed-8436-4031-b0591e6dc144,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+ce110057-8244-d614-b41a-fd05ee959e3b,1983-10-03,,bad87386-b5f6-c602-8556-2b9f62a390c7,3f22e61d-f531-3bf1-54b1-dcf9e593502a,698360004,Diabetes self management plan,15777000,Prediabetes
+b35d93b9-4ca5-c94f-0c28-d01c822b27d0,1992-12-14,,bad87386-b5f6-c602-8556-2b9f62a390c7,b1a0c1ae-3854-5ba1-fb23-41cfcce2e17e,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+7afb3e53-d25f-4527-79e8-476a3663d2f4,1964-12-22,,d6171bec-1b35-e080-0d0c-33f928c4b040,c71cb155-c207-9982-ec69-f0516051e655,384758001,Self-care interventions (procedure),,
+f4035d77-c722-4b62-120a-61957756ac54,1982-02-20,,d6171bec-1b35-e080-0d0c-33f928c4b040,8de80c9b-db99-bd84-c423-770bdd46d6f1,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+fc9f7cfd-9eda-555c-7ae8-0d307e053970,1983-02-12,,d6171bec-1b35-e080-0d0c-33f928c4b040,218118fb-87cc-6cd5-739f-c2547f1235d5,718347000,Mental health care plan,36923009,Major depression  single episode
+a6cc5b3d-9e4b-7cfc-655f-ad6eb327b442,1999-05-29,,d6171bec-1b35-e080-0d0c-33f928c4b040,a4c34285-47c1-e4fa-6069-b9e9e9b09cf2,698360004,Diabetes self management plan,44054006,Diabetes
+d488f4ca-b61b-4976-dcaf-436e9f144bb8,2012-03-13,,979eba08-a39c-fd6b-6e26-b0bd80905750,72e2ebd4-3034-c805-0e74-3c10842e6185,698360004,Diabetes self management plan,15777000,Prediabetes
+e894a390-15db-04cd-5145-46595bcf04d1,1967-12-21,,f8674b72-826d-9fb5-fd7a-9af4e74b0da2,9a6318c5-35aa-12ac-b713-9b3764bd31dc,698360004,Diabetes self management plan,15777000,Prediabetes
+5a2e218e-0477-b629-ffb9-38b1340ddb3a,2015-02-19,,f8674b72-826d-9fb5-fd7a-9af4e74b0da2,ec2c2cb0-4af3-5d5a-43fe-a0d05dc49dc8,412776001,Chronic obstructive pulmonary disease clinical management plan,87433001,Pulmonary emphysema (disorder)
+d65512cd-a862-3db5-72bc-5739295539cc,2014-10-15,2014-12-15,ee04331b-bf7c-d4f5-eaa4-7b9a3a4834a9,e58c2897-8cae-3c5a-601d-5cf987aa97f6,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+e35901e5-cabe-bd5c-488c-ccb871646750,2014-12-17,2015-03-17,ee04331b-bf7c-d4f5-eaa4-7b9a3a4834a9,8fa12dc8-1ea1-5c59-5eae-4a5f459511e8,385691007,Fracture care,65966004,Fracture of forearm
+efa67a3d-5bf9-cc5a-2f73-f4c35a324c19,1957-11-08,,fd0bfbe0-7e65-e394-4467-bc194211b423,65039341-7f72-11aa-57e7-3170202fc09b,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+1dc6660d-cc6c-5d06-1ac6-c51e31106c75,1933-08-31,1933-09-14,cc09bb7e-fc13-9c7c-6ec6-36aad422ded6,6a161bf6-bbcf-6afd-b334-9ddcf93dc891,225358003,Wound care,284551006,Laceration of foot
+2a97d93f-0779-52c5-065f-e18310bdd52b,1935-08-22,1935-11-17,cc09bb7e-fc13-9c7c-6ec6-36aad422ded6,2af9612c-a08d-ae37-233f-a05e989e12f7,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+14cb5f9e-c636-9beb-40b9-b7a92a10c216,1956-01-31,,e65c5602-9756-0253-f7ca-7909c62f9fc9,3c77f9d6-3cce-f41e-fe0a-6286ee53ccfd,734163000,Care Plan,449868002,Smokes tobacco daily
+b1f4c3fc-e533-b2b3-57a6-2c9f5a21e991,1937-01-05,,bab34d1d-8075-2609-be5e-5676921a79a4,07915bc5-48e1-31c3-9807-6b45ecfae1f2,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+9b354914-3a19-1d31-8fc9-bd1ae1ef714c,1940-01-23,,bab34d1d-8075-2609-be5e-5676921a79a4,7010f2e7-8941-fba5-9258-f3a50ee9153b,698360004,Diabetes self management plan,15777000,Prediabetes
+2dc8c922-431e-a152-2d08-7b9b02469514,2013-11-12,2014-01-11,bab34d1d-8075-2609-be5e-5676921a79a4,f8fff64e-432c-9faa-ce7e-ca6e5ed6f7e3,385691007,Fracture care,65966004,Fracture of forearm
+c542870c-7033-5fc9-7e4e-b2cb4d200c89,1939-02-11,,c5450d36-7905-0484-dbed-fe4fd8be6c46,a6e1a73c-c417-b247-e465-7965262cb15a,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+111af7a6-7b14-7f7e-5a61-69d9aa715526,1959-06-06,,c5450d36-7905-0484-dbed-fe4fd8be6c46,5591768c-2776-6740-ace0-d9cb7e19970a,698360004,Diabetes self management plan,15777000,Prediabetes
+14cc0004-1337-ab96-2199-05f18ad5adcb,1968-08-17,,c5450d36-7905-0484-dbed-fe4fd8be6c46,4b0a92c0-ab1a-9ec9-bb5a-dfec890c74d4,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+80724cb6-814d-162b-e933-de42a1d27f43,2015-06-01,2015-08-30,c5450d36-7905-0484-dbed-fe4fd8be6c46,7c273754-513d-a0f3-43d8-05e238f3c3ec,385691007,Fracture care,33737001,Fracture of rib
+7bf44443-325e-31c2-39df-eb4163f82467,1949-07-04,,d76a5009-afb2-63eb-4161-006a2c9332d2,a0e66824-ef23-f38c-2213-ed0e4c828a5e,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+697368bc-aec9-3b2d-e618-ff818d2d9571,1997-09-03,1998-06-08,d76a5009-afb2-63eb-4161-006a2c9332d2,b6d87b2b-4f96-47b6-2f8d-8c712c77eb02,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+09a54c16-a95c-5f07-2787-3dc07e4ee491,2000-06-19,,d76a5009-afb2-63eb-4161-006a2c9332d2,7f137b5f-9470-f4ce-77e1-adb246eb759a,386257007,Demential management,26929004,Alzheimer's disease (disorder)
+fcaf4a2d-39ac-45bd-37f4-31537248201b,1981-09-18,,f2f7628b-b057-f189-610b-6ca80c81caf0,5a7fe43c-1f6a-f712-fe7f-151a6e0b2d06,698360004,Diabetes self management plan,15777000,Prediabetes
+0ef34afe-8e22-8ec5-b260-04e95b483fa0,1992-04-07,,f2f7628b-b057-f189-610b-6ca80c81caf0,e8fb8b12-f3d2-71b3-bfac-3798dba60238,734163000,Care plan (record artifact),55680006,Drug overdose
+150d8525-56b1-edeb-ffc2-b5ed03f562bf,2005-12-02,,f2f7628b-b057-f189-610b-6ca80c81caf0,98f7b08a-c7f3-ef75-2c80-3eee5255e885,412776001,Chronic obstructive pulmonary disease clinical management plan,87433001,Pulmonary emphysema (disorder)
+5f770e68-f719-dd54-2adb-b2dd265b2184,2014-12-20,2015-01-10,f2f7628b-b057-f189-610b-6ca80c81caf0,68374d1e-0924-2c88-ada4-97cc7eeda87a,408869004,Musculoskeletal care,39848009,Whiplash injury to neck
+7968aff3-542e-3249-7531-a476bff7b3c8,2014-08-24,2014-09-14,fd444a74-83ad-9a6b-fa23-bdc6e2803a8c,8a62be53-f8de-0d28-8df0-856dc2ffd1e5,225358003,Wound care,283385000,Laceration of thigh
+c83c15fb-7cba-9f35-efd2-5b97de91fdc0,1943-05-13,1943-07-10,ee8b05bd-3903-17dd-8927-833ddbcb5af9,2e19d062-a6a9-1632-3e7d-55ba0000483a,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+2e4c9de7-e30f-b828-b64a-50c2ef98f2a4,1945-11-26,1947-07-19,ee8b05bd-3903-17dd-8927-833ddbcb5af9,3489c1fd-e3e9-50dc-b626-49f49f1e368c,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+be4849e6-bf29-b4d8-3a37-e0e90eecdd2a,1953-07-25,,ee8b05bd-3903-17dd-8927-833ddbcb5af9,c04413d9-c8cc-b72f-58ad-8e727a7e9d0c,734163000,Care Plan,55680006,Drug overdose
+60ff4b5f-28c0-10dc-485f-69b2c8ada906,1969-10-22,,ee8b05bd-3903-17dd-8927-833ddbcb5af9,0eea16d0-0523-9dad-1764-fa1f345b772e,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+54a072f1-d863-6f51-4d38-a122648586a4,2015-05-22,2015-08-20,ee8b05bd-3903-17dd-8927-833ddbcb5af9,71dd451e-cf5b-812e-689a-8c416a4f9c0a,385691007,Fracture care,58150001,Fracture of clavicle
+f5961cde-aa1f-2c71-e49b-e5abedcdfd44,1976-07-22,,df84318d-7420-5f96-1174-722795045c4f,12871a73-fde2-045f-76b5-ec521f21ca30,412776001,Chronic obstructive pulmonary disease clinical management plan,87433001,Pulmonary emphysema (disorder)
+a43de68f-3626-c662-340e-1632c5f69668,2011-02-11,,d4ddaa8d-a864-ca70-a56d-e04e60583540,a9f4b546-a6e7-fcf6-34d8-3f122b71ba40,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+940cacc4-1d22-2429-1c5f-5b1702138097,1965-01-20,,ebdc3e2d-d7de-f72a-0737-885a2ca817aa,3a95dfb5-f6ec-31c4-8636-ab438758a43c,384758001,Self-care interventions (procedure),,
+6be379d3-7986-2cf5-bf12-65ba7dc6982a,1995-01-29,,ebdc3e2d-d7de-f72a-0737-885a2ca817aa,0ca90731-4081-0b2c-8c1a-5c7523c7dd78,698360004,Diabetes self management plan,15777000,Prediabetes
+97e0ba6c-ab8c-04f6-43cd-c85d9f9fc413,1999-02-07,,ebdc3e2d-d7de-f72a-0737-885a2ca817aa,f17d8394-076c-23ab-a8f1-423dc5a1066b,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+2ee38021-b94b-1d92-64f2-3b1cd980feae,1996-08-17,,f4b133b5-659b-188d-fdb8-b74de21dfe28,507ff4de-a247-c6a2-a833-86475b719555,384758001,Self-care interventions (procedure),,
+f4e81a88-26d8-d65d-f56d-01d6563fad84,2013-02-24,,f4b133b5-659b-188d-fdb8-b74de21dfe28,3d36e589-bb62-84bf-1371-2d0bb4db31a8,734163000,Care plan (record artifact),55680006,Drug overdose
+df04fab9-989c-f9ff-da8c-e5740217b610,2014-12-08,,f4b133b5-659b-188d-fdb8-b74de21dfe28,2e85402c-2c9a-d559-0a43-f33d729d04a5,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+f1dcc5f4-b3ce-d108-bd1d-1f8e4a65ad87,2015-06-30,2015-07-21,f4b133b5-659b-188d-fdb8-b74de21dfe28,294db5bc-61d8-8d07-53b2-0eaa7b7b89b1,225358003,Wound care,284549007,Laceration of hand
+a0ef836a-cb5c-8042-b306-4cf13bd0f137,1981-12-13,,ec432e6c-c2fa-63d2-2692-440fda6e17d4,74149eaa-0adf-cc89-12fe-659b3fd231eb,698360004,Diabetes self management plan,15777000,Prediabetes
+5f3fa51c-cba8-e039-285f-a286e9bcaa6f,1992-03-01,,ec432e6c-c2fa-63d2-2692-440fda6e17d4,64fe5fef-5bbd-2e54-8544-64d13ac9d58c,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+c27043a2-3226-ac9e-9455-6699d885ad5e,1975-09-14,,af873519-929b-464a-2234-20a42837c571,8dc026fd-6a8a-be07-2323-4afe5eee0d1e,699728000,Asthma self management,233678006,Childhood asthma
+322cd625-8368-00a5-634f-154fed713008,1990-11-01,,af873519-929b-464a-2234-20a42837c571,2930d7ad-0f4a-ee3e-e6a0-f440ffb8b1d3,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+cfd7d4d2-0cb8-cff9-2227-b5870cc95237,1947-01-19,,f61bc2ed-ebf3-2c5a-d145-d6452b2202a4,24a325e9-1710-8c6b-6ae1-25ecc712cfa2,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+d49d7cd4-5a0a-5ba4-5892-0b27dc7454a4,1964-04-26,,f61bc2ed-ebf3-2c5a-d145-d6452b2202a4,898f0a35-dbf2-958a-b4ab-4a9e0c53642f,698360004,Diabetes self management plan,15777000,Prediabetes
+79c868c6-8fba-9f6c-1504-b5eb797be1c4,2000-11-13,,f61bc2ed-ebf3-2c5a-d145-d6452b2202a4,327aecc3-ceb9-86e8-0fd9-964fb9f043a2,736252007,Cancer care plan,126906006,Neoplasm of prostate
+77ccb65a-c122-258e-d63e-62c3dd5f175c,2002-04-30,2002-05-28,f61bc2ed-ebf3-2c5a-d145-d6452b2202a4,bf52708f-b6f9-8886-ee10-ecc5a8a5afc0,133901003,Burn care,403190006,First degree burn
+a931d65c-a852-5760-a692-e36fd149b55c,1952-03-14,,cf05adcf-3323-a69a-da56-2f2d2cec714f,0ca246ef-23b6-d2cc-da19-9409343ee49e,718347000,Mental health care plan,36923009,Major depression  single episode
+159066a1-5936-cf0a-ef1d-ca92832be7b5,1952-03-14,,cf05adcf-3323-a69a-da56-2f2d2cec714f,40827330-30ad-bf8f-0af9-b22b1ecc2917,736254008,Psychiatry care plan,370143000,Major depression disorder
+acdeec40-2b88-b6f8-f052-4b2f4b44b647,1961-04-07,,cf05adcf-3323-a69a-da56-2f2d2cec714f,9652ad41-6515-ef94-f4bb-f8b2e2117783,698360004,Diabetes self management plan,15777000,Prediabetes
+a586a875-e2f5-7418-2094-75c46adfc461,1964-04-10,,cf05adcf-3323-a69a-da56-2f2d2cec714f,3e80f6ea-e48a-583d-d67c-fe6083af4f95,734163000,Care Plan,449868002,Smokes tobacco daily
+158fba95-b728-287a-b96a-ad4ef0f64c22,1983-02-18,,cf05adcf-3323-a69a-da56-2f2d2cec714f,f56a8f68-2bfc-b4e2-ca78-76ced8945b47,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+e8488718-2065-682f-2058-9a8d800687b2,1997-04-18,,cf05adcf-3323-a69a-da56-2f2d2cec714f,43cdba68-8891-5686-da8a-8faa5748c619,736252007,Cancer care plan,126906006,Neoplasm of prostate
+71d8b75f-891b-b0b4-e8c0-58f36af3ab0e,2009-11-22,,be24e515-41d1-3b65-8716-6be62dac2f99,7b36973f-dbf9-bbc9-c2d9-25309481f417,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+692962c7-eef0-c48c-8cc0-626a6ebb51d2,1951-03-23,,f4bbe318-65e4-c40d-4c5c-89297bca02fe,e17ae45e-644b-7a8f-b86c-c27b5db157a7,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+b605cb4b-1bcc-dc96-bb6c-a41fec96c70d,1969-07-04,,f4bbe318-65e4-c40d-4c5c-89297bca02fe,cc763e2d-9dc9-76ae-eeee-1e3edc94d055,698360004,Diabetes self management plan,15777000,Prediabetes
+da536c37-3e8e-490e-3d56-5f4bdc348817,1986-09-05,,f4bbe318-65e4-c40d-4c5c-89297bca02fe,65028663-e5c7-32b0-7a98-347c54aa87a8,386257007,Demential management,230265002,Familial Alzheimer's disease of early onset (disorder)
+b401e7b9-e120-ff4f-d198-55567cda2f9d,1998-06-15,,e27d6ec0-2aeb-447f-eae2-c167e68b7f07,c87bec07-fed2-0244-b30b-3ba99fc4d6dc,698360004,Diabetes self management plan,15777000,Prediabetes
+5f9c47e5-649d-8560-0f8d-5272fdd5fc4d,2011-07-21,2011-08-04,e27d6ec0-2aeb-447f-eae2-c167e68b7f07,004f8bb0-4ce6-4510-e741-973db24e79bd,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+6a1d4e2e-1880-c19c-bad9-b7fdb091176a,2013-04-23,2013-05-15,e27d6ec0-2aeb-447f-eae2-c167e68b7f07,1e65ce79-3e0b-dc72-51e3-3b989a3a1c77,225358003,Wound care,284549007,Laceration of hand
+f0de4951-24ac-8f87-84f6-d80d61b9f254,2015-01-17,2015-01-24,e27d6ec0-2aeb-447f-eae2-c167e68b7f07,1c7e9f9c-d939-38e0-9c05-f8cfad96b34c,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+efb92b0a-3eb2-dce2-f4e7-c117a66acf68,2005-02-17,,951ac36b-61cf-86dc-ee19-e40e7c8dabb5,0703bdd1-7ec5-21f6-08d2-dc788e9b77be,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+25ca69ff-37b5-d8ea-4533-01d62f1908c7,1951-03-23,,c7fff683-fd1b-f937-71ae-a490a80c9197,de4b6ca8-0ee5-611a-d3d4-9dd98fcef1ef,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+0c8923fe-0d25-b305-d6d1-348120ab182d,1971-07-16,,c7fff683-fd1b-f937-71ae-a490a80c9197,f0959fbf-b1a4-b29c-a3b6-1608c1318352,698360004,Diabetes self management plan,15777000,Prediabetes
+1cd32066-fa10-26ef-286a-fe29a2443fbd,2011-07-10,2013-06-01,c7fff683-fd1b-f937-71ae-a490a80c9197,27aea390-172b-7c0a-b073-62235fd39007,395082007,Cancer care plan,363406005,Malignant tumor of colon
+8765e69d-7c34-35ec-a999-b7e51e1f320b,2011-07-17,2011-07-31,c7fff683-fd1b-f937-71ae-a490a80c9197,f1aa0986-92ec-64f3-ed5a-7b83b046332f,781831000000109,Major surgery care management,363406005,Malignant tumor of colon
+d10c0e09-1649-e755-8a21-c243b6e905bd,2016-03-22,2016-04-12,c7fff683-fd1b-f937-71ae-a490a80c9197,97f28280-fe86-a971-128a-8c9bdbb025aa,225358003,Wound care,370247008,Facial laceration
+f7d80df9-fdd4-609d-5262-364df51951c4,1973-08-26,,6d200d52-7b87-500a-eb1e-b07011d8d11f,c8d37671-3cd2-531c-9e64-616c44223342,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+fa9f707c-13df-a070-ca66-a6b130e529fe,1947-12-13,,da16b3b2-313a-7f0d-cb42-39387a0902a4,aaf06a7e-2f11-07e7-47d2-2023228f42e4,698360004,Diabetes self management plan,15777000,Prediabetes
+9d58ee1c-2371-1b7d-3ceb-f09666f0d638,1969-09-18,,da16b3b2-313a-7f0d-cb42-39387a0902a4,ea293925-fc94-b0aa-d66a-e75eaae26b12,408869004,Musculoskeletal care,239873007,Osteoarthritis of knee
+4e2ad9cc-7ce3-3297-3dab-609fd482df58,1998-11-15,,aeb22336-dcfb-9319-fcb0-3dd98a86eb0b,ade3b815-5d3f-2584-3402-1eb7f20c4c95,698360004,Diabetes self management plan,15777000,Prediabetes
+40c80fc0-4694-f8a3-5124-8773fc1a2d0f,2009-02-01,,aeb22336-dcfb-9319-fcb0-3dd98a86eb0b,5cc4764f-a7ef-b43e-4792-a17fe2a2ad40,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+ce6b79b1-c9e4-4a99-443d-020296e34f15,1952-09-29,,b651b6da-6491-a505-484e-e75d46cd597d,aa3a75e1-5481-0b0c-0aa7-bd91e5f80898,412776001,Chronic obstructive pulmonary disease clinical management plan,185086009,Chronic obstructive bronchitis (disorder)
+1a00a6e8-a187-0e1a-a96f-83cb911a4136,1953-11-23,1954-06-28,b651b6da-6491-a505-484e-e75d46cd597d,f81ad14d-6bef-4b06-6c4d-672b6b725f62,134435003,Routine antenatal care,72892002,Normal pregnancy
+fc37b6ee-2bea-7e5c-66ef-b28028bdcd1f,1955-08-17,1955-08-31,b651b6da-6491-a505-484e-e75d46cd597d,b75a8ca6-abdb-91a3-8d61-90ae3df5a86b,869761000000107,Urinary tract infection care,38822007,Cystitis
+88849f61-8ffb-49ad-52a5-e843c47289c6,1957-11-11,1958-06-09,b651b6da-6491-a505-484e-e75d46cd597d,b989efbc-0d44-9927-003b-0da441040fce,134435003,Routine antenatal care,72892002,Normal pregnancy
+eb8e469a-34ab-72de-a11e-ed827f7ff334,1947-02-03,,b3064b90-9a02-3eaa-6699-85732f21eac7,37cedae5-fa69-3c40-5992-adb9b797c11e,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+8d0dbc92-98b6-30d3-cc5f-4a074a47e0cd,1967-05-29,,b3064b90-9a02-3eaa-6699-85732f21eac7,741960db-e5b2-2ba4-e2bf-11471a14319c,734163000,Care Plan,449868002,Smokes tobacco daily
+89224aaa-05ea-d8d8-104a-d0b0d5d678cf,1980-08-11,,b3064b90-9a02-3eaa-6699-85732f21eac7,d30911fa-5d0c-7da2-8a14-b7bf30d1b4b9,698360004,Diabetes self management plan,15777000,Prediabetes
+258920c6-60a8-000b-ceb4-0b3fcb8842e0,1998-12-14,,b3064b90-9a02-3eaa-6699-85732f21eac7,8d9338b3-e74e-bd83-6f68-8087c9eee8b8,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+c000a66a-6589-1a76-7f7d-fc89357e7cb7,2011-08-24,2011-09-23,b3064b90-9a02-3eaa-6699-85732f21eac7,43fe3121-c3a8-f740-91a0-ce9cd86d07e9,385691007,Fracture care,65966004,Fracture of forearm
+04cb6809-7e31-6c0f-9b15-02205b06e43b,2013-07-03,2014-02-17,b3064b90-9a02-3eaa-6699-85732f21eac7,ebc572d3-0f45-c785-e00a-540f387864ad,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+a38ec73e-69ab-0aec-e257-68d98a9786db,2015-11-24,,ec3898b6-f0fe-caab-9422-904bff9fe22e,c76c15bf-9dcd-999b-7a25-f7c0bbfd6052,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+6f21102b-5771-1f8e-72ef-228943c475c4,1994-10-08,,a9748f8f-fbb1-87da-052d-0915b2478fa8,12b45508-101a-f6b4-98c4-82cc9b2b0dfb,408869004,Musculoskeletal care,239873007,Osteoarthritis of knee
+9e87e179-e3ea-f6fc-af42-6331601c0e99,1995-11-03,,a9748f8f-fbb1-87da-052d-0915b2478fa8,db3012f8-ff96-16a6-a1ac-702ffd0d9465,698360004,Diabetes self management plan,44054006,Diabetes
+2a183231-e570-c194-f896-61066d968d98,2011-08-05,2011-08-26,a9748f8f-fbb1-87da-052d-0915b2478fa8,6b1f0aa1-fdec-d492-d7a8-f84f3ad15266,91251008,Physical therapy procedure,70704007,Sprain of wrist
+a04dde5b-13c2-3b5b-38a3-5d363711cb97,2016-01-29,,a9748f8f-fbb1-87da-052d-0915b2478fa8,437b46ce-8238-4bb0-468f-cadcdfd3970c,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+14711b7a-b838-32dd-cb27-a7c0c32b5573,1991-01-08,,df07c2e3-f9a9-b368-3bf1-b521663b055b,464328d7-0576-3b54-0b3b-2378cd6ef3e0,698360004,Diabetes self management plan,15777000,Prediabetes
+2852b879-5aa5-8ad9-adcf-0233cc8a093b,1957-08-10,,e18687db-4efb-ce7a-ea0b-f2c911d77946,e42c931d-097f-0053-db77-dcfe319e353c,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+1de992df-1276-2a56-2839-07bb95668b42,1989-02-24,,e18687db-4efb-ce7a-ea0b-f2c911d77946,dbac6212-a876-dd0a-7860-77b9a48f3b1a,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+50964439-cef3-d5c5-4bd2-2e9f2804d417,1967-12-12,,ed830873-692c-f609-e998-099136e9aff1,498baa79-5042-3a40-3a80-9af910facc2c,408869004,Musculoskeletal care,239873007,Osteoarthritis of knee
+429ee566-ad12-452c-21b2-24270a76bb86,1950-06-30,,f97a5a79-dbea-c62f-7ecf-3b81e44af1dc,020cf09c-d267-4a97-e13f-8355aa428f07,734163000,Care Plan,,
+37969adf-9071-4d3a-5ca3-cc37a1d83a55,1961-05-19,,f97a5a79-dbea-c62f-7ecf-3b81e44af1dc,47cedd7c-a2c7-77cf-0350-0eff3f1195e1,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+a68b5b05-a621-98dc-26fd-9001d1895fb3,1967-05-12,,f97a5a79-dbea-c62f-7ecf-3b81e44af1dc,f0ed0834-2eac-c4fc-00b0-73269a8b04ac,698360004,Diabetes self management plan,15777000,Prediabetes
+d3007647-7780-c292-e110-320a78b0b62e,1975-01-07,1975-01-28,f97a5a79-dbea-c62f-7ecf-3b81e44af1dc,834b94b8-452f-8f70-58f5-bd3c47f5781c,91251008,Physical therapy procedure,44465007,Sprain of ankle
+c4d6c4f7-bd08-f594-7c30-a7e624eeedd9,1941-08-23,,f206fb51-f145-834b-5404-5abd11635b63,e58606e6-d104-2df0-9826-d29a2724fb46,384758001,Self-care interventions (procedure),,
+9bce5ee5-ca47-6c3a-6e8f-b39e5b3d24f4,1960-01-21,,f206fb51-f145-834b-5404-5abd11635b63,ab7f2621-96d0-9023-7aa3-b13ab8f259f8,734163000,Care Plan,,
+d6d7e36a-cda3-6cb7-f605-41e5dcf18ee8,1964-08-27,,f206fb51-f145-834b-5404-5abd11635b63,8e06c9a7-47ec-b874-374f-111fc200a2cb,698360004,Diabetes self management plan,44054006,Diabetes
+06fa1fc8-8f8a-66ad-9544-a25339fcad78,1964-08-27,,f206fb51-f145-834b-5404-5abd11635b63,8e06c9a7-47ec-b874-374f-111fc200a2cb,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+5224e224-611b-835a-9828-9a27c7987f27,1967-10-05,,f206fb51-f145-834b-5404-5abd11635b63,4f0052e3-339f-081e-3460-05fec1812588,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+cc28a0ed-73fe-8009-011d-729d08da6c24,1976-07-19,,f206fb51-f145-834b-5404-5abd11635b63,53cfae19-4f4b-66db-45a2-77e0d27b4c61,408869004,Musculoskeletal care,239873007,Osteoarthritis of knee
+c0a9f868-cf31-1574-48e2-efc2981aebc2,1968-05-13,,b69026b4-fbf5-5c97-8d40-d6140a940ad8,07713f2b-c866-678a-0dbe-169cc0ca5110,698360004,Diabetes self management plan,15777000,Prediabetes
+cca16161-3a15-0ee4-2f58-b266077b0892,1996-04-01,,b69026b4-fbf5-5c97-8d40-d6140a940ad8,d6d3ace5-478f-2168-b39a-48245264d7fd,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+a653ca60-067a-f435-bf31-6f7fff9d106c,1948-11-29,1948-12-20,d2ac5df0-3a67-d0ed-8e36-4c295d66a2b7,67d9091c-e843-3df1-e6cd-d795f90d5d62,408869004,Musculoskeletal care,39848009,Whiplash injury to neck
+24666734-21df-f3b0-e7f4-52bbba066e04,1952-01-02,,d2ac5df0-3a67-d0ed-8e36-4c295d66a2b7,443009e4-1c0c-4100-0cac-ddf2e23f21f5,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+bf162aeb-4b50-c572-61ae-a80ef590285f,1927-07-27,,9d700cd2-9cb9-2cf4-b1cb-064ff4111d5e,99f57d5d-15ce-8043-6062-05423de888fe,384758001,Self-care interventions (procedure),,
+733f82c5-09af-f932-7916-d0fd3cd9e6f6,1941-08-26,,9d700cd2-9cb9-2cf4-b1cb-064ff4111d5e,8d44b94f-4636-fe93-01f9-f93eeff98aeb,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+f371de0e-eb08-471c-06f2-24097eaa7c97,1981-05-31,1981-06-07,9d700cd2-9cb9-2cf4-b1cb-064ff4111d5e,c5a2fd3b-706c-9925-dc4c-d39518984288,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+fa731327-1060-8016-d8c0-d80a60992739,1966-03-15,1966-10-11,c4d81511-e632-d454-85d7-577531dcca08,55d96a3b-fcff-db4c-20a2-359ecc17fa92,134435003,Routine antenatal care,72892002,Normal pregnancy
+177f7ac0-034b-56f0-8155-4b6b5c4cfc0b,1973-01-21,,fafea16f-0a90-e39f-3d4d-6a8488a19470,ed3c219f-a840-37b5-74d4-4a200688cabf,384758001,Self-care interventions (procedure),,
+d0582758-a64a-b5a3-fa4c-3581d6ea6179,2012-01-04,,fafea16f-0a90-e39f-3d4d-6a8488a19470,16981dfd-e5f7-2803-5563-56a33f054eae,698360004,Diabetes self management plan,15777000,Prediabetes
+6ed2905a-11c9-be4c-20e4-822c5ae5053b,1980-10-22,,ced351aa-e7c4-6657-1e3d-0f1bfafdc114,9a7c0cbc-4f1f-e85e-b166-b69bc36a34b5,698360004,Diabetes self management plan,15777000,Prediabetes
+e2f42919-e93f-1905-49aa-31f5c23da5be,1984-08-05,,ced351aa-e7c4-6657-1e3d-0f1bfafdc114,8c94eb26-08a7-b406-d2cd-edeb68f79066,408869004,Musculoskeletal care,90560007,Gout
+e0a157e6-5cac-f727-419a-aa8743d453ac,2001-07-23,,e7a26bc9-953a-f84f-0f07-17529de17d63,b98e4444-18b2-24b0-31a8-83c04da44262,698360004,Diabetes self management plan,44054006,Diabetes
+43ce3b91-4909-075f-961d-886e8778c785,1966-05-31,1966-06-14,b900b05c-0705-c975-2ae7-165dad25c5db,e12cb5ce-c887-3b1a-32d4-66679f8ce6f9,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+5f4ca412-1353-ceab-7fce-ddef48d0d620,1979-10-06,1981-03-17,b900b05c-0705-c975-2ae7-165dad25c5db,aca03378-10a7-5aa3-de15-48c8a40bf831,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+0cc7e8b5-5ba8-fa8e-c1fb-c55da2e2a965,2002-09-24,2003-05-20,b900b05c-0705-c975-2ae7-165dad25c5db,cae4782e-8174-180f-419a-d6e2df31d318,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+9e798eae-535e-2219-3069-358d73f6f53d,2006-04-18,2006-05-09,b900b05c-0705-c975-2ae7-165dad25c5db,afb279a0-b20d-8a9e-09fb-c79ce25e76f6,91251008,Physical therapy procedure,44465007,Sprain of ankle
+257e7b65-b3dc-59b6-a13f-c46a2ef6ca83,2005-02-23,,e773a2c1-489c-3bbd-8220-dadb31a6756d,680a9c65-a6c8-33de-914f-ae3632a40bc2,734163000,Care plan (record artifact),55680006,Drug overdose
+548014bc-6b47-7a61-06a3-0a73de8752fb,2013-12-24,2014-10-09,e773a2c1-489c-3bbd-8220-dadb31a6756d,eff852fe-eec8-a3e1-177b-e80ee89d0c93,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+92f8f5ea-7b33-9343-20f0-d90b7f838ae7,2015-04-08,2015-04-15,e773a2c1-489c-3bbd-8220-dadb31a6756d,22b216f7-7716-8361-a6c5-720f1a3be50b,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+9d727806-ddba-00bc-cca4-08845d06716d,2016-01-11,,e773a2c1-489c-3bbd-8220-dadb31a6756d,1d006e05-3052-500e-396d-10f53c1d6bc0,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+142e8259-a3b1-1f51-1642-73fe44d18048,2016-03-06,,e773a2c1-489c-3bbd-8220-dadb31a6756d,00764053-9a2f-b878-e2f0-95873be0e3f4,385691007,Fracture care,58150001,Fracture of clavicle
+cdb3a0f6-1c26-ec3a-c734-94b508782bab,1930-11-21,,f06f3840-decb-9879-8051-b0404b4e9297,c952067e-db3c-a901-e0c9-cc37064b643c,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+da384e37-bfca-0ec1-f280-ccd1a710bfc5,1988-11-01,1989-10-20,f06f3840-decb-9879-8051-b0404b4e9297,bb5292b6-c3d5-312d-61d4-f5b474d48523,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+b3b78fb3-be16-73ed-53b9-a24593a5e671,1993-04-03,,f06f3840-decb-9879-8051-b0404b4e9297,17227833-b05d-07c4-117f-55e8b4929b5c,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+682bfd92-d74b-81f9-ec2e-4da165a995fd,1943-12-10,,cb9cfb7b-064e-ea9f-2451-22af6036b96f,e090eccd-c685-86d6-eb4d-53d48cca2878,698360004,Diabetes self management plan,15777000,Prediabetes
+c9496087-bda7-4944-d2de-bdb4b213a75c,1994-09-30,,cb9cfb7b-064e-ea9f-2451-22af6036b96f,970badae-e210-af43-ab5a-313dbada55dc,735984001,Heart failure self management plan,88805009,Chronic congestive heart failure (disorder)
+bdf211d8-1022-7033-bf46-0ed0c68db0e8,1996-09-19,1996-09-21,cb9cfb7b-064e-ea9f-2451-22af6036b96f,84406ceb-4a8f-3b46-5b41-df21050ee0bd,736353004,Inpatient care plan (record artifact),88805009,Chronic congestive heart failure (disorder)
+23cafd77-5115-b1bd-cd02-24f4637a854e,1997-05-25,1997-08-23,cb9cfb7b-064e-ea9f-2451-22af6036b96f,ecdc393d-0f91-df75-d859-c5629f3e92c5,385691007,Fracture care,65966004,Fracture of forearm
+16493f3f-eeb9-f9e1-6578-d4977e322e92,1998-03-15,1998-03-21,cb9cfb7b-064e-ea9f-2451-22af6036b96f,fd903b35-c43d-a970-8498-68f3c36a1e95,736353004,Inpatient care plan (record artifact),88805009,Chronic congestive heart failure (disorder)
+394663bc-5d1c-9375-bb78-619b4b343d8f,1999-03-16,1999-03-20,cb9cfb7b-064e-ea9f-2451-22af6036b96f,26f7e14a-a04f-2378-7b5c-485fd273985c,736353004,Inpatient care plan (record artifact),88805009,Chronic congestive heart failure (disorder)
+8d794f9a-c266-bc83-e0da-156d7b56a584,1999-07-14,1999-10-12,cb9cfb7b-064e-ea9f-2451-22af6036b96f,bfaddbee-867d-e1a5-adf3-5c535a5b1a9b,385691007,Fracture care,65966004,Fracture of forearm
+982884b2-975a-f30f-01cf-a6dd6f3f745f,2014-05-30,,d55efce3-1a5d-c125-dbc8-2ffaec91d14e,987771f5-57c3-55c8-0c1d-b0ff56f4941c,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+060a51cd-a2c2-627e-c001-6091f3d3bfcd,1944-01-08,,cd3c27b3-ea4d-32be-7120-1e7f2016777b,8cc6307f-53f2-4f19-ed39-5d73966ff7e7,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+231018e8-e286-c059-3a54-d90807e06b94,1959-04-04,,e01a35ad-072a-9cb6-5dad-55ff5a28c9a1,374c7200-5e82-eebf-6e56-1efae245ee8e,698360004,Diabetes self management plan,44054006,Diabetes
+6f26b7e9-33b6-32e9-ffe9-290a39aef3a4,1926-06-19,,b8dd1798-beef-094d-1be4-f90ee0e6b7d5,2d91acbb-670c-f2d2-6695-7012b4667af6,384758001,Self-care interventions (procedure),,
+68f5b502-fe1f-75d8-b243-dd6bf7553951,1992-03-07,,b8dd1798-beef-094d-1be4-f90ee0e6b7d5,7f64f039-2897-a398-804c-a0dc94b72826,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+18cf506c-376f-dc5a-f067-10f5312f6611,1945-03-02,,e8dcbba9-5cb7-99d7-9bca-eb6772b36df2,ddaf479c-a198-b7b5-f7bd-468d15c5eadf,698360004,Diabetes self management plan,44054006,Diabetes
+b3256d51-3f7a-4dbc-d695-f4ad0f3249b4,1946-05-17,,e8dcbba9-5cb7-99d7-9bca-eb6772b36df2,255f2942-72e1-3cdb-59b0-f243425c50b3,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+8e516a65-4d61-f672-111d-979ab16cc814,1977-12-15,,e8dcbba9-5cb7-99d7-9bca-eb6772b36df2,8a9b348e-a4fa-22ac-5030-c0cfa30a23fa,408869004,Musculoskeletal care,239873007,Osteoarthritis of knee
+34eb4fda-c835-ed5f-11c4-85314b40bc7b,1978-01-20,,e8dcbba9-5cb7-99d7-9bca-eb6772b36df2,8e14e384-5155-720a-23ea-e00f3a951644,412776001,Chronic obstructive pulmonary disease clinical management plan,87433001,Pulmonary emphysema (disorder)
+fb00b078-c9bf-178c-5e4d-5feef7a8adca,1986-10-29,1987-01-16,e8dcbba9-5cb7-99d7-9bca-eb6772b36df2,140c84c2-3857-f5fd-4a04-b911d57939a1,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+30df9de8-20ba-c25c-4312-38b0fe64dec2,1981-09-18,,6ff0d514-d2bc-8e89-09f8-fb2b55c0f9e8,72319218-9e96-a36c-b56e-d5d89dcceaf8,384758001,Self-care interventions (procedure),,
+c9be5513-fb86-9a2d-495f-9f1f6c1afd52,1985-04-26,1985-05-31,6ff0d514-d2bc-8e89-09f8-fb2b55c0f9e8,4c36bb02-e02e-bf06-4765-6ac639b5571d,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+df904d5d-9fbd-6828-f43d-650fe057444a,1999-06-19,1999-08-20,6ff0d514-d2bc-8e89-09f8-fb2b55c0f9e8,40b5ab94-f4c2-c25f-5e62-f99fec6ec6c4,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+fed2bcb8-89fd-7ffe-24b3-27f573cbc7cd,2014-08-29,2015-04-10,6ff0d514-d2bc-8e89-09f8-fb2b55c0f9e8,bf574efe-f261-b445-eb43-f6543dbc0bb1,134435003,Routine antenatal care,72892002,Normal pregnancy
+b23e882d-887d-0698-5b2b-ff3e0a1e046e,2016-02-26,,6ff0d514-d2bc-8e89-09f8-fb2b55c0f9e8,470002b0-4f3f-bfe0-c9df-5846048f0a8c,134435003,Routine antenatal care,72892002,Normal pregnancy
+2afe6946-763f-9722-9dff-ced985cb77f4,1967-02-03,,a655d506-2a71-2d18-d946-b25429537347,e8d06359-8fff-93a0-19ff-651a485abb74,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+ffe4e50e-89e7-c94c-1395-9cd07f1d5a18,1974-12-16,,a655d506-2a71-2d18-d946-b25429537347,2500528e-dc14-9045-9c7b-51c8cc2558e1,408869004,Musculoskeletal care,201834006,Localized  primary osteoarthritis of the hand
+6acae0c9-ed6d-8d81-99fa-2d0bc003f690,1976-01-16,,a655d506-2a71-2d18-d946-b25429537347,1cff886b-913a-0061-abea-e51485a86d2c,698360004,Diabetes self management plan,15777000,Prediabetes
+126ac767-ba70-13ed-54b5-3eeb31efd512,2013-10-03,,3df8fffa-5995-634a-1d82-9f559ec4359d,7ea78869-950c-b20f-7743-e0d8350e83a9,698360004,Diabetes self management plan,15777000,Prediabetes
+2448cdb3-d208-b50d-50e7-b8e422220666,1974-02-19,,983aafa7-0560-f337-39a7-ca82c20862d1,24346998-02e2-a46f-52f9-4cca3f2effa3,698360004,Diabetes self management plan,15777000,Prediabetes
+de516e2f-48d6-be4f-0570-9ce274c0f74d,1987-04-21,,983aafa7-0560-f337-39a7-ca82c20862d1,23630689-452b-28ec-5d42-06c7b5485351,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+e4ac9b30-cb29-967b-7ded-fb198c170a8c,2014-09-07,2014-10-05,983aafa7-0560-f337-39a7-ca82c20862d1,30beddb6-93d0-23e0-7327-979b35e16964,91251008,Physical therapy procedure,44465007,Sprain of ankle
+ec7f2d67-e107-ab63-f79e-6b5b0b9fe956,2015-08-05,2015-09-08,983aafa7-0560-f337-39a7-ca82c20862d1,db54ee28-d665-f234-7aec-3b8731fc27e8,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+8334d5f1-aaca-2012-09d7-01fae2213be8,2003-11-23,,f5bb4140-7299-588e-fa1e-dca5ada3fa3d,bd254e13-3a3a-7f66-b36f-7152bd321303,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+8b24a1d0-c128-30f6-2040-b585010cdb80,2013-11-23,,b6895581-5e52-2f97-ff34-a238a86b2f80,7096f4cb-d356-47da-b1e3-2b679869f5e6,698360004,Diabetes self management plan,15777000,Prediabetes
+7940b4bf-20a0-4dea-cd96-87e7614b3fac,1943-10-01,,b8140bb0-ad5e-b2b7-6226-2a14e62b8779,a5ae2f5f-ffc3-f941-7cfc-e64fddba525c,698360004,Diabetes self management plan,15777000,Prediabetes
+4996b7ae-8ddb-c681-7c3c-f7f8eb9825f3,1949-08-19,,b8140bb0-ad5e-b2b7-6226-2a14e62b8779,b798a5a3-4703-0650-97a8-690702091ea5,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+93527568-f0b2-f97c-65e1-3c1a0c8081a1,1998-05-15,,b8140bb0-ad5e-b2b7-6226-2a14e62b8779,6ed32d48-413d-6510-4544-412f69d4fbc2,386257007,Demential management,26929004,Alzheimer's disease (disorder)
+ab5d66ed-ae29-4ba9-8a19-ef763c8fe447,2016-01-27,2016-04-26,b8140bb0-ad5e-b2b7-6226-2a14e62b8779,2a06c076-9384-cdc8-73ac-4a36c24859a0,385691007,Fracture care,359817006,Closed fracture of hip
+83bfbc56-521e-f3c6-372c-b104b4e26805,1968-02-24,,f70fa136-6022-ee06-b88d-548bbee66089,33330218-314a-7594-c792-f46d77416530,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+96c5b64f-939a-9363-83ce-fc854e7b9485,1969-03-01,,f70fa136-6022-ee06-b88d-548bbee66089,3de9a19a-3e1b-f8a1-fcfe-7dc594e40ed4,698360004,Diabetes self management plan,44054006,Diabetes
+7d0f4e81-5dfd-1c30-986e-24cf38ef4ce3,2001-09-22,,f70fa136-6022-ee06-b88d-548bbee66089,fbb892c4-2c7e-5349-76a8-bad671d66189,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+d9067ba8-cc93-75c2-a35b-c23c8f787f3a,1950-05-19,,cfa4be31-9f51-8938-f0f4-e41fdd9c05c4,8ca2958f-17a6-cc8e-7e73-b5301a037473,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+b764c98b-1982-08f9-6412-e5d058553389,1974-10-04,,cfa4be31-9f51-8938-f0f4-e41fdd9c05c4,a9e1e160-3772-66e5-d78e-2a527f0adf6a,698360004,Diabetes self management plan,15777000,Prediabetes
+c5c24a65-501f-4dfc-3f5c-87f4fcbef06b,1991-12-30,1992-01-13,cfa4be31-9f51-8938-f0f4-e41fdd9c05c4,44a30874-70f0-fe0a-b35e-1be07d889c08,133901003,Burn care,403191005,Second degree burn
+32de2bf1-4b16-619c-8825-b972b52a4fd6,1992-05-06,1992-05-13,cfa4be31-9f51-8938-f0f4-e41fdd9c05c4,30143e4b-e668-6ec7-d9d9-b865c9eb18d2,869761000000107,Urinary tract infection care,38822007,Cystitis
+611306c8-bbea-0fd2-d20b-6e11b743d287,1994-01-02,1994-04-02,cfa4be31-9f51-8938-f0f4-e41fdd9c05c4,fa076954-14bf-b610-26e4-8dd684129cf4,385691007,Fracture care,16114001,Fracture of ankle
+8621d222-a671-b3a2-9559-d5cdafbe608a,1995-02-17,,cfa4be31-9f51-8938-f0f4-e41fdd9c05c4,1e0eaa02-4495-76b3-ffa2-8fa610f5a5eb,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+04d8b188-7496-a8e1-352e-c9d185bc6def,1996-02-21,1996-03-22,cfa4be31-9f51-8938-f0f4-e41fdd9c05c4,250a25a5-27fb-a2a5-d3fc-2631c371c5e5,47387005,Head injury rehabilitation,62106007,Concussion with no loss of consciousness
+c265e418-758c-8a0d-d524-654065739bfe,1982-09-10,,f994d017-6604-6f8c-57a3-df431311029b,57f7b235-6b3f-a7ea-b43a-8b2d59111f81,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+26e66b72-013a-6a4a-f2a2-98afa850e558,1925-02-04,,fd61b6af-c16b-e421-62b1-50f64f308171,adcf8a5f-8aab-63b9-a83c-0908f9f6afaf,384758001,Self-care interventions (procedure),,
+8c5858b4-8282-8e6b-a94d-20ce0c9753b5,1942-03-07,,fd61b6af-c16b-e421-62b1-50f64f308171,c20f46fe-2d61-728d-1029-2f65c79cfb38,734163000,Care Plan,,
+392038dd-3534-c5a0-e7e9-d2988bd5e3f4,1989-06-23,,ef47fc93-03be-c621-dbd1-ed6e975dcee4,5e53d835-2eaf-3ba8-5c30-cb9e38213f3a,384758001,Self-care interventions (procedure),,
+e38df0a1-4884-c3ca-969c-9e9d4bd8d7a9,2012-09-29,2013-05-04,ef47fc93-03be-c621-dbd1-ed6e975dcee4,46bc5ab1-dc88-5a89-2f70-39676f85a726,134435003,Routine antenatal care,72892002,Normal pregnancy
+374d0072-bfdc-813b-d25b-7499d383cd34,2013-11-11,2014-06-21,ef47fc93-03be-c621-dbd1-ed6e975dcee4,a29f89c7-8e10-586e-557f-76c91a872302,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+a3697b81-3dc0-e075-9a03-58dbe3821664,2016-05-09,2016-05-23,ef47fc93-03be-c621-dbd1-ed6e975dcee4,d6a05037-de84-f355-655c-2a75dc897bb6,91251008,Physical therapy procedure,44465007,Sprain of ankle
+0e0b4f05-5dfe-b926-74dc-b82caace47e2,1963-08-23,,f8ae0495-33f7-e050-76c3-d34674f16f12,ac93a7cb-bbd2-7bb1-e2d5-48e601891ee9,384758001,Self-care interventions (procedure),,
+04303f54-1d2e-924d-def4-8bd7c2fa9ae8,2015-09-08,,f8ae0495-33f7-e050-76c3-d34674f16f12,4339eb84-9ea8-432f-f5ef-ba36a6bfdbd0,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+831d23a9-4715-8b04-9293-19493726b7d2,1996-07-21,,9fb7c10a-9e9d-745e-ec00-d231ecae22f7,28fe015a-8f02-5c0f-749e-83d30cb7e195,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+0f41c07f-52bb-1deb-1d24-84458db0f7db,1996-12-31,,c9b44e2d-5c07-1436-164c-ab3b11a0ab17,f7bea5a2-20b7-c49a-0081-9a28c1826a2e,698360004,Diabetes self management plan,15777000,Prediabetes
+2959dab4-bedb-038f-dbdf-56831c8eda94,2015-01-06,2015-01-20,c9b44e2d-5c07-1436-164c-ab3b11a0ab17,a800c244-175b-4fa2-cfa7-e630c9a85159,869761000000107,Urinary tract infection care,301011002,Escherichia coli urinary tract infection
+53df0d1f-4b55-2932-7a68-8293d322b11d,1992-09-09,,e852f5d1-4a1e-95a3-ac23-1b6a663c8f88,6e14abf9-3ae2-8f48-fde4-81262a0f3f61,699728000,Asthma self management,233678006,Childhood asthma
+179e7e65-19f6-8665-d75b-407156dcd554,1951-01-08,,dc58c60e-5862-4a0a-cd41-cbcbd18bb2dc,63bef95a-baf7-13bc-54bf-563c0b36d3c0,698360004,Diabetes self management plan,15777000,Prediabetes
+a3f4ca9e-e8e4-aac9-883d-5b7789201d70,1972-11-20,,dc58c60e-5862-4a0a-cd41-cbcbd18bb2dc,69ad228a-6803-8c54-069f-bf50f5195354,734163000,Care Plan,449868002,Smokes tobacco daily
+fd2cd5ba-f8f7-5c27-6962-0342c28a776c,1986-04-22,1986-12-08,dc58c60e-5862-4a0a-cd41-cbcbd18bb2dc,d8ec332b-07f9-1d42-a14d-973c469b5173,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+4570f596-fe82-5d33-211d-d8892d9bf711,1987-12-14,,dc58c60e-5862-4a0a-cd41-cbcbd18bb2dc,a2d10713-9fa1-4c8f-46b4-ee784405ed88,386257007,Demential management,230265002,Familial Alzheimer's disease of early onset (disorder)
+bf7d1eab-70f9-a603-c56f-9c2b133a1034,1989-05-08,1989-05-22,dc58c60e-5862-4a0a-cd41-cbcbd18bb2dc,a3f9eafc-e900-7ac0-8c2a-d0427b81ca3c,225358003,Wound care,283385000,Laceration of thigh
+6c5db915-a2d7-b893-5224-61d05050d35b,2016-01-03,,d8901b65-a21a-80f2-1507-34893e1e9393,e4b7be3a-6bb1-1c6c-4b0e-b23c97dbe708,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+cd08c2d1-f5e7-a0b4-e4c5-5859d407c508,1972-08-13,,f19393ae-83e1-1e74-1bd7-381ce7b1a3f1,4dee2740-9b24-22a0-dbf4-279cdc50781a,698360004,Diabetes self management plan,15777000,Prediabetes
+781fe5f8-8690-c6f2-819e-6a5e4333abd5,2004-05-28,,f19393ae-83e1-1e74-1bd7-381ce7b1a3f1,2183d04b-3fdf-9c06-3387-2187a19f9e8f,408869004,Musculoskeletal care,239873007,Osteoarthritis of knee
+d2916ae6-1227-1048-b982-d93774d6bcfb,1936-11-28,,aefe9716-6072-791e-c0f7-8bb2d1227915,c1271f8b-10b8-ad03-cc1a-c09655d23d75,699728000,Asthma self management,233678006,Childhood asthma
+7ba3c0ac-c086-e50f-aac2-43c2adf19627,1970-04-29,,aefe9716-6072-791e-c0f7-8bb2d1227915,0ed63ee6-5004-1cd2-32b8-e6ef9ea93b86,698360004,Diabetes self management plan,44054006,Diabetes
+5e38b56f-c096-aed6-ecfe-0563a00f7a3a,1975-06-18,,aefe9716-6072-791e-c0f7-8bb2d1227915,baa2274a-3ba4-9cef-5af1-ce18986a1caf,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+2b0d504f-2c2c-3d6a-5eae-b5da323548fd,2012-05-10,2013-04-09,ce785d56-cd20-a431-06bd-1f5d366ccea9,4c7672b7-2cac-6f01-475d-17be2465dadb,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+9789c5dc-8112-3cc4-6a8a-0df64c6d1417,2011-10-30,2012-06-10,9f1ff3ee-4f25-bc64-dca2-f2556e4b72ad,9b9f7ceb-f967-7bdf-eb5b-eb496d563bbb,134435003,Routine antenatal care,72892002,Normal pregnancy
+7f5398e6-dd31-053e-5774-e1c4da08a5da,2012-10-28,2013-06-16,9f1ff3ee-4f25-bc64-dca2-f2556e4b72ad,78406653-ad7b-ed46-0b09-880e9de8faf5,134435003,Routine antenatal care,72892002,Normal pregnancy
+6a3ae22d-6cc1-762e-20b0-444dc8178079,1982-08-06,,a5e1eb4a-9193-b119-9a30-1a7540db8233,235047aa-97c3-6497-e08e-02b6bbe097cc,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+fd9e90d5-3c7c-a4dc-f62a-ece8d51e4319,2000-05-25,,f419a88e-78f2-402c-0838-897f5d243056,f4b8a455-dd44-b6e8-46d9-3791a0358fc4,408869004,Musculoskeletal care,239873007,Osteoarthritis of knee
+77e20196-024a-00c8-388e-1e820d9004d2,2006-06-19,,f419a88e-78f2-402c-0838-897f5d243056,5136e068-ea12-e9b1-4802-92d681ec6d0f,698360004,Diabetes self management plan,15777000,Prediabetes
+0f5f63f2-620c-7c88-7625-7bd41817222a,2012-09-12,2012-10-12,f419a88e-78f2-402c-0838-897f5d243056,478c77bc-7a85-dceb-f62e-723189fdea86,385691007,Fracture care,58150001,Fracture of clavicle
+42347ceb-1717-0d34-f7cc-d56c4a5d2816,2010-12-06,,d619e82b-87f7-59cd-83bd-29d998dde81d,00e92041-7679-f3f8-24f2-d1f026ab82c0,698360004,Diabetes self management plan,44054006,Diabetes
+1a23ca10-b077-a6a3-9769-3a607ccfdd3a,2007-09-19,,e01d5fa2-e2eb-f23c-2de0-6a5c0d44a7ac,ab138e0c-70c8-6b49-5601-6157c836eed2,384758001,Self-care interventions (procedure),,
+9457d85c-3ef1-cc88-0a0c-1c17fb63b1fc,2012-09-30,2012-10-21,e01d5fa2-e2eb-f23c-2de0-6a5c0d44a7ac,e5c0d663-9c83-9a9a-00cc-30c5f0bc0462,225358003,Wound care,284549007,Laceration of hand
+d1a8bcdc-4f7e-7897-be92-6bb76361b94a,2015-08-29,,e01d5fa2-e2eb-f23c-2de0-6a5c0d44a7ac,8ea93d67-c236-c193-aba2-d4ba6bfdb828,170836005,Allergic disorder monitoring,,
+d83b3eb7-ed7a-a45a-9830-cd1cb859addd,1973-09-05,,f1145f7a-d1a6-4ccb-d6b3-54d177db83ed,3b34e8e3-bd88-b2d3-bb5b-643ebc1b359a,698360004,Diabetes self management plan,15777000,Prediabetes
+79ad6659-2791-62a8-82cc-e67791a94666,1954-10-09,,d130a5c2-5892-d5a3-926a-42669c3d4f82,a3325736-73fe-bfb0-56e7-272855e7e6ac,698360004,Diabetes self management plan,15777000,Prediabetes
+a0d932ec-03a5-47ea-4366-d505543d15f9,1963-08-23,1963-09-20,d130a5c2-5892-d5a3-926a-42669c3d4f82,022eed02-3a71-f3b9-5e66-fcc3f74f75e9,408869004,Musculoskeletal care,39848009,Whiplash injury to neck
+27aeafd2-ad38-52e5-e56d-fc3bc3e4850d,1969-11-29,,d130a5c2-5892-d5a3-926a-42669c3d4f82,d01a0212-03ef-d361-0181-bc5dc2359a91,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+88c9208d-0315-1ad5-f2e8-3ba6f2923fb8,1974-12-07,,d130a5c2-5892-d5a3-926a-42669c3d4f82,e069862c-164a-c2c8-f0c7-2970e056a6fa,736252007,Cancer care plan,126906006,Neoplasm of prostate
+c74d93f4-e78d-6884-4292-1a27db73ec50,1940-08-14,,fd83348f-f088-3a44-b8cc-faa955eca3a1,e3fa5d42-7420-4cbb-8c23-18ccaef7dc80,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+6efcc0c0-6727-f332-18db-30df51e35651,1954-11-03,,fd83348f-f088-3a44-b8cc-faa955eca3a1,103277de-e887-0397-ff81-843e0e097ca2,698360004,Diabetes self management plan,44054006,Diabetes
+518dbcf4-b0c3-1f72-ce34-700e4e35f226,2003-07-31,,fd83348f-f088-3a44-b8cc-faa955eca3a1,2d289316-f79a-c8df-91a9-fa52a19c7c96,386257007,Demential management,26929004,Alzheimer's disease (disorder)
+05204d8c-e0d6-47df-f22c-eb3f31454250,2014-06-30,2014-07-30,fd83348f-f088-3a44-b8cc-faa955eca3a1,f7b2f6e4-7a6f-43cb-d4ed-226aa5fd32a3,385691007,Fracture care,33737001,Fracture of rib
+3707ae4b-1f49-00bf-e22b-ee09ed2815f3,1995-07-22,1995-12-25,b530e420-8d4f-3542-f5ab-2829b1721b8d,368513b2-a13e-6c83-29b0-3b58f0e4b1da,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+2e6d90a0-337d-2dd2-9d9d-2466a87b4c75,1996-08-18,1996-11-16,b530e420-8d4f-3542-f5ab-2829b1721b8d,419fde59-d111-ff36-6ca3-12b73f7d701d,385691007,Fracture care,65966004,Fracture of forearm
+c40a398b-92b1-6b5e-1560-c5d594d2c012,1997-02-18,1998-01-05,b530e420-8d4f-3542-f5ab-2829b1721b8d,d4578ba7-48f4-93b3-6a8e-f6370081e701,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+86c62260-2c9f-d611-2a19-20965dbde771,1932-01-05,,ef30c279-cd5e-ab08-b02e-e57802e43557,8ffdafe7-3e62-6513-ccd6-fab05699e577,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+6094009d-dd22-168e-8134-3c95828b9d73,1957-05-28,,ef30c279-cd5e-ab08-b02e-e57802e43557,1a60ea04-51d7-5330-1b21-c4cf3925c2f4,698360004,Diabetes self management plan,15777000,Prediabetes
+29d46a68-4205-9875-aee7-180142806284,1975-09-03,,ef30c279-cd5e-ab08-b02e-e57802e43557,cd699b53-067d-7565-0da8-3e232fa5f4f3,736252007,Cancer care plan,126906006,Neoplasm of prostate
+9da26c1c-07a4-d229-a5c1-7fd441bcf5b1,1986-11-11,,ef30c279-cd5e-ab08-b02e-e57802e43557,a8d046d5-d56b-dc6f-3b5a-923b86da7b13,386257007,Demential management,26929004,Alzheimer's disease (disorder)
+7d287dbb-ed8f-9f84-49d8-dbff72a21971,1979-05-02,1979-05-23,c75d7332-fcfd-d3cb-7fff-4e9b871f1d19,1d14cb59-6067-e458-5d84-481113347b0e,408869004,Musculoskeletal care,39848009,Whiplash injury to neck
+9a701087-68a6-a699-cf78-7c993a1fa7e7,1985-01-21,,c75d7332-fcfd-d3cb-7fff-4e9b871f1d19,fb6ee4b2-c492-6b88-96cb-c7548695eb50,698360004,Diabetes self management plan,15777000,Prediabetes
+961ce550-e562-ed2f-7d93-e0fd36f0b37d,1993-02-01,,c75d7332-fcfd-d3cb-7fff-4e9b871f1d19,1751b90f-d959-6bbd-1aca-5583730af9c0,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+374a5cbb-7e2c-7a74-b972-a4e500e771d8,1993-07-08,1993-07-29,c75d7332-fcfd-d3cb-7fff-4e9b871f1d19,b2318a4d-2a66-8c64-41c5-bc178e0f4f1d,408869004,Musculoskeletal care,39848009,Whiplash injury to neck
+325f28d6-df3c-364f-c9f6-5c092251e234,2000-12-27,,c75d7332-fcfd-d3cb-7fff-4e9b871f1d19,7ba5f6f6-408f-fdf2-bae8-94a8d4c37923,408869004,Musculoskeletal care,239873007,Osteoarthritis of knee
+f8bccb9e-c2e2-6803-b699-343d58753bea,1951-05-13,,fbb52aca-db28-d68a-1216-b59790d0231f,110d2294-2094-d4d8-aa92-3846a5a94897,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+1428a703-8193-2113-9595-9d786bf19201,1958-06-22,,fbb52aca-db28-d68a-1216-b59790d0231f,248fdf16-3d27-d10f-ce1c-594bfa0de916,698360004,Diabetes self management plan,15777000,Prediabetes
+31d40d33-b123-0404-4335-cf22903a0937,1996-02-10,,fbb52aca-db28-d68a-1216-b59790d0231f,aafb2ac3-c88d-69a8-a629-dc1db7debae9,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+f3786cd9-389a-73db-4a56-6bd6d866a547,2011-04-17,,fbb52aca-db28-d68a-1216-b59790d0231f,2f837785-120e-49e8-2676-ec38a78529b8,386257007,Demential management,26929004,Alzheimer's disease (disorder)
+64e1735a-0733-c7e0-8bda-fa1b76715ff9,1960-06-30,,c0aa4213-b1ee-0004-d58f-20257ffb7404,87adeaed-eefc-4cea-0a37-35bd41fc0308,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+ee5f66c9-19ec-7226-c388-f97743a85421,1967-05-18,,c0aa4213-b1ee-0004-d58f-20257ffb7404,a3322051-e099-8d03-cc26-452783bdbd7d,698360004,Diabetes self management plan,15777000,Prediabetes
+4547d822-27d1-938c-a323-87a97c6c8988,2016-02-25,2016-03-26,c0aa4213-b1ee-0004-d58f-20257ffb7404,56f7498d-2984-6185-7184-9c9e88ca5ef4,385691007,Fracture care,263102004,Fracture subluxation of wrist
+ec57f0ad-3dbb-9a30-e884-ff229ac277d5,1968-12-10,,988ccb04-2732-511e-488b-06e2d6f30d14,65494fc0-b1e1-14bb-fe6e-a81f71e135b1,384758001,Self-care interventions (procedure),,
+323bc110-0596-3a33-4ddf-ab3468b18da7,2001-02-01,,988ccb04-2732-511e-488b-06e2d6f30d14,78832504-8176-a5b0-48d2-ec2ce16f222e,698360004,Diabetes self management plan,15777000,Prediabetes
+a7105b2a-fe07-3d77-a2ec-770153a3f4c1,1941-03-10,,ea0ac5ec-bd39-f004-8b2c-e03a0b7f35d3,3ab3e6e0-a9f8-e295-472b-0bd32d52d047,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+7b546f0b-dddc-0ec8-9d95-b717a6f49aae,1942-03-16,,ea0ac5ec-bd39-f004-8b2c-e03a0b7f35d3,c788e129-9391-8abc-6a0b-edc45156bb66,734163000,Care Plan,,
+c8f6f70a-298e-cc1d-7050-b2b5987f009b,1966-06-13,,ea0ac5ec-bd39-f004-8b2c-e03a0b7f35d3,4afabae5-6c1b-792d-1ae0-ef720e099b26,698360004,Diabetes self management plan,15777000,Prediabetes
+e0c0968d-1ce6-4c8f-d788-e613c246ea3f,1968-09-02,,ea0ac5ec-bd39-f004-8b2c-e03a0b7f35d3,d256f867-69b6-4c58-eca8-c20843bc69cd,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+70e24ff0-42a3-025a-b2e1-ed9b272335c8,1987-11-30,,ea0ac5ec-bd39-f004-8b2c-e03a0b7f35d3,fed5f8f0-a119-f13a-2640-0c5c5ef5a118,736252007,Cancer care plan,126906006,Neoplasm of prostate
+7ee8e25b-8831-ac32-0d70-6bd78bdb96c5,1957-05-23,,d9050b95-e5bc-5306-3420-adaedc23778d,6d681a66-1a18-3f1f-edf9-d23c142077d1,412776001,Chronic obstructive pulmonary disease clinical management plan,87433001,Pulmonary emphysema (disorder)
+0d895ab8-d49c-be2c-9b8d-2ff051b00a90,1999-03-06,,d9050b95-e5bc-5306-3420-adaedc23778d,8da11bb9-6174-4192-1e92-66fcb9bd14f1,734163000,Care plan (record artifact),55680006,Drug overdose
+3e088bc4-cd5b-36e5-9eb3-18b1c6e8f8b3,2008-09-02,2008-09-23,f38a057e-cf4e-1ec0-76e6-ab3389a2d81e,79b3263d-0587-837c-190e-15000e9d6381,225358003,Wound care,284551006,Laceration of foot
+c70769e0-a426-f78f-1e60-8990fc5b072e,1989-04-28,,a9ac2ea9-9850-7c6a-b2f0-957042455a9a,fabaf501-7b1b-9d15-d266-84dfd4dee6ad,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+802015f6-a3f7-9930-8adc-0506b3e1cd4d,1951-01-30,,c4952fbd-438a-c034-17df-5da9c24ed033,de79972a-2f0e-a9ba-5a6e-688c92cfa3a2,698360004,Diabetes self management plan,44054006,Diabetes
+dde500ee-fedf-7135-3894-7f2eb960c8a8,1991-10-22,,c4952fbd-438a-c034-17df-5da9c24ed033,48c8bd40-8798-09df-b512-908e6dea8ae6,386257007,Demential management,26929004,Alzheimer's disease (disorder)
+7ea68259-ca99-2648-6578-c5baa690920b,2000-12-23,2001-01-22,c4952fbd-438a-c034-17df-5da9c24ed033,f41023df-1626-64e3-933a-6fd8ff328768,385691007,Fracture care,65966004,Fracture of forearm
+d5f52b87-6e62-5a9d-fa1b-9aacc6a0f72a,2002-01-17,2002-03-18,c4952fbd-438a-c034-17df-5da9c24ed033,922ad13e-4097-c4bb-4967-4745c5ef5427,385691007,Fracture care,65966004,Fracture of forearm
+e80e5bbc-92e3-5060-d394-792c9e7975ce,1961-10-08,,c5c46a0c-d6c0-c22e-594b-a2b389228704,1fba163e-b1f7-c990-3e1b-775c6393aa76,698360004,Diabetes self management plan,44054006,Diabetes
+046e0dc3-530e-790c-22bf-6b18b5731d2a,1954-10-03,,cc55ae94-c116-5d65-c5ac-4c4ea523d24f,69719634-587b-c5b4-7310-dfd56faef846,698360004,Diabetes self management plan,44054006,Diabetes
+82f37f6d-245f-16e6-a1de-eac4016d6ae8,2012-02-20,2012-04-20,e09af5fe-01f1-8023-149f-140b8d028c86,eae71a8c-8d20-ee0e-5e04-55df27b58794,385691007,Fracture care,65966004,Fracture of forearm
+f4c82a7d-31cc-5716-dca8-4a1a7785b382,1982-01-21,,c8481c30-a56f-85ee-98c0-23274d625cc0,98d04a97-5fcf-8872-069e-5f4edd7b842b,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+678a7a69-9127-91cc-3f57-2078ec0388d8,1973-04-05,,e29b221d-39da-889a-837c-351b613af935,70a9abc8-7558-92ef-067b-0672a3c3fff2,408869004,Musculoskeletal care,201834006,Localized  primary osteoarthritis of the hand
+b4583ddf-d3f1-4078-6d38-5074c53686fd,1958-03-21,,f1f4af1a-8170-7fc8-94a4-d7977dad408f,99d5339c-7ea0-4d3d-ec8b-fff551e4d7f6,698360004,Diabetes self management plan,15777000,Prediabetes
+d39b98af-15d6-434b-be86-edaf4fb012e7,1969-10-08,1969-10-22,f1f4af1a-8170-7fc8-94a4-d7977dad408f,a984988e-04ba-1f0e-340a-711a63dddb33,91251008,Physical therapy procedure,44465007,Sprain of ankle
+bdcee583-d9ef-484e-b1c5-274a5a6ba185,1972-08-25,1972-09-01,f1f4af1a-8170-7fc8-94a4-d7977dad408f,87a066fc-a91d-93ea-03ce-9f107cbce6da,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+3cf8f3c2-c75d-e813-617c-18e98b5ea278,1914-11-02,,ba9485fd-fcee-dace-0843-b8894ad33b8f,0d7bc176-1517-88b6-36ee-9e8d16dcd4fd,384758001,Self-care interventions (procedure),,
+1ccd62a4-476a-7acd-f902-46b65bd1826a,1936-02-11,1938-11-14,ba9485fd-fcee-dace-0843-b8894ad33b8f,ea446974-edd8-9331-83d7-d06788eaa8b3,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+2da7f165-df52-c772-b9d7-4bfd6055f084,1952-12-02,1953-09-14,ba9485fd-fcee-dace-0843-b8894ad33b8f,03d8efca-2da9-1e20-95ad-3d7939e31f4e,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+eff601ab-909a-cd9d-9cba-72241628751c,1955-09-19,,ba9485fd-fcee-dace-0843-b8894ad33b8f,2b0d053f-40f4-1575-2a6e-6c1334a70a3c,698360004,Diabetes self management plan,15777000,Prediabetes
+33a94a24-b059-27fc-c46c-7e8803a4eb65,1961-07-06,1961-10-02,ba9485fd-fcee-dace-0843-b8894ad33b8f,ebac8687-dff4-6dc0-cebf-f9e8a7bab093,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+303197b3-90c0-fba7-e205-692fbec47b85,1975-08-24,,ba9485fd-fcee-dace-0843-b8894ad33b8f,6b1ac17e-aa30-38d7-a3e3-5fe47c99c066,408869004,Musculoskeletal care,239873007,Osteoarthritis of knee
+a88f9c90-de14-e1d9-ff3f-da5c2f431180,1991-03-30,1992-02-17,ba9485fd-fcee-dace-0843-b8894ad33b8f,b09a2bef-12bd-5635-0f76-2344d53377f2,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+17116226-146c-73ea-4213-5d58978d8749,2014-10-24,2014-11-21,ba9485fd-fcee-dace-0843-b8894ad33b8f,61c4a740-a452-3cf3-f8a0-21d810072202,91251008,Physical therapy procedure,44465007,Sprain of ankle
+3580d70d-2954-03bb-6b45-77ef17ceed81,1958-03-21,,c324f02a-b4ec-2ad3-130f-ab9c9cfc47c8,385bb774-bca4-b7a0-0adc-70b1931e398d,734163000,Care Plan,55680006,Drug overdose
+d4e33ab7-5972-944b-68dd-2a001add6e63,1967-12-28,,c324f02a-b4ec-2ad3-130f-ab9c9cfc47c8,0484dc8b-64be-9b76-c080-cc4838554255,736254008,Psychiatry care plan,47505003,Posttraumatic stress disorder
+e3b5f86a-ea53-caea-e2fc-c8214f0bf87b,1990-03-17,,c324f02a-b4ec-2ad3-130f-ab9c9cfc47c8,c0fa2025-533e-bb78-690c-771780519ec4,736252007,Cancer care plan,126906006,Neoplasm of prostate
+e3e06afb-4c39-9428-6323-5aca71253862,2006-03-22,,b6b75395-25c3-9795-6bc7-38ef5257524a,2b2efc14-35ab-0258-5fa9-6d3dea63a9a5,698360004,Diabetes self management plan,44054006,Diabetes
+ff379e88-5904-4da4-b386-0c11dc1ca8e9,1977-03-20,,f9aa5e91-8248-496d-4ab3-40bf413a97cd,742074be-a83e-21f3-4b90-6c84dfb7aac8,698360004,Diabetes self management plan,15777000,Prediabetes
+d9cc74b3-77d1-0b56-3a7b-d3836df6b4bc,2015-02-22,2015-04-23,f9aa5e91-8248-496d-4ab3-40bf413a97cd,1b3c6e08-c4e3-aa12-042b-aa16e3c8f5e7,385691007,Fracture care,359817006,Closed fracture of hip
+a0d8f3d2-5f0a-74ca-4427-3175abb26829,2015-03-03,2015-04-12,f9aa5e91-8248-496d-4ab3-40bf413a97cd,40674888-e46c-b68b-ca9d-023277eb0fa8,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+aa64f0d5-04d9-6938-5756-184e10115920,1961-04-07,,8a1ba2f3-d620-ca49-e37b-bdc8c3af08b2,c554ff4c-b1de-ab37-7c1e-ea7a5aa8b746,698360004,Diabetes self management plan,15777000,Prediabetes
+a904e026-dce8-9797-c278-af2c0c8ca306,2015-04-09,2015-05-09,8a1ba2f3-d620-ca49-e37b-bdc8c3af08b2,5167dcaf-dfa4-2240-1066-1a52f6fdb037,385691007,Fracture care,65966004,Fracture of forearm
+06d682af-a831-c84e-ebf6-b595cf440c64,1964-03-27,,e1875ec6-e10f-c9d8-d388-fd3abfbc4a87,2ea67a41-8e2f-861f-ea46-73702ea8e649,698360004,Diabetes self management plan,44054006,Diabetes
+01e3426b-599b-0648-7ded-b8af0fa11a2d,1964-03-27,,e1875ec6-e10f-c9d8-d388-fd3abfbc4a87,2ea67a41-8e2f-861f-ea46-73702ea8e649,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+e249069f-a84c-1434-985b-554c40bfcf2b,1982-12-24,,e1875ec6-e10f-c9d8-d388-fd3abfbc4a87,d8fb7d26-ec42-cd1e-28af-23b0a9b6f26e,408869004,Musculoskeletal care,201834006,Localized  primary osteoarthritis of the hand
+4852bdc1-f0ea-6e4c-b03f-d1352acb449f,1988-01-15,,e1875ec6-e10f-c9d8-d388-fd3abfbc4a87,cfe1d4bc-a894-507d-89f1-91eedbde3cc8,735984001,Heart failure self management plan,88805009,Chronic congestive heart failure (disorder)
+3a2e463a-97a5-5e20-d3ec-ae867a39a1b9,1989-01-09,1989-01-14,e1875ec6-e10f-c9d8-d388-fd3abfbc4a87,d7c65ad6-2ef6-b870-49fb-f3d6d52a5196,736353004,Inpatient care plan (record artifact),88805009,Chronic congestive heart failure (disorder)
+28271346-12f8-7a84-ee4e-605f765dee57,1990-01-09,1990-01-14,e1875ec6-e10f-c9d8-d388-fd3abfbc4a87,cd95277e-a71a-4086-3b84-f1debd9bfb34,736353004,Inpatient care plan (record artifact),88805009,Chronic congestive heart failure (disorder)
+99a91cfe-a943-e34c-a8a8-9094b2241b8f,1992-11-12,1992-11-26,e1875ec6-e10f-c9d8-d388-fd3abfbc4a87,fbe34409-3680-1958-d456-825192ff6a77,225358003,Wound care,284549007,Laceration of hand
+8fd91867-13c7-0e2b-4ebe-e07487d5cfb9,1992-12-29,1993-01-02,e1875ec6-e10f-c9d8-d388-fd3abfbc4a87,11ff45fe-ce36-808e-d922-18d3d484b1ab,736353004,Inpatient care plan (record artifact),88805009,Chronic congestive heart failure (disorder)
+ef35c2f3-ef3b-65ec-eaba-f11574f5e58d,1994-10-17,1994-11-07,e1875ec6-e10f-c9d8-d388-fd3abfbc4a87,b071e32a-328c-af74-9740-cfd68fcea184,91251008,Physical therapy procedure,70704007,Sprain of wrist
+4709264c-a37e-cdd7-e90e-b7028a2dbd8e,1996-09-27,,e1875ec6-e10f-c9d8-d388-fd3abfbc4a87,6068418c-8767-5ce8-9d7f-8905c7d4814a,736252007,Cancer care plan,126906006,Neoplasm of prostate
+b0a71c07-6edc-e794-560d-921b4845cc1a,1979-10-24,,ec82cf12-4ab0-ce23-a90a-f414e26e4c62,3c553221-efcd-7f4e-80b0-1279035cccb0,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+ba7f2b56-4e3d-6ff6-ce36-2ae009731429,1976-08-16,,dc54f75a-6430-4371-d353-0c34923c9a27,429f6414-75f2-35a5-34c2-aa83c4ef80ae,386257007,Demential management,230265002,Familial Alzheimer's disease of early onset (disorder)
+fbe80334-fd34-be11-717a-e73c32f042bb,1976-09-06,,dc54f75a-6430-4371-d353-0c34923c9a27,e05940a7-f82e-7b62-80a7-7d323dc76119,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+ad514413-d7b9-77ed-07ca-c219ec4f26a2,2002-01-28,,bf9dbec9-201b-7e90-3c67-07f393f93169,12ceac15-febf-8f7f-a159-3c5b718eec8d,408869004,Musculoskeletal care,239873007,Osteoarthritis of knee
+ec617591-dda1-0162-3f15-d09d03bf612f,1970-08-27,,a7e54602-c1a0-2d71-661d-876d582056ce,bc47fb42-9887-177c-8bb9-d8714c8fe72c,698360004,Diabetes self management plan,15777000,Prediabetes
+e8fdfcc0-b97e-f27f-0512-e273d9e47913,2012-11-08,2013-09-19,a7e54602-c1a0-2d71-661d-876d582056ce,715ecd87-fe40-9deb-5aa5-32e4a2f00314,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+eed434c4-098b-76f3-217b-719c87e25624,1948-12-10,,deb82a8b-5bc6-f9b7-9714-25343833d8bc,552e767d-8d07-2873-94f1-5f51a8f7fd9e,698360004,Diabetes self management plan,15777000,Prediabetes
+299e84f1-5a15-47c0-4bd6-4999aa6b770a,1964-01-24,,deb82a8b-5bc6-f9b7-9714-25343833d8bc,21de6a93-b735-84e4-277d-67decf03c83f,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+3b5f202b-fb3b-d1c9-8e57-8d24ec70801e,1975-09-12,,deb82a8b-5bc6-f9b7-9714-25343833d8bc,04d56339-f0ac-bdb9-a85e-9657152d3010,408869004,Musculoskeletal care,239873007,Osteoarthritis of knee
+63d75552-606b-7b4e-ab99-7d1d704d5947,1990-02-16,,deb82a8b-5bc6-f9b7-9714-25343833d8bc,4a32a3d0-7904-a87a-1a58-2461760d683c,386257007,Demential management,26929004,Alzheimer's disease (disorder)
+504f74f8-4dcf-4b4a-b515-9e29c4fd7e1d,1931-04-10,,dc4d40e7-48f5-9c39-b277-829c104dcd1a,19c3fd03-d54b-e0d9-fbcb-198adf87e300,412776001,Chronic obstructive pulmonary disease clinical management plan,185086009,Chronic obstructive bronchitis (disorder)
+b2de437d-6196-668b-309d-3e18f9b0d271,1946-06-21,,dc4d40e7-48f5-9c39-b277-829c104dcd1a,f85b14ac-44a0-c324-509e-62194e6c528f,698360004,Diabetes self management plan,15777000,Prediabetes
+9055a345-4849-7a16-b1dc-0333982751e8,1948-08-12,,e0b70fb9-26b4-ba69-9f3c-79b1c100f6f4,ce4cf815-dbe2-95aa-a084-33b864039beb,698360004,Diabetes self management plan,15777000,Prediabetes
+869db0bd-14fd-1b57-2b2d-50b516e75ba1,1978-08-24,,e0b70fb9-26b4-ba69-9f3c-79b1c100f6f4,888c7a5a-e4e8-50e1-5cdf-027b56ea0dd7,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+8d908a67-713a-0d26-6f75-b4e610cafaa7,2012-07-07,2012-09-05,e0b70fb9-26b4-ba69-9f3c-79b1c100f6f4,0dab6dba-97ea-33f1-f23d-62b0cc293825,385691007,Fracture care,16114001,Fracture of ankle
+0f26da30-fc84-c185-7bfd-ab93c5ea498d,2012-09-05,2013-02-14,e0b70fb9-26b4-ba69-9f3c-79b1c100f6f4,32543a1a-cda7-f8e0-824e-ec938e820f4c,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+81a19522-b00d-23a1-2755-2de9b8af9d0d,1981-09-30,,e3a5bc4e-6fa9-0daa-e082-5a0be8d6a2f7,8f5067d6-20fe-4ae8-e16f-a1faf7e3f47a,408869004,Musculoskeletal care,239872002,Osteoarthritis of hip
+9ab13e81-d276-d1dc-df75-7bb94948475f,2011-03-12,2012-03-09,ecbbffe7-f603-cf34-fb47-6382f81ae998,11a33fc5-d442-e08c-2777-81705e9cea17,711282006,Skin condition care,40275004,Contact dermatitis
+817be6d7-efdc-ed30-6ff0-d948e875da7d,2011-03-29,,ecbbffe7-f603-cf34-fb47-6382f81ae998,06a18e86-32d7-8a26-91f4-02a0938ceadf,384758001,Self-care interventions (procedure),,
+5e7e98b9-9915-271f-7a46-3568ef87f22d,2011-03-29,2014-10-02,ecbbffe7-f603-cf34-fb47-6382f81ae998,79cfc59e-c44a-f60e-a1e3-7abc68784f2b,170836005,Allergic disorder monitoring,,
+39bd1fb8-de29-468e-d525-89e10926fe17,2013-11-23,2014-01-29,ecbbffe7-f603-cf34-fb47-6382f81ae998,583f8d1c-cbf9-1415-6fe4-aebd50eacd28,91251008,Physical therapy procedure,444448004,Injury of medial collateral ligament of knee
+bb552cbc-8918-c2bc-b7c5-53b4822fe8e2,2015-03-04,,ecbbffe7-f603-cf34-fb47-6382f81ae998,3103ee55-b2fa-0120-fdb4-33c7063c496e,408869004,Musculoskeletal care,69896004,Rheumatoid arthritis
+7ee9591b-7954-2cbb-aa99-7bb5301e4bca,2015-06-01,,ecbbffe7-f603-cf34-fb47-6382f81ae998,9adcaef1-3fe7-390f-8cb4-df7d80d28b37,698360004,Diabetes self management plan,44054006,Diabetes
+cf1fdb5e-7525-e24a-104a-51e0f5fe204d,2015-06-01,,ecbbffe7-f603-cf34-fb47-6382f81ae998,9adcaef1-3fe7-390f-8cb4-df7d80d28b37,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+3900e2d4-2b3e-a5f8-9989-28f7d84119c1,1972-06-16,,975cfe26-1286-d1a1-14b5-271bbbadc410,dbe82b7e-fda0-9ac3-cabd-a84a6e2b8834,698360004,Diabetes self management plan,15777000,Prediabetes
+5879b346-ac15-0322-366a-c14c4b04cd58,2003-09-28,,f3617c50-9ce4-956f-16a3-42c26ce26f13,298bac7a-4710-2095-a168-c01d860fe3e9,734163000,Care plan (record artifact),55680006,Drug overdose
+da8c52f4-3448-c22c-53dd-3c5369534794,2010-06-26,2012-06-19,f3617c50-9ce4-956f-16a3-42c26ce26f13,0cf39adb-ac34-e9d0-f7b8-cdd730525143,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+6b5e6d68-b9e2-7ae2-5366-0ec9a6971a16,1953-12-27,,9d6c7d14-7d0e-16b8-e861-512d986d04cd,de8286ff-b95e-cea2-cb8b-4322e48b454a,384758001,Self-care interventions (procedure),,
+1f284478-d8da-9903-414c-fa3288c13bd8,1957-02-20,,9d6c7d14-7d0e-16b8-e861-512d986d04cd,5b1181c8-936d-14e8-e047-69a6b1636119,698360004,Diabetes self management plan,15777000,Prediabetes
+3f9118dd-4c97-b173-05e3-a86833f7fa47,2001-05-09,,9d6c7d14-7d0e-16b8-e861-512d986d04cd,c18854be-a7d5-36f7-a669-b6889637300f,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+be70529b-0ec2-d209-a8f2-a1f12ecd0f61,2012-06-20,,9d6c7d14-7d0e-16b8-e861-512d986d04cd,d15f50da-1f4a-d1e3-48f2-4886a24eacb5,386257007,Demential management,26929004,Alzheimer's disease (disorder)
+e6281044-a19b-5bd2-1113-dd458236cb58,1947-02-05,,70145016-8360-f787-a9cf-12f71256074a,5b31247e-92f5-0f43-6e2e-cb94cb5e1191,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+4e417fd7-86c4-0be7-e57a-a39b834f75b4,1972-06-28,,70145016-8360-f787-a9cf-12f71256074a,fbeed889-2876-1c91-860b-5decbe74fdbb,698360004,Diabetes self management plan,15777000,Prediabetes
+71ca292f-0363-29a9-5854-996039e644ad,1991-10-09,,70145016-8360-f787-a9cf-12f71256074a,7d35b5f3-4898-0de6-1d76-f9a9ba033c96,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+bb2913c6-e3ae-4b0b-b557-1f719429389f,2002-12-18,,70145016-8360-f787-a9cf-12f71256074a,1f68a3b8-120d-d4c9-0d36-9ccfa629ed67,386257007,Demential management,26929004,Alzheimer's disease (disorder)
+f5e09ac9-4b5c-99af-918d-d34fced72c9c,1952-02-08,,e5abf5d4-6a9b-a507-8c85-fa951133c4be,30c1f129-6983-6d99-9ef2-74761bd2fc2d,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+182b17a5-ebf2-75cb-8fb4-cee395c6e4b6,2009-01-16,,e5abf5d4-6a9b-a507-8c85-fa951133c4be,3c682b0d-ff0a-8e25-8074-712fb2109915,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+dfe0ef27-bc7a-ddc6-add6-51ebe7a9efaf,1957-06-12,,bfa9a5df-1f2c-3475-7f3a-9967f58073db,313fd942-aa02-0954-0321-a6a519e7ef28,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+f9abb5df-d443-8ae9-c75c-3bec3b3bfb71,1983-04-08,,bfa9a5df-1f2c-3475-7f3a-9967f58073db,39f8b42d-fe0f-abe1-0f78-38e7c4a1b254,408869004,Musculoskeletal care,239872002,Osteoarthritis of hip
+0861f9ed-cf44-1cd4-3542-b2a274ea1d2f,1992-08-17,,bfa9a5df-1f2c-3475-7f3a-9967f58073db,7584ad03-c60f-6bd0-7654-e5deec677a06,734163000,Care plan (record artifact),55680006,Drug overdose
+87e8ebf4-77e1-ca28-c3d1-742607ca5bf8,2005-03-05,,bfa9a5df-1f2c-3475-7f3a-9967f58073db,ee0278de-04b0-d2f2-ced9-c4ec6e3811a9,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+b86f7ab7-1c8c-dbc0-1d37-4c79f005d486,1969-11-27,,e3ff37bc-77ef-e85b-850b-ad0b6c849821,1a79adce-b556-5b73-17b5-4f30e15f5c6e,698360004,Diabetes self management plan,15777000,Prediabetes
+ffbae97f-e9c6-ddb2-bc03-918b0bc5a3e9,2002-10-29,2003-03-28,a4689743-edae-2f95-f1bc-717936a2d537,e30f0ec4-14b7-aafc-fecb-4ad524f6b3e8,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+663917f0-aea4-0e38-2056-9ba300d476c2,2002-12-08,2002-12-29,a4689743-edae-2f95-f1bc-717936a2d537,17f0317e-2fdc-4d65-069b-70177f8c4f17,225358003,Wound care,370247008,Facial laceration
+19359a7e-282b-296a-7ac8-f4cd0dcb8ddb,2005-05-18,2006-04-14,a4689743-edae-2f95-f1bc-717936a2d537,216c3c0a-9843-91f9-10ba-bd1098093fb9,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+3d5d81ef-c306-68e7-be32-4c379669b579,1959-10-02,,d17d487f-f2e9-4a50-f604-343b2ffd4ea2,53294f65-836a-c06e-4d30-cf75bc211018,698360004,Diabetes self management plan,44054006,Diabetes
+b5f03dd4-54cd-f34d-c535-dd05aa667739,1994-01-31,,d17d487f-f2e9-4a50-f604-343b2ffd4ea2,b4b65477-dd3a-d6f8-8ce4-828d7ad6c817,736690008,Dialysis care plan (record artifact),,
+6410cf77-a3ea-8890-abea-93ff5c0cf15d,2000-08-04,,d17d487f-f2e9-4a50-f604-343b2ffd4ea2,eb8b36e3-5b9e-4e55-1ebf-c7445c7188e4,386257007,Demential management,26929004,Alzheimer's disease (disorder)
+06b52b8d-f09b-cd32-a016-0206f9bda85a,2014-06-25,2014-07-18,d17d487f-f2e9-4a50-f604-343b2ffd4ea2,03761b75-1268-22c7-8fce-5c2e7428d2f1,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+d2bbbf6a-6b25-8fcd-1458-00cbca6bf611,1954-01-29,,d002ef2e-5592-3f83-cf85-bed07c4fb5e7,907a3c15-6c3a-a10c-4e4a-84f461718545,698360004,Diabetes self management plan,15777000,Prediabetes
+195ba592-122d-9e7d-a96c-f520b5e6a916,1963-08-10,1966-02-11,d002ef2e-5592-3f83-cf85-bed07c4fb5e7,a5c8dccf-397a-ba6b-d6dd-289cd8ab85cd,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+cdf9489b-37c1-7037-9de2-387cb63fa32e,1958-03-19,,f0a31f10-49c6-0d63-6173-da7deb1d3a11,b6fc46d5-9c19-2841-0861-0d1c9616f735,408869004,Musculoskeletal care,201834006,Localized  primary osteoarthritis of the hand
+943f138b-5102-3e02-6e2d-e68f10d127dd,1972-04-03,,f0a31f10-49c6-0d63-6173-da7deb1d3a11,4fb2e4f8-fe2f-ad99-b1c7-7557361a7d8e,698360004,Diabetes self management plan,15777000,Prediabetes
+b7762135-82b9-b0f4-1573-fb3eb4404392,1987-07-20,,f0a31f10-49c6-0d63-6173-da7deb1d3a11,9f28f230-7979-7126-c4b8-5f8ff57b7403,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+1f1f4eea-1c0f-b177-d21d-69622088ea78,1916-05-13,,fe47f88d-4c6a-308e-46bb-ffe899aba1c8,8ff3f3e6-d0c5-8cb4-5002-712f0babda5b,384758001,Self-care interventions (procedure),,
+76468fa0-9ec6-16c1-19c9-246c2756013c,1949-08-03,,fe47f88d-4c6a-308e-46bb-ffe899aba1c8,3ffa7a0c-af22-6100-2ff2-d7ba70574c06,734163000,Care Plan,,
+28f7542a-216b-c533-66fb-d0dc21d3e4b3,1957-06-19,,fe47f88d-4c6a-308e-46bb-ffe899aba1c8,7f9bb865-fc54-548c-14d9-ca8a2bee2d10,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+1fecc26c-9fee-97b7-2089-075223488547,1961-06-07,,fe47f88d-4c6a-308e-46bb-ffe899aba1c8,9e3de384-c023-46ae-4036-6b59e9e53a21,698360004,Diabetes self management plan,15777000,Prediabetes
+84503a8d-c8eb-7b1b-9855-6ecca9f8e266,1981-08-19,,fe47f88d-4c6a-308e-46bb-ffe899aba1c8,fee24b3b-64c9-e43d-317c-605911dab0c3,736252007,Cancer care plan,126906006,Neoplasm of prostate
+7ccdc9fb-6f5b-da2d-fd70-91fca70d9a12,1998-05-27,,fe47f88d-4c6a-308e-46bb-ffe899aba1c8,2cd05f72-c02b-5ddf-0235-e34897518b86,735984001,Heart failure self management plan,88805009,Chronic congestive heart failure (disorder)
+1b258ef7-d14a-57af-99e9-1f73ba404cf0,1999-05-22,1999-05-28,fe47f88d-4c6a-308e-46bb-ffe899aba1c8,ca48d816-5280-be23-4b35-a4eb9e6b3ad1,736353004,Inpatient care plan (record artifact),88805009,Chronic congestive heart failure (disorder)
+35314a94-cc1d-417e-379a-a79a2509b255,1999-11-24,,fe47f88d-4c6a-308e-46bb-ffe899aba1c8,ab6350ba-4141-a6c4-3708-26bbdc31c7a2,736353004,Inpatient care plan (record artifact),88805009,Chronic congestive heart failure (disorder)
+e99ed5be-136a-c420-f074-b124fcf6c7ed,1963-04-08,,dfad1eca-b35d-480c-1b33-9a8b19ba6d95,531805e7-e6b3-a334-ad94-e1063f5e7381,698360004,Diabetes self management plan,15777000,Prediabetes
+dc5ecf9d-54de-4810-5d55-60a59608bd71,1975-05-12,,dfad1eca-b35d-480c-1b33-9a8b19ba6d95,94528651-6ebc-6b84-9cb5-b7b94f9eeabd,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+4c35869d-492f-f335-ef83-223ccbd6def9,1986-02-21,,cd803c46-257c-71a9-a46f-836241f592ba,0a684f42-eb6c-f414-0ddd-2816df762506,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+8b2ed18b-7d01-f622-d158-9848ab8228e0,2012-07-10,2012-09-08,8e5161e7-770a-0667-3269-f5dd224dbf0b,b0bf5945-4ccd-7b15-6783-6f7edfb108c4,47387005,Head injury rehabilitation,62106007,Concussion with no loss of consciousness
+454effab-8454-83fe-8c9d-548222d6b77c,1950-09-02,,f8cd3a63-48b1-8226-a016-745c829fe1f7,586ff8ce-ec0d-e077-c449-d371d415c472,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+22f9bc20-1b19-fc25-3bc2-e62d609edce5,1966-12-03,,f8cd3a63-48b1-8226-a016-745c829fe1f7,df6abab1-1e44-fe9c-bc69-fd696367b8bc,698360004,Diabetes self management plan,15777000,Prediabetes
+e334e6ff-954b-8d9f-cd49-e78f2ebe054a,2010-08-01,,f8cd3a63-48b1-8226-a016-745c829fe1f7,1803bc27-d553-6617-847e-5b3d9b8fcada,736252007,Cancer care plan,126906006,Neoplasm of prostate
+ed20f851-68e6-3e1d-3563-89f3ee7cf690,2011-12-31,2012-01-14,f8cd3a63-48b1-8226-a016-745c829fe1f7,b47bc835-e673-8917-0fdb-d48a604a87e0,225358003,Wound care,283385000,Laceration of thigh
+68394a65-1498-e1aa-5480-f72f5d01e2c8,2013-09-28,2014-10-10,f8cd3a63-48b1-8226-a016-745c829fe1f7,ac764be1-94ed-9534-8bda-35b69efbe166,395082007,Cancer care plan,109838007,Overlapping malignant neoplasm of colon
+a5da0fd9-57f4-a895-863b-dd5f653881fa,2013-10-05,2013-10-15,f8cd3a63-48b1-8226-a016-745c829fe1f7,a4755cb1-b01f-2675-ebdb-32e110822d97,781831000000109,Major surgery care management,109838007,Overlapping malignant neoplasm of colon
+5bb4423e-e2cb-07bc-c0ea-b203f42fc800,1915-05-13,,d4ae9e7d-5966-a304-a14c-db35b0a10383,b3118011-0ab1-3419-ac06-6241b6251ed2,384758001,Self-care interventions (procedure),,
+ac95f0d2-ad90-842d-4be1-afb94c477d25,1957-09-27,,d4ae9e7d-5966-a304-a14c-db35b0a10383,978cf5d7-ed39-d2c8-8fea-3eb08613f711,408869004,Musculoskeletal care,201834006,Localized  primary osteoarthritis of the hand
+b026cea2-7186-aa9a-4e78-67ae30c83226,1964-10-08,,d4ae9e7d-5966-a304-a14c-db35b0a10383,e6278a70-9243-dcf0-b754-d802a1ad2ed2,734163000,Care Plan,,
+51099432-19f6-7a6d-9108-58566ab5cd58,1988-02-12,,d4ae9e7d-5966-a304-a14c-db35b0a10383,b12d0800-23ce-04fe-c8ba-1ab666223f21,736252007,Cancer care plan,126906006,Neoplasm of prostate
+630472be-649d-b27f-5e7b-e3761b6dc12c,1999-03-31,1999-04-14,d4ae9e7d-5966-a304-a14c-db35b0a10383,33564569-9638-209a-5747-8eea30c2614f,91251008,Physical therapy procedure,70704007,Sprain of wrist
+1b75eaa2-7280-f865-cae2-b12a7c4dfcc5,2002-05-09,,d4ae9e7d-5966-a304-a14c-db35b0a10383,8b3bc33f-2ea8-6b43-deb0-13b7a27ef6c1,386257007,Demential management,26929004,Alzheimer's disease (disorder)
+ad2acab0-fa8e-c12f-f7f2-9725e5463b04,1932-10-08,,f55388a3-163f-a2b9-37f6-3fc0642dfa4b,987daa2b-31ed-7a9b-79c4-e2b228e2ef75,384758001,Self-care interventions (procedure),,
+e3849fb4-22e1-46c3-e6d3-d532fa59d231,1945-09-10,,f55388a3-163f-a2b9-37f6-3fc0642dfa4b,797f6c39-2385-2fd4-4a32-9c24d4210fca,736254008,Psychiatry care plan,47505003,Posttraumatic stress disorder
+560da35f-5475-85e0-9ec4-a9ba962e853d,1948-12-07,,f55388a3-163f-a2b9-37f6-3fc0642dfa4b,1751e8cd-81cc-0813-6c50-cd42b9b309d0,698360004,Diabetes self management plan,15777000,Prediabetes
+fe66bbe3-3c62-053a-3b62-fa5690fbaffe,1953-10-20,,f55388a3-163f-a2b9-37f6-3fc0642dfa4b,73f1144f-6d1f-61ad-ad72-4256a2344f33,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+85f51898-2629-1d25-b724-8e63abeff8c0,1982-10-16,1982-10-30,f55388a3-163f-a2b9-37f6-3fc0642dfa4b,6720a5a1-ade1-9690-a222-04d5f8794c6b,225358003,Wound care,284551006,Laceration of foot
+484ad495-ae1c-3896-9e42-955c16d7f0f8,1983-01-18,,f55388a3-163f-a2b9-37f6-3fc0642dfa4b,a1dcc6ba-24c2-16d7-e6c8-5ca7205984fd,386257007,Demential management,26929004,Alzheimer's disease (disorder)
+d3e1b7b9-a290-815f-2327-3a2a6d3c3c0e,1952-07-27,,ef799586-da86-e5fb-ba76-b1a6a91bbc7b,ebb85eb7-460e-f3c8-805d-b647607fd8b9,698360004,Diabetes self management plan,44054006,Diabetes
+d23cf7f8-d3aa-9b1a-b661-a9693711ac1f,1997-11-02,,ef799586-da86-e5fb-ba76-b1a6a91bbc7b,f9ac27f0-8be8-2a79-1a6c-7df568e4a2f6,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+d8aa70aa-d756-7c80-e6c2-4e9fce1aada9,2012-02-13,2012-03-12,ef799586-da86-e5fb-ba76-b1a6a91bbc7b,210d25f6-e39b-137e-a74a-cdbd9bf4f0ac,133901003,Burn care,403190006,First degree burn
+8b7ef2e5-e305-53f6-7cab-2d65654b434c,2015-12-22,2016-02-20,ef799586-da86-e5fb-ba76-b1a6a91bbc7b,0024e36b-0f82-5460-f9e2-c0a07c73439d,385691007,Fracture care,263102004,Fracture subluxation of wrist
+43213aac-7f28-8e24-0a79-8b6c075bd4c8,1990-05-14,,88283177-1681-0afc-1e54-f2b2b0e8275b,d2267923-5050-8dc0-2c20-e543da36a66d,698360004,Diabetes self management plan,15777000,Prediabetes
+037bf0c2-c113-a2b1-b157-29034caa70a6,1972-09-29,,d454a65f-6444-802b-8e43-49b27d1fc524,cb4a64be-22e5-84c7-b515-ec565c2cae79,698360004,Diabetes self management plan,15777000,Prediabetes
+859afe7b-17b6-b0ed-4184-a8ebb5a5f40e,1958-07-14,,f1b7c1eb-a05c-000d-dec5-fbe501a6593a,4a2a873e-43b6-e64d-780d-42eaf961698c,698360004,Diabetes self management plan,15777000,Prediabetes
+be63734d-393b-e44e-9f21-fdb1f9e280a3,1967-06-11,,f1b7c1eb-a05c-000d-dec5-fbe501a6593a,30cda8e9-36c7-ca6b-7e7e-c65a78c37406,408869004,Musculoskeletal care,239873007,Osteoarthritis of knee
+7c0da323-0f6e-299f-9721-06b831275539,1983-10-18,,f1b7c1eb-a05c-000d-dec5-fbe501a6593a,26013da8-cdc3-e968-8747-e6cd912fc60a,736252007,Cancer care plan,126906006,Neoplasm of prostate
+54973622-5848-9d6e-3377-629181301fad,1996-01-01,,f1b7c1eb-a05c-000d-dec5-fbe501a6593a,2c2fd36f-bfce-158f-1c66-b1527f5b1a7a,412776001,Chronic obstructive pulmonary disease clinical management plan,87433001,Pulmonary emphysema (disorder)
+be060d4a-2e39-5d96-3adc-b90e06fbc43d,2002-02-04,,f1b7c1eb-a05c-000d-dec5-fbe501a6593a,5b36d35d-b5d9-19a4-cc39-133ce46093ea,386257007,Demential management,26929004,Alzheimer's disease (disorder)
+a596ff06-ee04-a1a7-9015-7069840ee62e,1960-10-25,,6b7c0027-120f-50a5-36fd-5ee84337d719,6c7171b2-5747-8af9-b272-2897488c9315,698360004,Diabetes self management plan,15777000,Prediabetes
+a0fe3f48-2094-5fe6-0801-ed07ae100adf,1980-10-03,,cb68e867-91ce-9592-7e84-dafc3d7f8f5e,725ee44d-44d1-aed2-cd40-d60c7b663a93,698360004,Diabetes self management plan,15777000,Prediabetes
+e1f07b70-6886-2f36-8895-d1b879ce705d,2012-06-06,2013-01-31,cb68e867-91ce-9592-7e84-dafc3d7f8f5e,85a2ecc2-12ae-362a-80dc-373307185e61,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+48563ed1-fa7e-ec3a-a4f6-99787f0ed10a,2014-07-28,2014-08-04,cb68e867-91ce-9592-7e84-dafc3d7f8f5e,833dc538-9880-89d0-8a74-936efbfa7dbd,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+9d661582-765a-caa2-65e9-d137315f53b4,2015-03-04,2016-02-18,cb68e867-91ce-9592-7e84-dafc3d7f8f5e,9d733b90-75e9-d7d6-9bb9-f15a049293d7,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+f707c71e-83e4-cbda-35e9-0207dce9f26a,1993-01-05,,8db378e0-9e07-8426-fa88-b431378f5fb9,5674da3d-8f4a-5d37-3f37-0288b61d288c,386257007,Demential management,26929004,Alzheimer's disease (disorder)
+95f5db32-57ff-267e-4d1c-60376e8a16f9,1966-02-01,,e0b81f75-6315-842d-8d31-a191df7c5bf1,429939db-1f68-8f0b-108e-dc237e352b8d,698360004,Diabetes self management plan,15777000,Prediabetes
+eadc1553-0c4a-424c-5fd8-7a8e975d13cf,1969-11-11,,e0b81f75-6315-842d-8d31-a191df7c5bf1,a66666bc-a6ef-7267-227e-2f86bae56c3f,408869004,Musculoskeletal care,239873007,Osteoarthritis of knee
+6daa1368-39b2-8b55-ca21-6928a162d539,1976-12-21,,e0b81f75-6315-842d-8d31-a191df7c5bf1,50f40728-b1a3-5be5-23a6-edad74f6897e,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+6e7aad51-ebd7-5c54-9c28-d666d7521040,1952-11-01,,f1596f42-5688-d406-519e-2b720e3314f3,4f646dd4-7cc4-ea95-0f27-937d8cecced7,408869004,Musculoskeletal care,239873007,Osteoarthritis of knee
+7ce2b98f-25d1-28fc-6771-8c2fad07c5f6,1994-05-11,,f1596f42-5688-d406-519e-2b720e3314f3,aafdc3e1-0d03-89e3-5b30-c9db05000644,386257007,Demential management,26929004,Alzheimer's disease (disorder)
+16a2862f-97ac-18b1-7ad4-f7ef2b4adc93,1946-03-03,,ea0ebd9c-97a8-8971-9c29-e422216a8e28,17cfae5e-8fb5-5440-113f-ec1b3dcff4f5,698360004,Diabetes self management plan,15777000,Prediabetes
+dedae65a-3925-0973-0cfe-6b81e79e2261,1972-12-21,,ea0ebd9c-97a8-8971-9c29-e422216a8e28,7413a5e3-48e7-9691-216a-d343ba5f313e,408869004,Musculoskeletal care,239873007,Osteoarthritis of knee
+d584c29c-37f8-36f5-5df1-022ac8c3662f,1978-01-08,,ea0ebd9c-97a8-8971-9c29-e422216a8e28,bb8cb554-1885-473d-267c-4ec02201b2a6,412776001,Chronic obstructive pulmonary disease clinical management plan,87433001,Pulmonary emphysema (disorder)
+406ac2fb-439d-7ed0-111b-5ebda8bc62b7,1983-05-30,1985-10-31,ea0ebd9c-97a8-8971-9c29-e422216a8e28,1a0e92e8-67ce-9cbe-ac84-d04c6491a0e5,395082007,Cancer care plan,109838007,Overlapping malignant neoplasm of colon
+f5be0d74-e236-41a8-0cf6-76e9ff7ae0cc,1983-06-06,1983-06-26,ea0ebd9c-97a8-8971-9c29-e422216a8e28,ccdca33a-d752-ff90-5716-a6b0682858f4,781831000000109,Major surgery care management,109838007,Overlapping malignant neoplasm of colon
+4be533f4-8bcd-5e39-5056-774b1a57ad54,1965-11-17,,bac273d4-e81d-00c3-9ddf-f046a666f025,027f640c-27f7-48fe-308d-118d78c629e6,698360004,Diabetes self management plan,15777000,Prediabetes
+4012d752-388a-2d6b-56a8-8d6d1c487ba2,1996-05-08,,bac273d4-e81d-00c3-9ddf-f046a666f025,754bd28a-35fd-7588-699f-52f30160a30c,386257007,Demential management,26929004,Alzheimer's disease (disorder)
+0beadbf1-0245-d796-3c02-1c576c3d6d27,1988-03-15,,ff02f656-69fd-efe9-0402-8daa260e54a7,e2e88e7f-8bc7-e4b4-bcb7-d80fa13a1d31,386257007,Demential management,26929004,Alzheimer's disease (disorder)
+5041b13d-5ab7-6694-8aca-8cbe5b04d9f8,1988-04-05,,ff02f656-69fd-efe9-0402-8daa260e54a7,94b715a6-0a53-4aab-a6f1-10a672708590,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+15ae981f-3a5e-5e72-56e7-d06367268868,2014-02-02,2014-02-16,c9359c09-245c-0f84-602d-32b9cb35ac98,6563e88a-2b1e-be52-11cb-7950c6c34a3f,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+04b9b6af-2a43-7e0a-964e-7b9c41c74408,2014-07-18,,c9359c09-245c-0f84-602d-32b9cb35ac98,a36be51d-f467-9368-98b0-0b14fba9f2a3,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+69f8a9d1-9d13-28a1-12f6-7a2d2d9855bf,1971-08-03,,b4a9a663-7fdc-9c91-7a4b-7ac14884ff5d,00d8bed1-5f24-0eb9-bb9b-d96bfb9e4b43,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+e886a789-53db-e4bf-c7e4-90e06c544be7,1972-07-25,,b4a9a663-7fdc-9c91-7a4b-7ac14884ff5d,3ee2c56b-2fd9-7a3f-555a-4528dacbd56a,718347000,Mental health care plan,36923009,Major depression  single episode
+f4127840-0175-c3f4-4925-8fb091a47481,1972-07-25,,b4a9a663-7fdc-9c91-7a4b-7ac14884ff5d,4247336a-f7ae-811a-245a-776748514c30,737434004,Major depressive disorder clinical management plan,370143000,Major depression disorder
+d3cccdc2-8b7c-5a0a-797d-ca31bc52bbbc,1973-05-19,,b4a9a663-7fdc-9c91-7a4b-7ac14884ff5d,b8ba139d-fcdd-6d91-128f-ded564e76f59,736254008,Psychiatry care plan,370143000,Major depression disorder
+122344f3-aed8-87bb-b822-95b4bcdecfe8,1991-11-26,,b4a9a663-7fdc-9c91-7a4b-7ac14884ff5d,92a146c9-54a3-7b62-aefb-840534e4e1a3,698360004,Diabetes self management plan,15777000,Prediabetes
+b3400b3d-274a-63d5-f559-f44867481df0,1999-05-29,,b4a9a663-7fdc-9c91-7a4b-7ac14884ff5d,077fe502-37ef-ba01-c55e-dcc5203f9a33,408869004,Musculoskeletal care,239873007,Osteoarthritis of knee
+610b3f9d-446c-d6a5-7e74-3df525a39ed1,2015-02-09,2015-04-07,b4a9a663-7fdc-9c91-7a4b-7ac14884ff5d,edb5b448-b198-fb7f-546f-edfa74d08bb2,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+65dc927f-deae-fdf8-54bb-b9c767092748,2016-05-03,,b4a9a663-7fdc-9c91-7a4b-7ac14884ff5d,03a217ef-dd7f-dee5-e0a1-56bdeef7a770,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+805ab2d2-4629-2d57-26b2-610c28b681fa,1920-05-11,,96f56917-8f62-64c5-41ff-e1e06f9104ba,dd7355d2-5bff-c27a-005f-92dad759bd40,734163000,Care Plan,190905008,Cystic Fibrosis
+37ab4d1e-c6c9-0541-f853-74ed6f22b6c1,1933-05-15,,96f56917-8f62-64c5-41ff-e1e06f9104ba,e280e5ef-71b1-c460-c3d4-3091e805bf8f,698360004,Diabetes self management plan,44054006,Diabetes
+ac3b6106-fa49-1f78-18cc-b39397929a85,1933-06-12,,96f56917-8f62-64c5-41ff-e1e06f9104ba,1cf6418c-c9aa-5270-ada2-868f7439ede4,703040004,Agreeing on diabetes care plan,427089005,Diabetes from Cystic Fibrosis
+c1b33a55-08eb-26d4-cfc1-6cd36e2afba4,1942-10-24,1945-06-25,96f56917-8f62-64c5-41ff-e1e06f9104ba,cae0e867-3358-d0eb-5630-6a7f025e3dad,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+7596eba2-16a8-c979-3b4e-715251e7dc1e,1944-03-06,1944-10-09,96f56917-8f62-64c5-41ff-e1e06f9104ba,c586faed-5e24-e03e-feab-dacb1fc1f1ab,134435003,Routine antenatal care,72892002,Normal pregnancy
+843f0a52-5ce3-ac4c-fc71-b769b735d6a6,1944-04-13,1944-05-11,96f56917-8f62-64c5-41ff-e1e06f9104ba,a84eeeb3-4f9a-0020-892f-7fc77eb62f97,91251008,Physical therapy procedure,70704007,Sprain of wrist
+f3ed507e-b082-8624-a875-c4ae70787493,1946-06-24,,96f56917-8f62-64c5-41ff-e1e06f9104ba,6aafca32-d280-9619-6502-b8fdce27d122,134435003,Routine antenatal care,72892002,Normal pregnancy
+9c46cb33-3b56-ca20-4117-815243e9b959,1945-02-15,,ee66db08-faac-04b8-d14a-a45748709c07,e3475136-55e9-365c-eb8e-b90ec35a75fd,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+b1a99930-28f9-21f9-d7d3-cdf607afb51d,1961-02-26,,e4aa3da5-5600-6038-9b92-a93278fbe3ed,5b9a084e-24b9-4594-38b7-7e46147e9ec3,412776001,Chronic obstructive pulmonary disease clinical management plan,185086009,Chronic obstructive bronchitis (disorder)
+6685cbe7-b3f6-3016-5211-3b6fc38ac2e9,2014-10-24,2015-05-29,cda99814-5788-fcd3-3de7-f7cf9d57f4d7,e8ee7f17-af71-effa-c082-1de07e21c923,134435003,Routine antenatal care,72892002,Normal pregnancy
+50a8d44b-ff5a-a80e-f0eb-4a383bc8c52a,1969-05-18,,fe61d66b-7cdc-9549-0bd2-3dc20becebd0,06bdb786-41b3-7834-716b-cc881c94abe5,698360004,Diabetes self management plan,15777000,Prediabetes
+3a8f0ec8-80c6-f77f-4c66-ac8c1120c347,1986-04-13,,fe61d66b-7cdc-9549-0bd2-3dc20becebd0,ecf8e834-dcac-0101-d1a4-e39d2080f1a0,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+170b494a-e522-3997-6140-ba0160efe3f2,1990-08-20,1991-04-21,fe61d66b-7cdc-9549-0bd2-3dc20becebd0,f3f02d77-9699-1bc5-bd91-3410966a4c5c,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+04fd98e4-3d26-34c8-f2aa-8b8480af14f4,1938-06-13,,de39bc12-e63d-df5b-4d3e-4b098705caed,bee99fa3-e8fa-158d-a029-2f9cedcf8952,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+0c5103ff-1daf-4aec-bb2f-2e8a592a6668,1960-04-09,,de39bc12-e63d-df5b-4d3e-4b098705caed,736680c6-1a3d-7c74-f069-397398085594,408869004,Musculoskeletal care,90560007,Gout
+314e2460-f93d-cd6f-2d73-0a850f8b55bf,1996-05-27,,de39bc12-e63d-df5b-4d3e-4b098705caed,6f9b822e-3c9a-e20b-7477-d2bf007bfe21,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+c96b4641-bc21-cbcb-8112-df238c2ac716,2000-11-27,2001-01-26,de39bc12-e63d-df5b-4d3e-4b098705caed,7d4eaf54-71a5-4781-4fb1-b149fbc71f79,385691007,Fracture care,16114001,Fracture of ankle
+6612cc29-0933-624a-d247-86f8bd27be60,2015-04-02,2015-05-02,7c703ab2-778e-3634-acef-3f08f970f9d2,c9e588c3-74b6-e713-4bea-90123ca50eff,385691007,Fracture care,58150001,Fracture of clavicle
+170515fb-760a-0680-1c20-c89bef74d102,1997-10-13,,a1f69be4-f8bc-0693-73d2-45688f11fd3c,7513878d-8b4f-aa3d-002f-75f6d1dd03af,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+ee4f6a66-639e-e25a-983c-1d89c62d58ae,2014-04-02,2014-06-01,a1f69be4-f8bc-0693-73d2-45688f11fd3c,12e8f7b6-6a62-4624-3ab9-371c11635d91,385691007,Fracture care,65966004,Fracture of forearm
+9b3824eb-e9c8-eab1-caaf-965dee0da861,1919-06-26,,e346f117-03c8-5a35-69b7-58c5f0e54bdc,98501f5f-29a6-fb58-55a7-6e2b978babe0,384758001,Self-care interventions (procedure),,
+8c5647e0-8d8d-e924-ddd9-3d3b881267e2,1966-02-25,,e346f117-03c8-5a35-69b7-58c5f0e54bdc,c2706668-b9b0-62a3-93ba-d4199da578ae,698360004,Diabetes self management plan,15777000,Prediabetes
+da694a6a-d35e-dd3a-b599-e9b9ea5cce83,1988-06-17,,e346f117-03c8-5a35-69b7-58c5f0e54bdc,21ffb860-870c-f0db-ce7a-7e8e3acd055b,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+f75e969c-311f-43ea-f82d-1fa2cff664c4,2011-07-15,2011-10-13,e346f117-03c8-5a35-69b7-58c5f0e54bdc,f5d74476-f3ba-23ec-896e-e4276713a66e,385691007,Fracture care,263102004,Fracture subluxation of wrist
+22ed21b0-9774-bbc3-c97a-5b6ed8905316,2015-04-17,2015-10-30,e346f117-03c8-5a35-69b7-58c5f0e54bdc,eeae71cc-ae28-c2bb-ab7b-90cc32330cd3,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+a122081c-4677-9835-96f4-681ef293516f,1970-12-18,,c5c4a7fd-8f23-dc87-37cd-d5b4aa1ea754,54aecdb5-1ed4-731d-7a9d-df341b039c2a,698360004,Diabetes self management plan,44054006,Diabetes
+a6b272cb-35bd-5cc1-4e8d-4ee1d1b736b5,1990-10-12,,c5c4a7fd-8f23-dc87-37cd-d5b4aa1ea754,9733071f-d4e7-9c62-2a8b-f322e3a27edb,734163000,Care Plan,449868002,Smokes tobacco daily
+329accd0-5c16-4d26-f444-f247e8edb19b,1996-09-29,,c5c4a7fd-8f23-dc87-37cd-d5b4aa1ea754,99d698c9-83f2-7140-9d61-61398e8ddf23,408869004,Musculoskeletal care,239873007,Osteoarthritis of knee
+6bfac071-14a9-8194-4ce1-9850dd899d1b,2014-11-14,2014-12-05,c5c4a7fd-8f23-dc87-37cd-d5b4aa1ea754,8dc621da-36a6-89cd-2b33-9a7ecf88ba36,91251008,Physical therapy procedure,44465007,Sprain of ankle
+0f9064ab-bbb0-2547-ffec-ebacdb7c01f4,1994-11-21,,f5a00d2e-ed46-d366-6b3e-03ed2e5c19af,ef868dd3-4813-08e0-e5cf-225609d7d198,698360004,Diabetes self management plan,15777000,Prediabetes
+af19e904-43d8-a1f5-78ce-cce82a23a7f2,1957-09-27,,a307b196-a8c0-9cc2-37ad-a23371cb3f9a,c3dbbcc9-a0cc-bece-24c2-40df18d2afe7,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+a6f68308-6041-fc60-d286-18775c6001d2,1958-01-09,1958-08-07,a307b196-a8c0-9cc2-37ad-a23371cb3f9a,a82d1025-ff0d-179e-22f8-ba77ec18af5d,134435003,Routine antenatal care,72892002,Normal pregnancy
+08f0f0bd-28cc-01a1-9a1e-0f286f0e6ed9,1952-10-31,,e57b5f39-e55b-117f-8990-b7b3c8496c68,0a004b9d-1250-e570-133b-4d9322ab917c,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+584c7d2f-9042-81bd-d2d6-0c0556d2e9a1,1956-11-23,,e57b5f39-e55b-117f-8990-b7b3c8496c68,1f27cace-ce81-5452-e793-b276ade22ee1,698360004,Diabetes self management plan,15777000,Prediabetes
+c8f1bd4b-363f-d351-cca7-fc2ad64eb1aa,1980-04-25,,e57b5f39-e55b-117f-8990-b7b3c8496c68,aaa819de-f374-a387-5f94-49c955b7de2c,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+a3dd8ae0-9636-4a6f-6b60-6ce52fb9e0cf,2013-02-24,2013-10-11,e57b5f39-e55b-117f-8990-b7b3c8496c68,e13f7b24-8824-4e1a-fe5d-e45e07361817,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+29fb7d88-9341-0d1e-fb5c-88ce5dc3c02d,2013-08-31,2013-09-26,e57b5f39-e55b-117f-8990-b7b3c8496c68,3d470646-5608-b700-4ae4-d3a964bb2f13,133899007,Postoperative care,,
+0f63f7ec-be84-69d4-12d9-c4f508f6f4e3,2014-05-25,2014-06-08,e57b5f39-e55b-117f-8990-b7b3c8496c68,4660e946-8e44-959c-5f3c-09fbd787d390,225358003,Wound care,283371005,Laceration of forearm
+f7010776-7e45-393e-5588-e6828597277f,1931-12-28,,d02b4998-d49c-26f7-2d16-dd5aa4a545a2,1021c9f0-d045-0684-4f3a-e9a7abf225ca,384758001,Self-care interventions (procedure),,
+a938ca88-0ce8-f958-2995-da8a8fcd2142,1943-08-02,1943-09-06,d02b4998-d49c-26f7-2d16-dd5aa4a545a2,16d50f1a-6d4f-05ef-2291-d5c986cb9524,408869004,Musculoskeletal care,39848009,Whiplash injury to neck
+446e94f1-df71-f8ea-7747-825e5d75043d,1949-03-27,,d02b4998-d49c-26f7-2d16-dd5aa4a545a2,7d577ca3-7441-5b40-aa3f-ea7dc5992c4a,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+38990947-2ce3-92ef-5755-e56f2aebe085,1963-09-26,1963-10-31,d02b4998-d49c-26f7-2d16-dd5aa4a545a2,b8b6b6cd-37a6-782a-5648-451002d629af,408869004,Musculoskeletal care,39848009,Whiplash injury to neck
+2b42a223-4004-7727-0111-36a741a45a33,1981-10-26,1981-11-16,d02b4998-d49c-26f7-2d16-dd5aa4a545a2,0e77e011-ee00-2678-34e9-a2a5aedb212a,408869004,Musculoskeletal care,39848009,Whiplash injury to neck
+35d5b020-df58-50fc-cb23-108aff36e1b9,1986-09-21,1986-10-19,d02b4998-d49c-26f7-2d16-dd5aa4a545a2,677d0260-45e7-e6a1-c10f-e7f509c29b1e,408869004,Musculoskeletal care,39848009,Whiplash injury to neck
+6ab42bd4-e32c-f094-0535-e2a309ee993a,1996-01-16,,d02b4998-d49c-26f7-2d16-dd5aa4a545a2,fb23e568-fe60-0e4f-903c-3d96eefc2641,408869004,Musculoskeletal care,239872002,Osteoarthritis of hip
+3fb45245-8abe-9eec-6789-c602330a0e87,2014-08-28,2014-09-18,d02b4998-d49c-26f7-2d16-dd5aa4a545a2,9b1f915c-5db2-8584-aaa3-f83751a072c7,91251008,Physical therapy procedure,70704007,Sprain of wrist
+7ea6c686-1f16-1be1-c4a6-74baec379faa,2012-03-04,,7cb241ac-e8e0-f141-a371-7699a66669aa,38794809-b777-6c5d-d772-9baeb626e5c4,386257007,Demential management,26929004,Alzheimer's disease (disorder)
+8e6928ec-dcc0-3d52-cd4f-e800cac2b51e,1970-07-14,,701ca864-c137-c6ab-d15c-823c83b28a31,3ab3e362-b4de-95c8-0337-2e41d41cad6d,698360004,Diabetes self management plan,15777000,Prediabetes
+61433927-f2fb-ee2e-e219-f1cf6345cc82,2014-11-08,2014-11-22,701ca864-c137-c6ab-d15c-823c83b28a31,29c0c092-96bf-b997-53df-26818d229ff1,91251008,Physical therapy procedure,44465007,Sprain of ankle
+5ca68fee-a61d-6dd4-7a75-87cd8029392a,1953-02-28,1953-03-21,ca9df6e1-d8d5-4450-7ad7-246de200e9d8,5a1e85c5-f0c2-fad8-719e-91f279296e7e,408869004,Musculoskeletal care,39848009,Whiplash injury to neck
+e507b6bf-0b8c-ea23-2aac-042617a6484c,1968-06-01,,ca9df6e1-d8d5-4450-7ad7-246de200e9d8,8845f024-11b7-1a8e-3269-1b4831ee13ba,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+49c7ce5f-25af-2eb2-d62a-5efa90cc9edf,1974-07-06,,ca9df6e1-d8d5-4450-7ad7-246de200e9d8,7b69ef4e-a581-461f-070b-744d088ef958,698360004,Diabetes self management plan,15777000,Prediabetes
+a342565a-6838-57ef-6df6-cc92f2fc03c7,2003-03-26,,ca9df6e1-d8d5-4450-7ad7-246de200e9d8,e3019bb7-6d4a-e6db-63d6-afae69247c58,408869004,Musculoskeletal care,239872002,Osteoarthritis of hip
+5bebae76-2d50-12e1-2e5c-c18da1c681b7,1993-06-22,,8aace7fd-2227-9b1b-d6b4-26f24667ea1f,92cb747c-9a78-426e-5053-c0c02084a761,699728000,Asthma self management,233678006,Childhood asthma
+f9aaabed-fb31-055c-beac-5484668c9fd4,2012-12-21,2013-07-26,8aace7fd-2227-9b1b-d6b4-26f24667ea1f,93a2b673-39ba-f35d-bca0-4ac425642f08,134435003,Routine antenatal care,72892002,Normal pregnancy
+189ae575-3276-bdb4-4896-e30b12d11612,1987-12-18,,dd2c4f7b-6827-611c-97b7-807e826d7871,f0cfabb8-fa33-bc1d-ee7d-1bc1757a99cb,384758001,Self-care interventions (procedure),,
+ee4d1d83-59fc-75a4-06f9-f3f790348a6f,2011-11-03,2011-11-17,dd2c4f7b-6827-611c-97b7-807e826d7871,0d98e5b0-6bec-1f80-0b04-badfc850c64b,737471002,Minor surgery care management (procedure),,
+50349a41-129d-513a-49d1-a63d9b910c8f,2015-04-24,2015-05-22,dd2c4f7b-6827-611c-97b7-807e826d7871,cc88bd77-6f72-a1ef-597b-b315c79af039,133901003,Burn care,403190006,First degree burn
+e6d8bd23-6ba6-a02c-1c2b-e78067d46bd7,2007-06-29,,fb3e2b2a-cd27-ba7e-f6fb-d43b06ead6ce,ad871e6b-ae9f-3321-5fb7-49dca90901ea,698360004,Diabetes self management plan,15777000,Prediabetes
+9167c80f-5c8c-6471-0884-afab60b06cf4,2010-07-02,,fb3e2b2a-cd27-ba7e-f6fb-d43b06ead6ce,5d03a85f-1327-35f3-6aac-0a6c130b7ef4,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+360ff817-5a97-8c89-cdec-a92c1456fd00,2010-12-30,2011-08-05,fb3e2b2a-cd27-ba7e-f6fb-d43b06ead6ce,c96edb08-775b-12bc-4468-ecd0cf765ca2,134435003,Routine antenatal care,72892002,Normal pregnancy
+7881e543-d7e9-715b-beed-d29d9772ca47,2012-02-26,2012-07-13,fb3e2b2a-cd27-ba7e-f6fb-d43b06ead6ce,03403366-1786-db7c-9004-ae0bc97de2f4,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+b2a5cd08-a72d-2e89-3cb8-d1f1cbce2037,2015-08-29,2015-09-26,fb3e2b2a-cd27-ba7e-f6fb-d43b06ead6ce,35412a80-9250-0451-df0a-7fc399b96450,91251008,Physical therapy procedure,44465007,Sprain of ankle
+49a173b5-83be-ba86-100b-41da73ac0e4a,2013-10-29,,ff333bea-cb71-d89e-b120-0339e29bf9fe,a3ef004f-c0bd-9105-d064-3ba8878a8f06,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+05091b04-660e-6aa2-e0ed-30ae97a271dd,1964-06-19,,f12ff989-9593-71f1-66e6-502ec9b3fecd,6ca5f2a1-cd6b-767f-e0e7-8d933d333737,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+eb7e7403-bca0-102e-e39f-5789ef1f5c01,1989-11-10,,f12ff989-9593-71f1-66e6-502ec9b3fecd,aaf6461f-e169-a722-a07b-4b47b1e54809,698360004,Diabetes self management plan,44054006,Diabetes
+1ba0d1ff-4934-b409-3e22-ffcfad52131e,1994-05-13,,f12ff989-9593-71f1-66e6-502ec9b3fecd,69201df2-3a88-dddc-9643-97d2dfc9f4da,735984001,Heart failure self management plan,88805009,Chronic congestive heart failure (disorder)
+d5c9e484-8256-afdd-bcf2-ac1bf2d73a9d,1994-11-09,1994-11-13,f12ff989-9593-71f1-66e6-502ec9b3fecd,18de3b75-e489-5d06-7ea0-20a1c509a71c,736353004,Inpatient care plan (record artifact),88805009,Chronic congestive heart failure (disorder)
+255e4a46-e24d-42ac-80df-685a538fcb74,1983-10-07,,889ded4f-c1b7-f011-a0f4-18c9bfa91e20,8fae454a-dd35-bf45-b482-f5e9f2a07e2b,384758001,Self-care interventions (procedure),,
+a987082a-a0cb-47cb-b25f-291566bf6173,1997-11-06,,889ded4f-c1b7-f011-a0f4-18c9bfa91e20,47a86f07-f1c0-746b-912c-4757f1d981ff,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+203e4a1b-d7f9-c824-1d19-59289aa99c66,1992-07-28,1992-08-27,b658cddf-f8f5-d3bd-2c5a-ea5f5a3fd5ac,c2bd8429-d912-b351-8a72-50e9d5a39be7,385691007,Fracture care,33737001,Fracture of rib
+a84e4ab1-63c4-6c02-56be-fa7658941fe3,1994-02-18,,b658cddf-f8f5-d3bd-2c5a-ea5f5a3fd5ac,6efc19a3-fc1b-6748-d863-337453b1f297,386257007,Demential management,26929004,Alzheimer's disease (disorder)
+a7f966bf-0fea-f3e5-1f66-0aa638edb51e,1992-06-12,,ef8eaa08-3e89-4eb7-6d32-772f9034000a,02d6ad9d-5cf7-8907-7f16-6496fcd6878b,698360004,Diabetes self management plan,15777000,Prediabetes
+46002344-707f-ee1c-6f73-bed1ab1f0fdf,2013-11-20,2013-12-27,ef8eaa08-3e89-4eb7-6d32-772f9034000a,b9351cca-15c0-e846-cfc0-1116ae3a4bf8,91251008,Physical therapy procedure,444470001,Injury of anterior cruciate ligament
+65f64703-ba62-443f-4a45-dfc4c5a67963,1989-06-07,,99c3e055-5358-ccb1-84e6-d9ea0804fc33,e70afbeb-6b96-14ee-410a-da2cc27d5120,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+1eb342fa-7787-7312-84cb-1b0838a84ad5,2013-08-29,2014-03-27,bba66637-581d-b353-6274-2c1dd4cc63f3,32b7783c-4475-937e-ac1d-c136b40d250a,134435003,Routine antenatal care,72892002,Normal pregnancy
+07eae8df-bd60-41c2-bb5b-f967816111b8,2015-12-08,,bba66637-581d-b353-6274-2c1dd4cc63f3,b0f7ed62-90d1-0df2-5282-c654fede21e8,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+75a4f6e7-5c65-c549-6bc4-70721042fa25,1978-08-09,,ec11d6ac-4101-a048-79a2-d85a919efb46,01a371cf-83e5-4929-4a75-014339f148ed,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+c8ee6636-e2a3-9b90-5824-446c8b93ba20,1985-07-08,1985-08-05,ec11d6ac-4101-a048-79a2-d85a919efb46,b1b93e75-bc8c-4741-7923-b96ebb17c92d,408869004,Musculoskeletal care,39848009,Whiplash injury to neck
+d5af4d4d-96df-bf72-c666-1dc76f6c119a,2004-06-11,,ec11d6ac-4101-a048-79a2-d85a919efb46,f09ab6e1-376c-de52-e160-8b51e1876c69,408869004,Musculoskeletal care,200936003,Lupus erythematosus
+915d4497-a36b-6278-3be0-eca504fe5af6,2012-07-21,2012-07-28,ec11d6ac-4101-a048-79a2-d85a919efb46,0f7562f7-4765-a1a0-6a56-d0289345386c,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+15f848f9-5bc7-2cf1-8bab-16cde482aacb,2011-08-01,2012-03-19,e74e8334-2093-5dca-251f-7ac6ff02f87b,78ffdd61-a6c8-138a-417b-f76419f135c0,134435003,Routine antenatal care,72892002,Normal pregnancy
+7981c587-efcb-e131-c7d2-8c715b8e05c9,2014-08-04,2015-03-23,e74e8334-2093-5dca-251f-7ac6ff02f87b,a87ae599-480e-afc9-e5a4-c8fb2870974c,134435003,Routine antenatal care,72892002,Normal pregnancy
+6e08363a-52db-cad1-ecb3-b30cc67975e1,1965-09-03,,b29130d4-66d4-84aa-97d5-d4c0fd943eab,3e654377-5ef9-8530-53bb-0e73a447bdb9,698360004,Diabetes self management plan,15777000,Prediabetes
+8cb922e8-0dd0-b836-2c16-6d7bbcbe1450,1994-03-30,1995-01-13,b29130d4-66d4-84aa-97d5-d4c0fd943eab,c8112b30-a56e-b743-a552-5e704fa95862,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+1205e9bc-de7a-84f8-6cc6-12905e43c022,1995-01-13,,b29130d4-66d4-84aa-97d5-d4c0fd943eab,442b3fa4-4e3b-dc52-3738-1ea28bc07831,386257007,Demential management,26929004,Alzheimer's disease (disorder)
+6e368047-827c-f864-deb2-6888bfee3924,1997-10-01,1998-01-30,b29130d4-66d4-84aa-97d5-d4c0fd943eab,ae7d91de-d2ec-6c2b-a930-aa4e7826b6e8,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+2152f5d8-74f5-eb7e-ccc8-ffd49964b829,2001-02-09,,e390edb6-1c08-4b2d-dfe7-06eb2d003bd8,c9dbc817-0360-a351-5da8-435e08c49031,711282006,Skin condition care,24079001,Atopic dermatitis
+ada37136-2d2c-a045-37b5-3fd1bd3637dd,2002-06-27,,e390edb6-1c08-4b2d-dfe7-06eb2d003bd8,d278fe34-4789-0797-dd66-aa607deecffc,384758001,Self-care interventions (procedure),,
+08947efa-9c3c-a072-dcb6-febfb195fe3b,2005-02-08,,e390edb6-1c08-4b2d-dfe7-06eb2d003bd8,e0a18fc6-4f02-e512-ad9a-50daa29963c9,699728000,Asthma self management,233678006,Childhood asthma
+f580a187-6c58-2e33-aff3-4e55d48c5620,2012-01-04,2012-01-18,e390edb6-1c08-4b2d-dfe7-06eb2d003bd8,912b9e4e-9ada-1131-a853-7a4e54fac79f,91251008,Physical therapy procedure,44465007,Sprain of ankle
+62ab673a-8ef7-ae2a-6e68-e765533e184c,2012-10-22,2013-02-22,e390edb6-1c08-4b2d-dfe7-06eb2d003bd8,f293a4c1-89fa-c0ca-3774-3c0dca070d0d,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+171aae16-e321-9ae0-c8fd-5f32a75d1d31,2014-02-07,,e390edb6-1c08-4b2d-dfe7-06eb2d003bd8,3557015e-69a4-b3cd-5e5d-7cb2ada9ea14,170836005,Allergic disorder monitoring,,
+c5279201-88e4-0f97-0c16-9bb01dc6b19a,1959-05-22,,b23528b7-538f-4397-5af0-017eccfe4129,dd483fd9-5b5f-defc-fa96-527641eba0d5,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+bf9eab76-9c6f-c95c-d73b-c684ef61b12c,2006-03-03,,b23528b7-538f-4397-5af0-017eccfe4129,c1152552-8b7b-17ec-c5fe-bb2045a0efbd,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+cc2a09a1-9983-dd87-0675-cabedef31e64,2015-07-31,2015-10-29,b23528b7-538f-4397-5af0-017eccfe4129,0b61578a-5934-3c47-1878-c819b8ec04ff,385691007,Fracture care,263102004,Fracture subluxation of wrist
+bdbbad5b-6e96-e8da-a0dd-f52adffa7fca,1988-06-01,,de713898-01c1-58d6-4ab9-11d0337a59f7,62d944ed-59d0-4f30-664c-00ddf5d268a7,698360004,Diabetes self management plan,15777000,Prediabetes
+2219ab6f-e572-91a9-ea0b-de45399acb5d,1991-06-05,,de713898-01c1-58d6-4ab9-11d0337a59f7,64b0e6a2-cdb8-ed4a-70d2-5c06f28f01ef,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+b2190b9d-c517-b69d-9362-1675b232f6b5,2012-12-26,2013-03-03,de713898-01c1-58d6-4ab9-11d0337a59f7,86765b49-94e1-054f-b60a-82331bb216b6,91251008,Physical therapy procedure,444448004,Injury of medial collateral ligament of knee
+2d333d30-45fd-98d0-0a32-a80932703d9f,1995-09-02,,ab7eaa58-97fa-8634-3b1e-aecf8783282b,0d14c5e6-accb-b70b-9fd4-df52bc9e25d4,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+645771bf-682b-a3c0-7a51-65c6f048cd9c,2011-07-02,2012-01-28,ab7eaa58-97fa-8634-3b1e-aecf8783282b,18f86174-b36f-1721-89ce-eafca714eb74,134435003,Routine antenatal care,72892002,Normal pregnancy
+caec563e-be9e-0054-8d59-94954e3cfe63,1941-04-01,,e05609f1-2c1d-bd65-7578-c5bd3b7a93eb,18fb4db7-f2d8-7eb1-54ac-4448f16e3137,734163000,Care Plan,449868002,Smokes tobacco daily
+6094e1c7-3337-c44a-9d92-dcb7b4db8786,1955-01-19,,e05609f1-2c1d-bd65-7578-c5bd3b7a93eb,baf6bf96-bfa2-5169-e1c2-e0413972758f,736254008,Psychiatry care plan,47505003,Posttraumatic stress disorder
+998caead-574b-19fc-4e5c-9daa03686080,1967-03-14,,e05609f1-2c1d-bd65-7578-c5bd3b7a93eb,b880921d-1778-54dc-44af-97a26effced5,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+36039010-c1e1-ce8d-db0a-1d79f0a69f52,2002-03-31,,e87a6fbb-f0c0-fac0-4207-93698009e721,d7000c9e-c9af-bd2d-b0dc-f21a0aebf140,734163000,Care plan (record artifact),55680006,Drug overdose
+a292c5e7-14d3-adcd-b0e7-fc61e87e2108,2012-12-16,2013-01-20,93d2afc7-cb76-1e4e-64fb-b357085ec509,1d385f68-2344-c094-1379-3bfdec8a36bd,91251008,Physical therapy procedure,70704007,Sprain of wrist
+e2ee0dea-c6d3-9420-19c1-e0b936429f02,1956-11-10,,bdcce647-4ad3-9265-302f-cdd063e86916,9faf11ff-bc12-bc5c-8a88-0ee048be509e,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+140e6a1e-bf47-bdce-42ea-42137d6744d6,1994-07-02,,bdcce647-4ad3-9265-302f-cdd063e86916,e252ab16-8658-7bfd-83d0-a665ab2cd744,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+082299b6-1c2d-a04a-e627-4752d57fd78c,1996-12-20,,bdcce647-4ad3-9265-302f-cdd063e86916,355e91ba-5890-cea6-d21e-6d7209bb997f,734163000,Care plan (record artifact),55680006,Drug overdose
+a09ec2f6-2fe3-1c4b-a138-69ee55c786b0,2002-09-01,,bdcce647-4ad3-9265-302f-cdd063e86916,249dab5e-1565-ec49-ac6e-8348de0a9a37,408869004,Musculoskeletal care,239873007,Osteoarthritis of knee
+f679a708-db24-6b21-aedd-63d1b01a5b76,2014-11-17,2014-12-01,bdcce647-4ad3-9265-302f-cdd063e86916,b7fa8989-e7b1-dc84-8258-6a790a13e2ed,225358003,Wound care,283371005,Laceration of forearm
+06a7fb07-43ac-f330-9125-08c379d959b1,1991-01-29,,e24b3035-68da-2f37-97b8-e3eb90609b61,d4803516-cfb6-fa05-3ffa-d38fbc1671d9,698360004,Diabetes self management plan,15777000,Prediabetes
+2039c94b-9f16-8e19-f450-bbcade0c97d2,1962-04-05,,c68bdb7c-1d1c-6d33-4519-b3e810656252,5897d77a-ae45-ba4b-9c3b-1e65838c65a1,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+55a9cfac-12e3-bcea-ecc4-c87d30d4337e,1977-06-30,,c68bdb7c-1d1c-6d33-4519-b3e810656252,6dcb8db7-6508-cdbd-3a6b-b69645e79d7f,698360004,Diabetes self management plan,15777000,Prediabetes
+40489dba-fbc8-6423-9d84-95295392f0e9,1996-11-07,,c68bdb7c-1d1c-6d33-4519-b3e810656252,adc87167-330a-d523-91d2-12796baf412e,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+09738b09-8e45-55d7-416c-aa99c68f7ab1,1999-01-27,,c68bdb7c-1d1c-6d33-4519-b3e810656252,07c6b6f8-1b64-40d1-ce32-e8326381c0a9,408869004,Musculoskeletal care,239872002,Osteoarthritis of hip
+f29c4462-97dc-5747-65b0-dccec6b5aeff,1936-03-12,,c9332015-f09f-0168-2b97-f3808282e2a1,6f9d91aa-e04f-23a2-e549-8786f683c0f6,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+2a35155d-935f-9d7b-ad3a-9a507a16d431,1944-01-29,,c9332015-f09f-0168-2b97-f3808282e2a1,08015573-c769-3a6e-d4ad-c03f4125c244,384758001,Self-care interventions (procedure),,
+9ebf94e5-4c17-0b0d-39ca-8da6a1b7e462,1946-01-03,,c9332015-f09f-0168-2b97-f3808282e2a1,c60cc9d2-4b55-3cab-15b8-2f7d004b981d,408869004,Musculoskeletal care,90560007,Gout
+17b46bfd-510b-39d5-f72a-7c53977a475a,1953-06-18,,c9332015-f09f-0168-2b97-f3808282e2a1,ac12ece3-1ded-759f-6786-e02c5294a752,698360004,Diabetes self management plan,44054006,Diabetes
+0c3af12b-4771-4e2f-5d82-ef048b5c4f3b,1996-12-18,1997-01-22,da792a29-135b-8b1f-df98-11840b2a7d34,a5f50814-a14b-a9d7-c094-1ee63d5657ad,408869004,Musculoskeletal care,39848009,Whiplash injury to neck
+a835de23-97c1-e5d7-36ac-59d185597377,1999-09-13,,da792a29-135b-8b1f-df98-11840b2a7d34,eef240cc-b9e7-b028-e1a2-5afeaabe86d9,408869004,Musculoskeletal care,239872002,Osteoarthritis of hip
+8e121468-608f-8d26-471f-581115e37e19,2013-02-27,2013-03-20,da792a29-135b-8b1f-df98-11840b2a7d34,2634f711-16c6-61c7-abca-8008e61317cc,91251008,Physical therapy procedure,44465007,Sprain of ankle
+333120b2-b0bd-39fe-5a1e-15c6982ce767,2014-07-07,2015-01-14,da792a29-135b-8b1f-df98-11840b2a7d34,da61c734-8c6d-8ec1-f3a9-4870359f3696,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+7c96e5e7-d0fb-c427-6f40-eec3815557ed,2015-11-12,2016-01-20,da792a29-135b-8b1f-df98-11840b2a7d34,8eb31e6a-2e43-9d91-cd98-0219ffd3fc75,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+13b4bb6a-a74d-6921-36c1-239420b995a6,1955-04-16,,f1b51784-01de-7dae-efd3-2aed4f149638,d45776b9-9918-59a5-cdb4-e8a9717b42f3,734163000,Care Plan,,
+3be9862f-f393-afb6-8bc6-b74e15b6c07e,1974-01-24,,f1b51784-01de-7dae-efd3-2aed4f149638,2c67b480-f7bc-de4d-601c-13cf678f1d37,408869004,Musculoskeletal care,90560007,Gout
+02900a28-88d3-f2a2-e561-9c56ec844644,1994-05-07,,e1e85c51-3926-c2e2-3e79-e61d8d367415,5f59c33b-ddbe-07cb-013e-548398b59212,698360004,Diabetes self management plan,15777000,Prediabetes
+d3990b81-ee4d-ba45-050d-5ae8171dcf98,2014-10-08,2015-03-21,e1e85c51-3926-c2e2-3e79-e61d8d367415,21338fab-74ff-c72d-3e83-e47a3233b563,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+4e4388d0-d420-c437-a11a-aa69135489cc,1998-10-12,,f3389ada-eec9-cc7a-00be-f66699079720,1f1c3698-2d1a-efc3-e04e-577f47dd3694,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+ed358d38-ac92-aa15-2092-d6ba11da3849,1938-11-21,,a4477aee-18f4-3a07-6a94-69c3bde9fd1a,d424fb90-eb5c-3a01-4f2e-48ae9b689114,698360004,Diabetes self management plan,15777000,Prediabetes
+948468f3-1ba7-1dda-d646-a8eea0edb858,1971-11-22,,a4477aee-18f4-3a07-6a94-69c3bde9fd1a,0afd3e71-f4a2-7ccb-ab4b-448fe5c3ab64,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+76ec6461-189c-4279-a5a1-72146db10f71,1976-11-17,,cb20addb-bdc5-fa80-eca2-295c6502c457,180174ae-7808-b37f-92bb-9eb9314987c9,698360004,Diabetes self management plan,15777000,Prediabetes
+b314327a-62a3-c067-c2f1-388317ea69f4,1940-10-06,1940-10-13,afd2900b-7318-586a-f83e-aff2bcefa834,adfe7325-c066-cec1-900a-6fa0fcc6e4e8,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+069346d8-535e-8e76-4a83-9eb4eb4c8a84,1963-08-15,,afd2900b-7318-586a-f83e-aff2bcefa834,7148e0d5-3024-669a-c8e7-c324f16b527c,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+88962b8a-6c19-57c7-be62-722e5606a15c,2001-06-25,,d52b7361-7024-2cbd-506d-74020eee4202,388440ed-979a-814f-5c70-448d8c3787e1,384758001,Self-care interventions (procedure),,
+ee34f33e-7259-36d8-d7e9-86e280c29f41,2013-09-02,,d52b7361-7024-2cbd-506d-74020eee4202,9b7de317-6b28-cde6-179a-76f5fcbd4c16,170836005,Allergic disorder monitoring,,
+b2254f37-56a9-c0c3-f2b2-e8cc33670093,2014-06-16,2014-07-16,d52b7361-7024-2cbd-506d-74020eee4202,03d1b193-a22a-dcd8-3c57-80009989f0e5,47387005,Head injury rehabilitation,62106007,Concussion with no loss of consciousness
+db2f257a-64a9-2679-71ca-4b9540a97837,2014-05-23,2014-06-13,ae7b7411-e85e-ed55-201f-2a83f49c2837,5dc23818-a0d0-280d-11ea-021a09dbcfd0,91251008,Physical therapy procedure,44465007,Sprain of ankle
+9fca1c0e-f5fa-cf07-f840-fd276dfc959f,2016-02-03,2016-03-04,ae7b7411-e85e-ed55-201f-2a83f49c2837,f882e138-591a-d861-0981-a4ac28334572,47387005,Head injury rehabilitation,62106007,Concussion with no loss of consciousness
+06b87128-af63-27ba-06b0-c84ad37e8be6,1957-08-31,,e56fa7b9-ca69-bd4b-85c1-a631973d6b2b,850f5d40-26c5-f1a1-8e3b-b34d1c29a104,412776001,Chronic obstructive pulmonary disease clinical management plan,185086009,Chronic obstructive bronchitis (disorder)
+a2c31d0f-344c-9046-a0fd-902ff3e2b43f,1976-05-29,,e56fa7b9-ca69-bd4b-85c1-a631973d6b2b,80b478e7-5bd6-1ed4-4515-7233aeb219f0,408869004,Musculoskeletal care,239873007,Osteoarthritis of knee
+163eb6fe-1da1-534f-6896-631a542e6edd,1996-01-06,,e56fa7b9-ca69-bd4b-85c1-a631973d6b2b,1895a081-cb6d-2072-c4d9-5994dfe22822,386257007,Demential management,26929004,Alzheimer's disease (disorder)
+08143c0d-b84c-f0e8-6e96-7de075b1c714,1946-12-18,,f759a2bf-5334-cadc-7f9a-b4c725b40316,6e3b10e3-9e3c-663d-1a75-3efdaf7ef853,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+8a4fdace-d0c4-eb74-3f65-327ee40c37f2,1999-10-12,1999-11-09,f759a2bf-5334-cadc-7f9a-b4c725b40316,b1204522-d161-7347-6d8f-ab3a5de6cfef,91251008,Physical therapy procedure,44465007,Sprain of ankle
+625feffe-d460-0e10-f1db-750c9e47b888,2001-08-30,2001-11-28,f759a2bf-5334-cadc-7f9a-b4c725b40316,d2c41e06-850f-4b44-1f7e-a8f665255807,385691007,Fracture care,65966004,Fracture of forearm
+efe29dc8-7eaa-988f-022a-06f53c61f568,1983-04-02,2001-06-17,da3115f6-29b5-6f74-5846-cc5c0d494fb9,2a105423-eda9-1738-1a9b-d95776bd2250,408869004,Musculoskeletal care,201834006,Localized  primary osteoarthritis of the hand
+a88a48e6-27a1-f48f-2b3b-e77c9a47ee89,1946-12-18,,537fd69b-09ac-c673-406d-5ac37e29a93a,505b0358-c495-dd30-3cf8-b1a67705f8e7,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+6ed706b4-9c56-633c-18e2-5063245fab21,1974-05-22,,537fd69b-09ac-c673-406d-5ac37e29a93a,92da64a2-ecfc-0e1f-929e-433a98f6a1e4,698360004,Diabetes self management plan,15777000,Prediabetes
+634917e9-4117-e98b-516d-9f4a8b2e5a7c,2011-12-11,,c5df50fd-2061-785d-8e03-ef304f81c03b,63334096-d717-3c6b-5dbc-da71f4785790,698360004,Diabetes self management plan,44054006,Diabetes
+76dafd49-d6b4-14fd-c1bd-78de3fa8b31e,2011-12-11,,c5df50fd-2061-785d-8e03-ef304f81c03b,63334096-d717-3c6b-5dbc-da71f4785790,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+3e0c4914-65fb-6d5d-2dee-64871f6c97d9,2015-03-18,,cd38387f-e259-a502-9adc-da5bfd379c3a,98c67391-326c-8d5c-ef3c-740a05a00767,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+3d1a4460-ece5-b7a1-5b1a-fdfcf8525bfe,1974-05-01,,a55c5883-94bb-7ef5-0f62-45fc122c0652,5cfb8daa-3b78-e0b1-db5d-99580ce66c3c,384758001,Self-care interventions (procedure),,
+4ace4439-0ac4-9a9e-6d40-299985bdaa1b,1977-07-10,,a55c5883-94bb-7ef5-0f62-45fc122c0652,ea332229-1736-a8a8-9d48-d7b42c46885c,699728000,Asthma self management,233678006,Childhood asthma
+97c2a52d-4069-5ab1-a1cd-024d52695b00,1991-07-31,,a55c5883-94bb-7ef5-0f62-45fc122c0652,ab62f4b0-a097-3b83-d014-64195ea28b3b,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+34f88bbf-f03c-e6b6-e987-5867f68f3d86,1991-07-18,,eadfc332-292c-4972-c8be-4d4cb989e319,d8eb7503-d3e7-b0a1-a31b-dd7f3d44e7b0,698360004,Diabetes self management plan,15777000,Prediabetes
+e3813a72-3e5f-6eec-c846-29ce0a6bd1db,1995-02-15,1995-04-16,eadfc332-292c-4972-c8be-4d4cb989e319,397aecb0-ca8a-a55c-9053-99bfd09416ea,91251008,Physical therapy procedure,307731004,Injury of tendon of the rotator cuff of shoulder
+e3548060-7887-6e70-6681-51c2b52e5cd1,1996-02-10,1996-03-02,eadfc332-292c-4972-c8be-4d4cb989e319,20d917c9-af4f-b0e6-9273-94fa7b0b7086,225358003,Wound care,283385000,Laceration of thigh
+93fbcbef-001b-f6d2-ab5c-cb808da917f0,1979-03-02,1979-07-26,ca823919-68ac-65f0-cb30-eb4aefce987b,0b3c7fb0-9aed-4f29-2fee-29ae1d1409b2,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+0193a56d-b6b7-19ab-6d4a-249e6b15eb60,1980-01-26,1980-02-25,ca823919-68ac-65f0-cb30-eb4aefce987b,24853c3c-628e-95f1-6cd1-734b07646e11,47387005,Head injury rehabilitation,62106007,Concussion with no loss of consciousness
+a8bc81e2-1106-1f8b-34d3-cdf6f2b0c2df,1980-06-16,,a52b94bc-b04f-fbd3-eb7a-2f3b31735d4c,5f07c14c-9a9e-b31c-28fb-57afb60e7933,698360004,Diabetes self management plan,15777000,Prediabetes
+914b25e1-ad56-c525-b946-9916f7954c03,2009-04-23,2009-05-23,a52b94bc-b04f-fbd3-eb7a-2f3b31735d4c,0977b071-e4ef-687c-7784-aeb6e985757e,91251008,Physical therapy procedure,239720000,Tear of meniscus of knee
+7567ee52-b42f-b17b-7c62-4700cdb52b80,2010-10-18,,a52b94bc-b04f-fbd3-eb7a-2f3b31735d4c,3e724ee3-fb2b-12b5-d514-bd62291335db,386257007,Demential management,26929004,Alzheimer's disease (disorder)
+8ca5123b-e536-10ef-99b1-edd7a7a33614,2011-11-19,2012-10-29,a52b94bc-b04f-fbd3-eb7a-2f3b31735d4c,8deacefd-f28d-a34c-63ab-98fe9c507dc8,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+d14b01aa-5e83-4271-d809-80517c6b9eaa,2012-04-07,2012-05-07,a52b94bc-b04f-fbd3-eb7a-2f3b31735d4c,ec59ca8f-e8ad-130d-266a-8384d3a77d08,385691007,Fracture care,58150001,Fracture of clavicle
+bfb78b35-fd85-1b71-d902-589f7d121190,1970-04-21,,d2e38894-e66a-4af7-e434-0614c5ee39ed,4a763404-700e-28a1-3dbb-39113f2c7003,384758001,Self-care interventions (procedure),,
+83402409-0194-cf29-4eaf-de523ece85af,1994-04-16,,feece4e4-efdf-a47e-9722-a475783c3075,5f44711c-2ec7-c325-ba62-2cb3f5c516ac,698360004,Diabetes self management plan,15777000,Prediabetes
+45bbb04f-b65b-60f6-fbea-e5d785fb1f01,1936-07-16,,a8620d16-3d1b-45fe-a79e-b35e57c70c29,267ee5d4-fe41-7937-8ed1-710d7976366d,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+de7a4746-9b52-5342-d143-1a6f4f4d8644,1943-08-26,,a8620d16-3d1b-45fe-a79e-b35e57c70c29,945bd72e-f13d-48a4-90dd-bfc85330a831,734163000,Care Plan,,
+6d315b59-b42c-a0ce-5007-c18f9fe0f005,1937-12-18,,f4f8f0ea-7071-f114-fea9-7f05402941d6,1fdaa92d-7068-9339-d80f-a7500636d0a3,734163000,Care Plan,449868002,Smokes tobacco daily
+74ba93a5-55ac-4144-9d32-02ea22cfc384,1988-01-31,,f4f8f0ea-7071-f114-fea9-7f05402941d6,ebd03896-e4a9-009a-57b9-02a2c4908309,736252007,Cancer care plan,126906006,Neoplasm of prostate
+400c924b-f7e8-0c14-9d52-9b94f1d86542,2011-01-25,,a84d0379-d1bc-545a-22c2-d393e01155d3,a2a903d0-51f8-5e5a-d75c-ef5b84b5136c,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+d1b08aed-9561-395a-2e19-cbc269799dca,2013-11-29,2014-02-11,a84d0379-d1bc-545a-22c2-d393e01155d3,3e8593dc-859c-17b4-2eb2-0f8adcafa313,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+2c37dfff-f06a-7a4f-e90a-63ee276e2126,2014-02-11,,a84d0379-d1bc-545a-22c2-d393e01155d3,8cd4a4c9-44f5-2d3e-377b-0d503d59bc89,698360004,Diabetes self management plan,15777000,Prediabetes
+7e0deeeb-0b51-4932-abbf-8ca697b418b5,1964-08-24,,ed15e77a-f12e-24d8-34a9-02ab93173ca5,ec274bca-2d06-bc17-f14a-f372bda81649,698360004,Diabetes self management plan,15777000,Prediabetes
+9446249e-80a5-d68a-1595-04e3dba67215,1990-01-15,,ed15e77a-f12e-24d8-34a9-02ab93173ca5,1781ed48-4bfc-c83f-656b-56cbc0f5949f,386257007,Demential management,26929004,Alzheimer's disease (disorder)
+4fc4097f-16cf-5326-4f1f-a8eeba009f0c,1990-02-21,,ed15e77a-f12e-24d8-34a9-02ab93173ca5,b58e56cd-8423-be1a-ba46-75d1c9494431,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+1bf69aaa-3e79-df04-c5f8-c7d983fd39d6,1998-11-09,,f88b0f4f-c850-4799-8bc7-f1cc42e22c65,5aa9d339-9795-7c40-4b29-e768af3c2dcc,698360004,Diabetes self management plan,15777000,Prediabetes
+0e0fe069-5663-05af-7fc1-f25c01f832b7,2013-08-24,,f88b0f4f-c850-4799-8bc7-f1cc42e22c65,6f761008-68c2-c4d5-63c8-75c4bf3a4a09,408869004,Musculoskeletal care,239872002,Osteoarthritis of hip
+67966c03-731c-b654-e977-6184b9666497,2011-08-24,2012-03-21,57ceb339-4eef-492a-fe01-15c5aefc45a4,db44c33a-4251-bb25-e0a5-63b79423d8a8,134435003,Routine antenatal care,72892002,Normal pregnancy
+baa4926e-ba2f-8896-6e8e-3e95ec362cb5,2012-03-19,2012-03-26,57ceb339-4eef-492a-fe01-15c5aefc45a4,02f5bec3-1b37-6fb4-7b98-dbe6cd703d81,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+a0c05169-e75e-e06c-656c-3275ecfc9a91,2012-06-25,2012-07-09,57ceb339-4eef-492a-fe01-15c5aefc45a4,f36adeb1-9f49-624f-06aa-e506a265fd79,737471002,Minor surgery care management (procedure),,
+b7f0a8c6-f708-ddf2-baa5-7c05995b049b,1974-12-25,,bbe49b02-ce19-ae00-0d58-cdec9037bab4,707c8d5c-5e2f-068e-0b65-7bc5b1911879,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+3b51c9a7-06b5-402b-2f7d-dffae611dbdc,1994-01-15,1994-01-29,bbe49b02-ce19-ae00-0d58-cdec9037bab4,751dfe69-1b11-f953-9d36-3ebd05f17094,225358003,Wound care,284549007,Laceration of hand
+af9c6529-7c30-4ace-1ba3-9a409684743f,1997-02-19,,bbe49b02-ce19-ae00-0d58-cdec9037bab4,817340e8-a4b7-7cd9-1ce3-a1820a575a58,736252007,Cancer care plan,126906006,Neoplasm of prostate
+3904e311-5a36-a61c-4cbf-6fe3cd5952b2,1945-10-27,,bf082c5d-a251-01af-d1dd-90e1646b4853,6f43a338-d2c7-6fb2-2305-2ca2023f83c0,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+c71c370a-6468-f656-60b8-a508b7fe8862,2012-05-05,2012-05-19,bf082c5d-a251-01af-d1dd-90e1646b4853,11fd7b58-dfb3-fabc-9fec-edaf8ceaf872,225358003,Wound care,284549007,Laceration of hand
+01aad260-2b33-9200-f141-f5b50ce0a519,2012-11-16,2013-11-16,bf082c5d-a251-01af-d1dd-90e1646b4853,a03a6e20-b985-e926-9c93-a19ecb80b883,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+4a1a38cd-7938-3226-e7ef-eb46d6eec983,1999-03-10,1999-06-08,f32959a9-d0ee-65ee-6d27-e85f29ab0e6f,f1feca42-1c88-9c1b-f79e-08550df3a7f9,385691007,Fracture care,58150001,Fracture of clavicle
+5961a560-d48a-7f29-2e82-41508f54997c,2002-07-24,,f32959a9-d0ee-65ee-6d27-e85f29ab0e6f,16801d25-1be6-7297-ecb6-3a4f58c9db53,386257007,Demential management,26929004,Alzheimer's disease (disorder)
+b7ea0a7e-15eb-f137-1de9-70d6156ea1dd,1939-03-16,,b503dcec-c7ee-2620-0024-80a44aa61094,803baa6b-5542-2191-1bbd-c2f32b344773,734163000,Care Plan,449868002,Smokes tobacco daily
+969f7b60-653a-72dc-d489-f53c61d0e129,1948-03-25,,b503dcec-c7ee-2620-0024-80a44aa61094,baa40b81-f35f-f69a-0f03-774259385dfb,698360004,Diabetes self management plan,15777000,Prediabetes
+a9f793d6-3d08-c470-7208-33d75025a05b,1959-02-12,,b503dcec-c7ee-2620-0024-80a44aa61094,b9ee1f91-0ee6-14c6-2eb1-0217670726df,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+6466c503-787f-4b28-fc20-9ef1c6861b0e,1978-03-10,,b503dcec-c7ee-2620-0024-80a44aa61094,f56456af-2d35-e141-5e21-e4b3ee95671a,736252007,Cancer care plan,126906006,Neoplasm of prostate
+f194830f-458c-71a6-85b3-59136d7b460c,1990-12-24,1991-01-23,b503dcec-c7ee-2620-0024-80a44aa61094,1fb5bfb4-2a59-0b9c-b7e0-6869736b06c6,47387005,Head injury rehabilitation,62106007,Concussion with no loss of consciousness
+54a881ad-0027-52f2-ee97-4025c5e6c847,1931-12-15,,c9549ef4-bd8a-c607-0387-d4e414d53860,3cc00caa-5053-ca60-91ea-8ef281700101,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+15569a35-1c7a-1e45-8790-f5b522e1d3cf,1992-11-24,,c9549ef4-bd8a-c607-0387-d4e414d53860,0cb7944c-3236-7bc5-5989-e8189e77560c,386257007,Demential management,26929004,Alzheimer's disease (disorder)
+5fe880a6-2c29-b667-8b16-2731ce434af9,1993-11-04,1993-12-02,c9549ef4-bd8a-c607-0387-d4e414d53860,9d206292-a631-eb49-727d-514d5b152533,408869004,Musculoskeletal care,39848009,Whiplash injury to neck
+89ba3f2d-4956-c4ce-9078-18c4d9da09b7,2015-09-09,2015-09-30,fbfa5cf5-f710-3a1e-c960-9143bb3ce652,7ed0b4e2-529b-a9ad-3259-825615c3c718,408869004,Musculoskeletal care,39848009,Whiplash injury to neck
+31efc79b-852c-b4ee-ffb4-a73b8c9d27c4,1956-06-17,1956-06-24,a9efd044-9c21-627f-a8fb-076118ea1e8a,bffa41b4-f65d-93e6-d224-b1a35b776467,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+56b6d3de-3359-7949-6c5b-bb496b9cfa79,1962-07-18,,a9efd044-9c21-627f-a8fb-076118ea1e8a,2400de34-99a3-2540-aff6-28cb9fe23e78,698360004,Diabetes self management plan,15777000,Prediabetes
+86c20012-2baa-d020-29b3-eda392b365f8,1964-02-15,1965-05-05,a9efd044-9c21-627f-a8fb-076118ea1e8a,99d3ea6c-a742-0bf8-8f26-7f1a18274694,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+11d32982-69dc-4921-c865-095d01fe7a5d,1987-04-11,1987-07-08,a9efd044-9c21-627f-a8fb-076118ea1e8a,f8214246-8554-17e8-e7d8-157e786e6638,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+d205cca2-9dca-a48e-1e71-fe383f078c00,2001-07-25,2001-09-26,a9efd044-9c21-627f-a8fb-076118ea1e8a,51dc5850-1817-df0e-bddb-487a0cf6b3a5,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+15d05926-f7a4-5efc-023a-e57981761bca,2010-04-14,,a9efd044-9c21-627f-a8fb-076118ea1e8a,3d6c942c-3358-97e1-dc6c-b508db332b84,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+4f214406-f1a2-e7d3-f2df-58c02ef20c7f,2010-11-16,2010-12-14,a9efd044-9c21-627f-a8fb-076118ea1e8a,06496a2a-7de7-9a9f-147b-cc083612f821,91251008,Physical therapy procedure,44465007,Sprain of ankle
+c6d82d2e-77e9-5338-c47c-e1de80b183c4,1965-05-05,,7674f269-4753-bb9a-5c3c-ec8bccf57bd0,c087edb5-606a-c72a-742c-6bc192e4416e,698360004,Diabetes self management plan,15777000,Prediabetes
+a4c45530-b9da-69dd-c987-e19d7b3f3557,1987-01-07,,7674f269-4753-bb9a-5c3c-ec8bccf57bd0,083a2df9-c84e-3d10-99b8-c386b3021eb9,408869004,Musculoskeletal care,95417003,Primary fibromyalgia syndrome
+6e76ee91-773a-979d-04c9-6c1a8e0e67ae,1998-08-25,1998-09-24,7674f269-4753-bb9a-5c3c-ec8bccf57bd0,b878ce18-98ce-14a9-2fcc-8e2bcd7748a0,385691007,Fracture care,263102004,Fracture subluxation of wrist
+f1e074c7-177d-e8be-4189-c4f149d642bc,1999-09-15,,7674f269-4753-bb9a-5c3c-ec8bccf57bd0,d9362853-e778-b902-97f5-8e4a5d961ff9,386257007,Demential management,26929004,Alzheimer's disease (disorder)
+0b72055a-b918-5491-8384-98f53c4aa2e7,1957-04-07,,ed7d7301-98e2-b163-b08a-f9d14edd0be6,48939350-a7da-ce51-374e-cccd430b3146,698360004,Diabetes self management plan,15777000,Prediabetes
+8694cf74-e5da-ea42-695a-ba32044a1436,1974-04-19,1974-07-14,ed7d7301-98e2-b163-b08a-f9d14edd0be6,7156ee57-1187-8b3d-ad2b-e4b34ef9141a,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+019c2de3-716b-cac1-234a-5d8b4181127d,1965-05-26,,b650cc23-7549-bf64-c845-6bfe22117b06,d5fe3478-37d5-5a6a-e481-40b1e39f23dd,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+5e9ed3bf-e465-2ecd-df38-dc667a5eab60,1972-09-29,1973-05-23,b650cc23-7549-bf64-c845-6bfe22117b06,80d6fb15-8603-56f3-abbe-eafde08ffd8e,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+ebd03123-e55e-8fd1-9554-6eab80eb9a98,1975-09-18,,b0a7d846-7ac6-7fda-7da8-8f83ae4a861a,af6d0e5d-97a2-a1d0-f82b-ad8318abfb4d,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+f6670697-d5f6-d9d7-050b-77f7ed0677c8,1961-02-02,,f769dbb8-9930-9efc-f80b-025d3a25192c,4676a050-2f6a-196f-25ab-3b57c6497b0d,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+ccd21e71-137e-5192-117e-399ad185995d,2003-09-10,2003-09-17,f769dbb8-9930-9efc-f80b-025d3a25192c,281684d1-b3ae-c96d-39a3-1aa7c5872b5e,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+4e641dd4-92a8-e684-de4a-8737cda89dfc,2003-01-02,,e9bebfd3-f53d-966a-0809-b42a3d7f08e3,ffc6e98e-c119-5812-6a67-849fb971d75f,386257007,Demential management,26929004,Alzheimer's disease (disorder)
+53bb5d61-bf24-91ba-6ba2-f697979ba5a5,1951-12-05,,b1702aed-2b23-1396-27bf-2f3be40a405f,6c32edc8-3f6f-2697-7a59-96a37fadf836,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+d22d244c-e38b-3cd1-f14d-60a6ae900b3c,1976-09-30,,b1702aed-2b23-1396-27bf-2f3be40a405f,e90edd4c-fcb4-fc91-28f3-a02be1c76973,408869004,Musculoskeletal care,90560007,Gout
+3aaeff57-1a4a-9236-27c6-d480b1765def,1987-10-21,,b1702aed-2b23-1396-27bf-2f3be40a405f,7bd3b376-e9a1-9375-40b0-9ae0d87a3943,412776001,Chronic obstructive pulmonary disease clinical management plan,87433001,Pulmonary emphysema (disorder)
+9aa707d9-d91a-f703-fd75-c783e75b2f6a,2000-07-08,2000-07-22,b1702aed-2b23-1396-27bf-2f3be40a405f,e6327ae3-065a-f3e2-b743-7bcba07af95a,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+dda28346-09c1-9800-89bd-e3870f251642,1980-10-11,,eaf8b5b6-0281-68bc-0a56-f0a0ec5731e8,d3e12eee-a1ee-8895-59bf-d8619a5e6a56,698360004,Diabetes self management plan,15777000,Prediabetes
+8dacf839-4079-57b7-4afb-8dff3054e512,1985-05-15,,d3a01806-0ae9-3089-60b7-f177505d30b0,f44357d8-7f9e-97f1-e9e6-8e62964f6d2a,408869004,Musculoskeletal care,201834006,Localized  primary osteoarthritis of the hand
+0ed97ef0-87f1-56fe-32ad-08a8ebae1a67,1992-06-16,,d3a01806-0ae9-3089-60b7-f177505d30b0,2dc0157a-44a4-e54a-5cd8-510d67081a5b,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+f380abe0-d407-eb90-6057-51846b5d025d,1962-04-22,,c3ee6a96-3637-42e4-1331-7109bc2db9b0,ee387812-6d09-f3e5-1663-904fd57fd457,384758001,Self-care interventions (procedure),,
+6f2d31c7-0cb9-1b39-1b36-d50b1437294b,1963-04-01,,c3ee6a96-3637-42e4-1331-7109bc2db9b0,382135bf-c92c-a345-6710-174abf628c65,699728000,Asthma self management,233678006,Childhood asthma
+5a554ffd-d07c-b825-4e64-f12f5bb9abe3,2009-03-13,,c3ee6a96-3637-42e4-1331-7109bc2db9b0,6e8dab7c-dd1a-bdcf-28c3-39ce434a926b,408869004,Musculoskeletal care,201834006,Localized  primary osteoarthritis of the hand
+d25d6ffe-0b88-9e19-f005-aca9cc167d94,2014-12-12,2014-12-26,c3ee6a96-3637-42e4-1331-7109bc2db9b0,8c06f2e3-49b5-851a-76c0-fe3a696396d6,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+48688923-91ec-a726-fff6-082d24a0f573,1924-08-21,1924-09-24,90d7f80d-60d3-4edd-ca1e-d6643f9a00f6,45892ecd-bcfb-c390-23ad-449366391415,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+acd8febd-6e3a-1fa6-c43b-ea312476781f,1928-05-08,1928-05-15,90d7f80d-60d3-4edd-ca1e-d6643f9a00f6,4bf3f40f-e4e0-4c59-f63d-f4d6040b73b8,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+bc31caef-1700-6dc2-849d-1e27433c18ee,1937-12-08,,90d7f80d-60d3-4edd-ca1e-d6643f9a00f6,5f115027-5990-b123-3e42-b9374b5577da,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+96c3bcf9-243c-0728-358b-a4767c3dae5c,1941-12-31,,90d7f80d-60d3-4edd-ca1e-d6643f9a00f6,0ed88152-2645-1134-997c-1234f05a30a1,698360004,Diabetes self management plan,15777000,Prediabetes
+0aafe819-c0da-8e0b-1826-196906edc24d,1943-12-25,,90d7f80d-60d3-4edd-ca1e-d6643f9a00f6,3212b995-ee1e-d06f-1b1a-65b90e5aff5d,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+0ef4b10c-3901-b033-2b7c-3cea24a98c4b,1988-09-20,,8f9bf2d6-2459-0704-e14b-e682c12cb358,cf8be0db-9bad-bc7f-01ef-4be74821b54d,698360004,Diabetes self management plan,15777000,Prediabetes
+5a536ee5-dcec-ede9-6a81-1da75c5ec166,2001-12-04,,c2a7166e-7395-938a-6f13-4cacbba56324,3fb03e0a-9295-7f58-d4a9-a5e24c3e6ef1,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+265a92ea-3bf5-f6ec-c48e-40872599e690,2008-01-16,2008-04-15,c2a7166e-7395-938a-6f13-4cacbba56324,c5dc5606-a387-d9ae-a554-43b892e08567,385691007,Fracture care,65966004,Fracture of forearm
+fcb0ba47-390a-62be-dfab-97e8792cf093,2010-10-02,2010-10-16,c2a7166e-7395-938a-6f13-4cacbba56324,8ff2e06b-fa66-8c80-92b7-c6b2eedeed5c,91251008,Physical therapy procedure,70704007,Sprain of wrist
+81ba51e7-e77b-474c-c298-cc5b077d743a,1938-11-24,,d8a851cf-a48c-0500-ad9b-c67f5b51d004,32b23866-7f14-60ee-cf18-bd71b2efc36e,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+6909107f-8d33-b491-66df-005719f5d262,1973-02-15,,d8a851cf-a48c-0500-ad9b-c67f5b51d004,80fa1b2b-9e02-06c9-b4b4-62a0d97d2dec,698360004,Diabetes self management plan,15777000,Prediabetes
+49155485-d9d9-7534-de45-28ee445018b1,1983-08-04,,d8a851cf-a48c-0500-ad9b-c67f5b51d004,169b63dc-2c71-624e-bc26-6a690c4972c5,386257007,Demential management,230265002,Familial Alzheimer's disease of early onset (disorder)
+df158464-4bc1-6ef1-858e-8fca14126027,1972-08-31,,e2af68ff-d601-e069-67c9-e9c2c56277ad,36b0eadf-307d-5234-94b9-152170770f95,698360004,Diabetes self management plan,44054006,Diabetes
+cf072444-ea98-89d3-6069-8b1b9123e13f,1990-12-27,,e2af68ff-d601-e069-67c9-e9c2c56277ad,b68542b2-06cb-b910-f058-33b7a02155fb,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+0b694d46-42cc-40b5-1d0a-e05a688f8430,1992-12-17,,e2af68ff-d601-e069-67c9-e9c2c56277ad,86608062-5728-610c-2762-166d338e1f35,736252007,Cancer care plan,126906006,Neoplasm of prostate
+88a416f5-d06a-5155-ec3a-7ec9f147efd7,2010-09-05,,e2af68ff-d601-e069-67c9-e9c2c56277ad,84af07ea-673e-3f9d-2667-a98db896f4fb,386257007,Demential management,26929004,Alzheimer's disease (disorder)
+0e8b91c8-d27e-c2ad-6eb5-735750f663e4,1960-12-25,,f483b8e2-34c3-0de3-7bfa-ea51fcc3ba66,e68d25cc-6356-52bd-e11a-40d7429f089c,408869004,Musculoskeletal care,201834006,Localized  primary osteoarthritis of the hand
+a2469897-451e-4d77-71a9-e8a5fd41d7f5,1943-12-12,1944-02-15,a70f35c4-1373-cb3f-621c-75ca043c72c0,10bba24e-56ce-b735-1d98-aaf18e6b6ddd,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+d08189f7-15f1-94a7-9091-e879228966b4,1952-12-01,1953-04-07,a70f35c4-1373-cb3f-621c-75ca043c72c0,0ce286df-b961-5731-1dac-4e0863f3efac,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+e997cc8d-ada5-308b-cb43-7ee2a6256429,1961-12-23,1961-12-30,a70f35c4-1373-cb3f-621c-75ca043c72c0,c3683292-4f6f-23f0-69da-e30e143219e5,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+755f07a8-1b5f-0d84-8f89-83592d5ac80a,1963-01-25,1963-02-01,a70f35c4-1373-cb3f-621c-75ca043c72c0,e40ba1f5-9750-ad2a-d357-0c8bbc05401f,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+27ae0913-0841-7d16-2054-6ca68c482593,1967-11-08,1967-11-15,a70f35c4-1373-cb3f-621c-75ca043c72c0,57b51036-d17e-4969-2abc-c8dab846410c,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+6f57c177-9ae9-8d7f-6dc4-0de77a3496cd,1981-04-07,,a70f35c4-1373-cb3f-621c-75ca043c72c0,5db2fe42-1abf-e199-cca7-53db07743ef4,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+9b45714e-e5bb-054d-49bf-f3a449d5c507,1993-08-01,1994-04-05,a70f35c4-1373-cb3f-621c-75ca043c72c0,9391e0e4-9294-1921-3f80-bf425e954b67,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+c1db8286-f2b4-afbf-ed49-f879102d74c8,1995-08-29,1996-04-16,a70f35c4-1373-cb3f-621c-75ca043c72c0,b9d4226e-3636-925c-55ad-5df8be74c511,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+dfe60778-0f6b-9cf7-05c2-94b6bc2e636a,2008-06-24,,a70f35c4-1373-cb3f-621c-75ca043c72c0,5d2b425c-1adf-0f76-34e8-10860e0816ec,386257007,Demential management,26929004,Alzheimer's disease (disorder)
+d86e34c1-0374-ee2d-4174-5a54f1fc49ff,1935-01-29,,ea4088e3-19a1-51ba-ec26-5c3866e0329d,51fe007a-9a80-c456-9c1a-e3f8fd5dfc4a,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+4cbab7cd-867c-e204-0e56-8c17ba4c48c0,1948-04-13,,ea4088e3-19a1-51ba-ec26-5c3866e0329d,fd72b3eb-1c29-6f25-54ad-535624053933,698360004,Diabetes self management plan,15777000,Prediabetes
+e30eb575-2eef-3bca-6d85-0e44794b8542,1961-07-18,,ea4088e3-19a1-51ba-ec26-5c3866e0329d,e7047ee8-f90f-83d9-937a-409d31a19349,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+95a82e76-13cd-9ca9-d541-19bcffe26dcc,2001-05-09,2001-07-08,ea4088e3-19a1-51ba-ec26-5c3866e0329d,9df98b17-7816-ffa8-0cbf-e244da0a6773,47387005,Head injury rehabilitation,62106007,Concussion with no loss of consciousness
+fab54a11-b5d6-d624-ad77-3f1ebd4edb17,2002-12-05,2003-02-18,ea4088e3-19a1-51ba-ec26-5c3866e0329d,963bd5ec-b33a-f639-633a-e76ee7d883e3,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+cb7e9b92-5274-bc2b-15fa-68eeeae3a423,1976-11-07,,d5bf136f-3183-96b3-6c3d-178d154ddeda,e2a9e07c-eea0-3148-8e97-5c9090e2acfd,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+b0c8ad25-b063-2c92-856b-2cbbe1ff219a,2008-06-16,2008-09-14,d5bf136f-3183-96b3-6c3d-178d154ddeda,17cc3636-3f8b-b928-83b1-fb50e0169f0b,385691007,Fracture care,65966004,Fracture of forearm
+74e88b17-8de5-a877-f4d3-8c226712a389,2012-12-30,2013-01-29,f8d24486-3c62-aede-a4a7-8b9e01e34d87,c8ff66c2-6c7a-aae4-2a6f-891c100c11f1,385691007,Fracture care,359817006,Closed fracture of hip
+7aa21c99-d9a7-b0de-2643-0599769b26f9,2015-01-19,2015-02-02,f8d24486-3c62-aede-a4a7-8b9e01e34d87,bf2dd182-4acf-5283-dbc4-d06871574e0f,225358003,Wound care,283385000,Laceration of thigh
+d0963d8f-10e5-40ab-197e-1175a8624165,1937-04-18,,9d7c5f1e-1b95-ad91-1223-97f1559e709a,51012de7-30ae-8725-56a5-ba0e43506570,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+758aa755-4f51-3bf1-4a02-777daee60019,1945-06-03,,9d7c5f1e-1b95-ad91-1223-97f1559e709a,8a25f39b-9228-b65b-53c8-8504688dde39,698360004,Diabetes self management plan,15777000,Prediabetes
+a4c0acd8-e15b-b524-4558-f007a925df82,1971-10-31,,9d7c5f1e-1b95-ad91-1223-97f1559e709a,14e53cc9-b1b9-4090-d614-79512dc2fd15,734163000,Care Plan,,
+a8d1b9c7-3ce1-d638-4313-f911272c6684,1949-02-04,,c12614ed-2db3-cb59-33c6-be45d445192e,b89d6aee-182a-16e6-d87b-3e8c83c64c3b,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+a296b500-8180-1d07-f671-657149031993,1981-08-07,,c12614ed-2db3-cb59-33c6-be45d445192e,9e2de40b-c19c-0528-a03b-5c5fbe6536d2,698360004,Diabetes self management plan,15777000,Prediabetes
+80bada2f-5ccf-bd58-c726-89354cabf202,2004-09-26,,5a3fb822-49d4-45e5-b1d5-080cf9a4b5f5,359646ec-e56a-0c53-cacf-7736196db2c6,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+47142532-f9f4-4f1a-77aa-1b8e92b92666,1976-12-31,,8e398de9-2661-6056-a6ca-306d47bb8b11,93f8dcf8-43de-4a27-fc6a-dcd802fe3cfd,698360004,Diabetes self management plan,15777000,Prediabetes
+08308b13-3156-be58-df6c-b57cccc53cff,1989-02-17,,8e398de9-2661-6056-a6ca-306d47bb8b11,ee5d1d9e-280e-7e9f-8c69-e34586c90aca,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+3548e40c-364e-76c3-68fb-d6a7495ec4b8,2002-04-12,,8e398de9-2661-6056-a6ca-306d47bb8b11,bebd5f43-8b6b-2473-9832-d406f3199969,386257007,Demential management,26929004,Alzheimer's disease (disorder)
+c3082f2e-2de0-7358-dfa9-7018f7a1c844,1985-09-10,,c0aaafec-b34b-94ae-71e2-cf4f5fe91966,9258387a-b4b5-bb81-3ad4-41a33aa01157,384758001,Self-care interventions (procedure),,
+a7b7f90f-2c5c-853e-bbd6-87a8e991df33,1987-06-22,,c0aaafec-b34b-94ae-71e2-cf4f5fe91966,15a4d49c-b70b-ef73-c8d7-f7a4d75e2262,699728000,Asthma self management,233678006,Childhood asthma
+9a02130e-b759-c3a0-8bb7-33dee538604f,2012-09-29,,c0aaafec-b34b-94ae-71e2-cf4f5fe91966,d6ecdadf-ff07-e492-bdb5-fb3eee78ee4b,698360004,Diabetes self management plan,15777000,Prediabetes
+ec95dc6e-868e-fea2-d8e0-bfe746afa571,1966-05-08,,a63cece4-b80a-ba6f-f172-df66f4591d73,bb052cd8-9c7c-01d2-86d5-641b1a51401e,698360004,Diabetes self management plan,15777000,Prediabetes
+d03ccd80-957a-c176-4b7a-0e718c21aa23,1992-08-30,,a63cece4-b80a-ba6f-f172-df66f4591d73,9a992ced-2009-9d8c-2f80-ceb0b94a2b22,736252007,Cancer care plan,126906006,Neoplasm of prostate
+cebc65b7-d287-23b9-6f7a-57abc00f8f9e,2011-05-21,2011-05-28,a63cece4-b80a-ba6f-f172-df66f4591d73,4dd2d8e4-0cab-a72c-e68a-85dac22c55d4,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+0d2ccfe7-b03c-a899-d974-db0c5876414a,2015-08-11,2015-09-01,e3499a03-c095-c3aa-3d84-9737b3119a40,10d621f7-6dc2-0692-fe07-93f6068df5b7,225358003,Wound care,370247008,Facial laceration
+75868ff8-aa1b-412a-8b55-5c4d9f2251dc,1934-03-11,,d04ed447-16aa-89fc-359e-fe30513b9388,f7bfc70d-efeb-b021-46e0-ab6910ea9906,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+09c0f2ac-b83a-b5db-0274-9f57fd8d3368,1946-05-19,,d04ed447-16aa-89fc-359e-fe30513b9388,f1b0403a-68b7-ddf1-3e48-eefb78c7d8b1,734163000,Care Plan,449868002,Smokes tobacco daily
+c09dd978-d2b2-e57b-98a4-86e259f3ea77,1947-05-25,,d04ed447-16aa-89fc-359e-fe30513b9388,db898939-7081-1e07-3024-6aed24920335,698360004,Diabetes self management plan,15777000,Prediabetes
+d2d6390a-d232-b5a6-8bfa-eb188db0e707,1972-12-25,,d04ed447-16aa-89fc-359e-fe30513b9388,4a8f8fe3-1ff4-56b5-b8f7-a56d120edd54,408869004,Musculoskeletal care,239873007,Osteoarthritis of knee
+8466fe12-bfc1-1000-9f0d-4a898e235eac,1988-01-04,,d04ed447-16aa-89fc-359e-fe30513b9388,4750c8e4-81ef-c9b0-48a8-464c8f0783cd,736252007,Cancer care plan,126906006,Neoplasm of prostate
+2431df2b-60a5-b6b3-bd21-cbb4e55108f6,1918-06-20,,ed9d0e0d-db20-8a72-47b1-27e77ad9e623,3027852f-d110-1eac-5ccb-4eb8dadc757e,384758001,Self-care interventions (procedure),,
+eafa8bac-ac16-5928-b87b-9e6789f86a81,1961-09-08,,ed9d0e0d-db20-8a72-47b1-27e77ad9e623,baf4cf08-7072-f2e2-bb4d-908cc92f1aa3,698360004,Diabetes self management plan,44054006,Diabetes
+1ca78bce-5d25-0157-8cd3-261ac99b79aa,1961-09-08,,ed9d0e0d-db20-8a72-47b1-27e77ad9e623,baf4cf08-7072-f2e2-bb4d-908cc92f1aa3,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+c97fc30b-4af4-d88b-2f46-72437f96fbf6,1961-09-29,,ed9d0e0d-db20-8a72-47b1-27e77ad9e623,6592ad7f-b7b2-672b-37a9-8bdf0bdcd5fa,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+4d0995d7-412b-06b6-435b-ffb4287bbdb1,1975-02-04,1975-03-21,ed9d0e0d-db20-8a72-47b1-27e77ad9e623,d848b780-7836-fd61-dbb6-96f0b03bcebe,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+75c08f36-ae66-22a2-4dee-2f68921a30b3,1991-05-11,1991-06-02,fdd00483-29d6-79af-20dd-27d1e9dae804,d752344d-32bf-5f19-c5ab-73e6e3918356,225358003,Wound care,283371005,Laceration of forearm
+5824d587-aa94-d95d-93ae-c3501c7d9a7e,1995-04-21,,fdd00483-29d6-79af-20dd-27d1e9dae804,03b42cc3-47de-07d8-b787-ff2668db050d,736252007,Cancer care plan,126906006,Neoplasm of prostate
+2685e3ba-d41d-4cc4-d9cf-16473a1dfea7,1937-04-25,,bbbaa427-6b2c-548c-bdc4-0e7a97e7bd41,0d1eeeae-3403-d7f8-dba8-a43717a877b8,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+a6c64457-e612-20d7-e5bd-d2a0287e94b5,1953-07-26,,bbbaa427-6b2c-548c-bdc4-0e7a97e7bd41,e2b36528-e2fe-3d81-2fa5-512e11806dcf,734163000,Care Plan,449868002,Smokes tobacco daily
+049a168a-d50d-9e5a-32d0-b001d662a3ae,1983-05-31,1983-06-28,bbbaa427-6b2c-548c-bdc4-0e7a97e7bd41,ca05222d-0f89-3361-4282-50081bc0033f,408869004,Musculoskeletal care,39848009,Whiplash injury to neck
+19abad79-c9d1-dfc5-bc32-dbd3e6fd53e4,1985-02-10,,bbbaa427-6b2c-548c-bdc4-0e7a97e7bd41,82c2ec89-a625-c4bb-c797-b199359afda5,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+fde67ba9-c8ef-a536-04ce-acca8ce24e85,1931-05-23,,d4750880-1ec9-f94e-85a2-139e276ed987,a283c884-1606-a6cd-bb2d-3360433d747b,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+c1326a7e-5048-6e0f-be27-6ef2acf54d54,1933-06-03,,d4750880-1ec9-f94e-85a2-139e276ed987,06b245b0-e2de-941a-f9d2-561f3675fd1e,734163000,Care Plan,449868002,Smokes tobacco daily
+d8405194-41fd-2ddb-01c5-297461709a6d,1943-07-31,,d4750880-1ec9-f94e-85a2-139e276ed987,c145e131-b02a-0d8b-b026-192ec90d4335,698360004,Diabetes self management plan,15777000,Prediabetes
+2912f5ba-598f-2513-8647-1915882eef14,1959-03-18,,d4750880-1ec9-f94e-85a2-139e276ed987,cf141e9d-5f5b-316d-8c00-b2b4c2833173,736254008,Psychiatry care plan,47505003,Posttraumatic stress disorder
+611e061e-f08f-6209-b966-8fc9d99bcaab,1972-03-07,1972-03-21,f7d0d961-c6ef-b3c5-4383-c4ca2d5579f6,35ab8ab2-66d1-1800-4c1e-2fb4bf2e31e7,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+0b062db5-7528-d106-6f92-b58ad9cf17b4,1973-07-09,,f7d0d961-c6ef-b3c5-4383-c4ca2d5579f6,4aaaf0a3-f538-0603-b2fe-64593eabcf37,182964004,Terminal care,424132000,Non-small cell carcinoma of lung  TNM stage 1 (disorder)
+7b3cdb0f-7cc1-d6a0-c90d-1243f30735e1,1940-11-10,,bef35940-43ec-f362-41ef-6bf479b25c8a,1c4a4e68-2a92-25ec-6ea6-e47cb7d4c1da,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+cf192fcc-c172-7a23-835b-d7c03aa79c59,1950-01-01,,bef35940-43ec-f362-41ef-6bf479b25c8a,bc595cdd-5161-a578-1f1c-b06b1e1f1704,698360004,Diabetes self management plan,44054006,Diabetes
+fcd12ddf-f7be-bdeb-a2cd-4e202de18054,1991-09-15,,bef35940-43ec-f362-41ef-6bf479b25c8a,5aae84cf-943b-99e3-2296-18342a53405e,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+d68bf061-9e15-3b91-724b-2adc0ee5d29d,1991-09-23,,bef35940-43ec-f362-41ef-6bf479b25c8a,967ebdfa-5641-169f-1229-ffd3318e920c,734163000,Care plan (record artifact),55680006,Drug overdose
+a700746b-da94-a730-e6af-68db4cbeddfe,1999-03-17,1999-06-15,bef35940-43ec-f362-41ef-6bf479b25c8a,8da989ea-3e1a-4604-0c4a-5775d724627d,385691007,Fracture care,58150001,Fracture of clavicle
+de9e469d-6041-efc0-7f67-b49ec4d681bb,2001-07-04,2001-10-02,bef35940-43ec-f362-41ef-6bf479b25c8a,ebf4e169-f96f-df52-2ef9-d68c754da6dd,385691007,Fracture care,58150001,Fracture of clavicle
+9d79f093-3473-f2f7-9588-abdfb9923a8c,1972-12-10,1973-01-07,f627b6ec-e04f-d85b-a4d7-638996da1b4d,0bfff6c1-32bb-c14c-caef-56ac33c7497c,408869004,Musculoskeletal care,39848009,Whiplash injury to neck
+9a922ab6-f95d-6381-38f2-d229b42d69fa,1976-03-22,1976-04-19,f627b6ec-e04f-d85b-a4d7-638996da1b4d,88a71261-33c7-1d2c-4a8a-9d8c1670f2bb,408869004,Musculoskeletal care,39848009,Whiplash injury to neck
+182c4261-b29c-48d0-4815-18fbef617cc1,1978-08-18,,f627b6ec-e04f-d85b-a4d7-638996da1b4d,087ea845-0f9f-01d8-bc21-8073ab2c7f92,408869004,Musculoskeletal care,239873007,Osteoarthritis of knee
+acdefd32-026e-16f6-6c32-9eb7bb4ee7ca,1979-06-27,1980-02-06,f627b6ec-e04f-d85b-a4d7-638996da1b4d,fa33ef08-8e3c-e7d1-46de-703f7cad02e8,134435003,Routine antenatal care,72892002,Normal pregnancy
+5002e78a-d0fd-0351-ee4b-d4c4befe9335,1994-04-25,,f950de3b-9a78-f4fa-cc65-4170378d09bc,6ec0cbf9-f747-8c0b-acc3-ee8e381d7aea,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+6c51e53d-4599-689b-b76b-202c963796a5,2008-07-13,2009-06-29,f950de3b-9a78-f4fa-cc65-4170378d09bc,4680f0ca-41a5-9fab-aac2-14765823e534,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+da807487-4a37-8096-cbaf-c7f34c898f17,2011-07-11,,f950de3b-9a78-f4fa-cc65-4170378d09bc,d1628d85-0a83-395f-7840-604a37e4da01,386257007,Demential management,26929004,Alzheimer's disease (disorder)
+1d594628-f9f9-6f2d-b7f2-1a4e17f70eb0,1973-05-28,,f9378d08-9d50-a556-fd6a-03f52195ab76,a18be098-1414-e671-c539-228581f8b524,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+1df3a907-c236-aded-d56c-8e030c0658b4,2005-09-03,2005-09-24,f9378d08-9d50-a556-fd6a-03f52195ab76,8eeb8dcc-6039-b3c6-11de-549134711bf2,225358003,Wound care,370247008,Facial laceration
+1bca52f5-67d9-c4d3-abdd-dc9ca71f57c2,2008-09-29,,f9378d08-9d50-a556-fd6a-03f52195ab76,bf3e9e4a-4a30-f140-0e9b-88ce30b81a41,386257007,Demential management,26929004,Alzheimer's disease (disorder)
+930c9850-3dcd-0b5c-438d-2aecbe835434,2012-04-24,2012-11-27,bc02e796-3399-dd1c-c07a-e9f0bcb677d7,b6b3ee95-7fdb-13d1-4004-d826b54e763b,134435003,Routine antenatal care,72892002,Normal pregnancy
+43a50a20-520a-c578-518e-cc2bb593d0de,2012-06-12,2012-06-26,bc02e796-3399-dd1c-c07a-e9f0bcb677d7,d38aff09-199f-6547-126c-2a26d118638d,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+01c54cd6-b57b-8671-6b41-8bc2cbcd8778,1961-03-27,,a92c8d5d-4311-3a81-065d-5c8974d39ae4,a456b4ea-6e8c-a857-fc02-109db5b72bd1,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+e474ec31-9cb8-fe52-f858-8832600a62ff,1962-04-02,,a92c8d5d-4311-3a81-065d-5c8974d39ae4,b829e5bb-1f15-03ae-534a-25fb9508d9f1,698360004,Diabetes self management plan,15777000,Prediabetes
+c78c6e92-2395-af06-3b74-e6198296b8ca,1982-03-09,1982-03-16,a92c8d5d-4311-3a81-065d-5c8974d39ae4,19b176ee-1fe8-c85b-6d67-d28dac2bb938,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+01ce49fd-7c8a-9cf7-fdf0-45c33713e30c,2006-07-10,,a92c8d5d-4311-3a81-065d-5c8974d39ae4,7b931bc0-9ade-eaf8-530f-9a0d4b7bf5c7,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+1f0d6b37-5530-0768-6f0f-0eaedc6d8686,1943-10-28,,a07edfaa-4bfd-02a4-8260-4e82fc9ff00d,b84937d0-b5f3-d7df-d4c7-64543f42a131,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+b0f754e3-d00d-4bd2-305e-e73fa4cf0d1d,1946-11-14,,a07edfaa-4bfd-02a4-8260-4e82fc9ff00d,3b584884-93b0-9923-c275-cb7e04fc8b39,698360004,Diabetes self management plan,44054006,Diabetes
+f705b071-ad94-d088-2cef-bf79d8f73d18,1955-01-07,,dfd2cc2e-1f6a-80f1-7755-c8e6e5d2ba2f,afd71afd-4d3c-7d4b-e422-d8cf03b0ab17,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+1c0b5cea-dd52-52ca-d598-98cfa8cf8569,1989-07-22,,dfd2cc2e-1f6a-80f1-7755-c8e6e5d2ba2f,5952a6fe-66f1-e24f-d18b-a1fface5bbec,698360004,Diabetes self management plan,44054006,Diabetes
+2544811a-e66b-346b-e54b-64aa19869999,1992-08-29,,dfd2cc2e-1f6a-80f1-7755-c8e6e5d2ba2f,cbf93a34-3854-df53-9578-1c41b11a1b0a,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+62bc2886-cca3-a206-355b-096936a25302,2012-04-15,2012-04-29,dfd2cc2e-1f6a-80f1-7755-c8e6e5d2ba2f,377c86ab-82ae-5ed1-8208-128377b5078e,225358003,Wound care,283371005,Laceration of forearm
+cbcdb1d3-2f06-5057-5a4c-103987f6dad8,2014-10-03,2014-12-05,dfd2cc2e-1f6a-80f1-7755-c8e6e5d2ba2f,e067f489-6f8b-ad57-93d3-3a246d0b459b,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+2dd0d47f-9413-bffb-ab08-4f47e5aca8e0,2013-06-29,2013-08-28,98fb286f-f463-5d73-aafa-7258af6cbbc3,cbae179c-fe9f-cd45-7544-88eb1cc5cf7d,385691007,Fracture care,58150001,Fracture of clavicle
+985d88cc-cfc0-744b-086b-0c2e9bc63d36,1958-08-25,,e7395eb7-661b-66b6-cc17-118f6d7ad3bb,d591b70c-3475-5844-8cc5-9d14ef7b09fb,736254008,Psychiatry care plan,47505003,Posttraumatic stress disorder
+80c0d38f-9a53-75a2-dc05-ea4d286724d8,1991-09-23,,e7395eb7-661b-66b6-cc17-118f6d7ad3bb,e53eda6d-a093-44df-6192-6ed3ff36dfb9,698360004,Diabetes self management plan,15777000,Prediabetes
+ffed3cd0-17bc-8760-7241-14d9c975a382,2012-04-19,2012-06-18,e7395eb7-661b-66b6-cc17-118f6d7ad3bb,a47a0351-1d80-242d-e734-63d0ebadd46d,385691007,Fracture care,263102004,Fracture subluxation of wrist
+f6ef277d-f54f-c62d-bc94-de06de9fce4c,2012-05-06,2012-05-13,e7395eb7-661b-66b6-cc17-118f6d7ad3bb,aa7939d8-9e43-783c-d174-2a35fdd7c1b5,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+9f34f0e9-3aaa-ed37-f19f-e3373e53abcb,2015-01-27,,e7395eb7-661b-66b6-cc17-118f6d7ad3bb,a624de70-6271-d895-169d-34ed5ec283d8,736252007,Cancer care plan,126906006,Neoplasm of prostate
+616fb7b1-32de-d462-088f-a9d93e5e7533,2015-02-03,2015-03-05,e7395eb7-661b-66b6-cc17-118f6d7ad3bb,812b24f6-c812-2c36-4868-e0f04cc431b9,385691007,Fracture care,16114001,Fracture of ankle
+51a95fbd-0d6f-d0d4-f94d-373565c4cd4d,1917-06-08,,f87361ef-6d55-11be-9354-c79b1c886e84,35665d62-881e-b21b-4b59-caac76792732,384758001,Self-care interventions (procedure),,
+d623b9d1-b52f-006e-c5af-b3b6caf2d78d,1960-05-01,,f87361ef-6d55-11be-9354-c79b1c886e84,54288f22-0ce7-702b-e7c0-f7baf3c76032,408869004,Musculoskeletal care,239873007,Osteoarthritis of knee
+1462d7ab-9bb9-ebfc-1dab-7802115738ea,1916-07-06,,f5638068-ae78-3262-e5be-b9fed86abeee,97fece2b-dc10-fe63-c60a-3bd4feeafcfd,384758001,Self-care interventions (procedure),,
+c4212b85-891d-6e06-3b60-4e4dca8e2f43,1976-04-27,1990-02-11,f5638068-ae78-3262-e5be-b9fed86abeee,05574639-aa9d-c3ff-8d45-5aef99290c20,408869004,Musculoskeletal care,239873007,Osteoarthritis of knee
+4b183b4a-c4cf-6053-faf9-46a0fee16688,1990-01-04,,f5638068-ae78-3262-e5be-b9fed86abeee,a43bc7d6-17d2-6f06-8e2f-a3dc094b8bee,170836005,Allergic disorder monitoring,,
+a46f642b-3100-941a-8e1f-59e4872f24b4,1990-10-04,,f5638068-ae78-3262-e5be-b9fed86abeee,e947b577-5862-c832-5f00-7bedf66a1303,386257007,Demential management,26929004,Alzheimer's disease (disorder)
+6e96a5ab-cf09-a240-c045-746407fa7635,1991-03-08,1991-06-06,f5638068-ae78-3262-e5be-b9fed86abeee,b2b8e0c4-47fe-61f6-acb4-863f88aaa44e,385691007,Fracture care,16114001,Fracture of ankle
+4cb4fb85-922a-c3b4-07fb-94c574010c9d,1994-10-18,,f070d5be-a8ad-f67b-14ed-32839e1545f0,55fd77c3-ddea-d536-bc88-6c53f87ee7b0,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+3585ce45-67dd-032c-45fc-7960132465bd,1997-11-04,,f070d5be-a8ad-f67b-14ed-32839e1545f0,e596ff42-b143-9599-0ca5-d911a7fb18b2,698360004,Diabetes self management plan,15777000,Prediabetes
+bd187ec6-aca3-8780-ef3f-c88100d20041,2011-06-02,2012-01-31,f070d5be-a8ad-f67b-14ed-32839e1545f0,57d82bb2-237a-7380-7743-025eb2df5904,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+bf45cdf4-b1ce-9493-2113-f1c1840a8b2b,2011-10-11,2012-05-22,f070d5be-a8ad-f67b-14ed-32839e1545f0,ac101129-dbf8-37ec-91bc-923fdb708b46,134435003,Routine antenatal care,72892002,Normal pregnancy
+99b2d0fe-13a5-ca77-e157-ba1dfa08811b,2013-12-23,2013-12-30,f070d5be-a8ad-f67b-14ed-32839e1545f0,4b94e67b-251a-f2f3-72f8-32a7e27f976a,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+8f951e07-dd96-4dee-3187-096b733880ee,1957-08-12,,f5eca54e-cb4d-ba01-91d1-3b38092b4851,076db753-f93a-3ec3-03a9-bafc968d7b14,384758001,Self-care interventions (procedure),,
+d756a54e-8035-8590-f482-3518534f68d9,1973-09-08,,f5eca54e-cb4d-ba01-91d1-3b38092b4851,cb751d38-9462-4ea0-5d4e-735350412aab,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+008abe1f-1366-b4e3-fe58-8ba3d7954268,1981-10-24,,f5eca54e-cb4d-ba01-91d1-3b38092b4851,e7180a4c-2ba0-a1f5-243b-01e6495ac751,698360004,Diabetes self management plan,15777000,Prediabetes
+b3c8dcb8-7473-2521-76b6-f4e3e5d160b8,2009-09-11,,b5b59aae-9e13-1737-c80c-8e197223ce1c,fba038f6-b396-0c10-e359-ba56d1a19589,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+1db7557a-2839-de98-c586-978fe5c40718,1964-06-30,,f1610c48-cf3c-5383-6ef6-64fedd856808,5e6234ce-0b50-5200-819e-e6cdced3138d,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+600149c0-2536-d924-0aaa-efa808bd6871,1993-05-23,,cc2434ef-2091-fc9a-9d09-01af20bf3e6b,107afe9e-4e39-e50b-e4a4-c62fda73ce01,412776001,Chronic obstructive pulmonary disease clinical management plan,185086009,Chronic obstructive bronchitis (disorder)
+3ddac117-a22d-0928-75f8-fc1664725bd5,2010-10-29,2011-01-04,cc2434ef-2091-fc9a-9d09-01af20bf3e6b,a3d877a1-a17d-fc43-ae5b-d1b45778ed8b,91251008,Physical therapy procedure,30832001,Rupture of patellar tendon
+174f4e7d-7ef7-f8d2-85d4-3e2a22d510e3,2011-11-30,2011-12-14,cc2434ef-2091-fc9a-9d09-01af20bf3e6b,cf5a3d89-cc28-de88-45ad-880da915ab38,225358003,Wound care,283371005,Laceration of forearm
+f24ad207-3dc6-4b1d-d339-be838ed1ebd3,2014-01-13,2014-09-07,cc2434ef-2091-fc9a-9d09-01af20bf3e6b,4a6143cd-aac1-0545-035e-1a6301068ae6,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+e3e07f7b-8402-d391-9084-3ec4276c2cfd,1991-04-27,,8a7fa1f4-04b5-d267-344b-dc1acfcb8bf0,1470c059-0962-bebf-f2e5-5fffbde26ea3,698360004,Diabetes self management plan,15777000,Prediabetes
+6fdc0c0d-2672-8315-2708-232aaa65a5a9,1994-07-11,,8a7fa1f4-04b5-d267-344b-dc1acfcb8bf0,885420ed-14fa-0a82-696b-ed8d04a6b83b,734163000,Care plan (record artifact),55680006,Drug overdose
+999655c1-4bec-50e6-2e26-8744674a25c7,2012-02-16,2012-03-01,8a7fa1f4-04b5-d267-344b-dc1acfcb8bf0,3bcf5791-81bc-6b24-a313-2c0ab6d4dbf1,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+1df279bd-68d9-4369-e669-4f551c10b80b,2013-03-03,2013-04-02,8a7fa1f4-04b5-d267-344b-dc1acfcb8bf0,d2d3ee41-94e6-30d6-36d3-15e1d243b7ab,385691007,Fracture care,58150001,Fracture of clavicle
+32fabba5-eb33-af69-7c91-6c76f6427bde,1949-05-01,,7a58f76a-017c-283a-9db6-4dc7a320eca2,67dd418f-5363-c951-4e4d-9d12192c61f7,384758001,Self-care interventions (procedure),,
+82a2fcc0-1487-5791-c5b0-7f16ffbcd4ea,1985-03-27,,7a58f76a-017c-283a-9db6-4dc7a320eca2,21e7f8d0-2add-34e5-fbdc-423dd0d9df9d,698360004,Diabetes self management plan,15777000,Prediabetes
+ed9d3a14-9197-a7e7-0581-cd9e41becfaa,2016-02-09,2016-04-20,7a58f76a-017c-283a-9db6-4dc7a320eca2,35a2390c-f4db-32a0-47f6-175fbcdb2b5b,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+9f198673-173a-1009-2497-a88a7b922e1f,1954-04-08,,ede5426b-2777-ad8d-fbb6-589b19861625,026073b4-d3e5-24d7-5b1a-b846e69cf8e1,698360004,Diabetes self management plan,15777000,Prediabetes
+2f187b19-5349-6c02-6559-6961c4b61d39,1997-07-22,,ede5426b-2777-ad8d-fbb6-589b19861625,5fddb1bd-c16a-f596-5372-1680116082ba,734163000,Care plan (record artifact),55680006,Drug overdose
+f559690e-686d-ce9c-e649-49391d0e7a7e,2003-11-20,,ede5426b-2777-ad8d-fbb6-589b19861625,3b06810a-7c59-adfd-179d-5cfcee97686d,386257007,Demential management,26929004,Alzheimer's disease (disorder)
+c1803661-51ff-035f-ac45-f30862ea4beb,1953-11-18,,f91ec2d7-f960-de83-52dd-b2adc1d3a3ce,bb712d79-b71e-baf5-c8ee-5ecd63e1e523,384758001,Self-care interventions (procedure),,
+9062bae7-c34b-61bc-a8ef-c8ea9b72117d,1982-10-14,,f91ec2d7-f960-de83-52dd-b2adc1d3a3ce,2a2b3fff-ae85-a90c-13c7-f9a4743b34be,408869004,Musculoskeletal care,239873007,Osteoarthritis of knee
+27a5a60e-bf39-c703-7247-9828b751b897,1991-11-02,,f91ec2d7-f960-de83-52dd-b2adc1d3a3ce,9fadc6dd-7710-833f-3973-5badb443bbbb,698360004,Diabetes self management plan,44054006,Diabetes
+d23a4208-1bbb-c4c7-d70f-8a20448d567b,2013-11-02,,f91ec2d7-f960-de83-52dd-b2adc1d3a3ce,fc489630-b6e8-c8bb-402e-d2a7d1f0b9ae,734163000,Care Plan,449868002,Smokes tobacco daily
+705bf11f-6ecf-de83-fc63-b6ba45cc423e,2015-03-02,,f91ec2d7-f960-de83-52dd-b2adc1d3a3ce,fba86eb3-3d0b-38cf-4d2b-d76c32d70f4b,736252007,Cancer care plan,126906006,Neoplasm of prostate
+463624cf-2361-67e1-8bf2-a4483e8940f1,1969-10-01,1971-08-08,cd59c9f2-6d51-ff9f-89f5-844701d05fb0,19120a4f-c22d-9faf-d41e-25b81d3678e5,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+5ba4d619-ef16-a770-e719-c05a0a82b9e9,1972-08-20,,cd59c9f2-6d51-ff9f-89f5-844701d05fb0,40d97421-cf6b-af2c-4dc0-e65f0d117355,735984001,Heart failure self management plan,88805009,Chronic congestive heart failure (disorder)
