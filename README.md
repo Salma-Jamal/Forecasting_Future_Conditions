@@ -273,6 +273,3 @@ patient-003,0.1247,0.0319
 
 - The current pipeline does not set global random seeds. Model initialization, data-loader shuffling, and anchor sampling can therefore vary across runs.
 - Augmented anchors use Python's `random` module. Add explicit Python, NumPy, and PyTorch seeds if exact reproducibility is required.
-## License
-
-No license file is currently included. Add a license before distributing or reusing the project outside its current context.
